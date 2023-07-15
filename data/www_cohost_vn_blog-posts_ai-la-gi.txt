@@ -1,0 +1,103 @@
+AI là gì? Mọi điều cần biết về trí tuệ nhân tạo | Cohost AI
+AI, hay trí tuệ nhân tạo, là một “buzzword” trong những năm gần đây, những từ chuyên ngành nhưng trở thành từ khóa hot, được nhiều người sử dụng. Chúng ta có thể không hiểu hết về nó, nhưng vẫn sử dụng thường xuyên. Nhưng AI đang là xu hướng phát triển quan trọng, thay vì chỉ sử dụng, mỗi người nên thực sự hiểu về nó.
+Ở bài viết này, Cohost sẽ đem đến cho bạn mọi thông tin bạn cần biết về trí tuệ nhân tạo nhé. 
+1. Lịch sử của AI
+Trước hết hãy cùng tìm hiểu về lịch sử của AI nhé. 
+a. Khởi đầu
+Cụm từ Trí tuệ nhân tạo được tạo ra bởi John McCarthy vào năm 1956, khi ông tổ chức một hội thảo về chủ đề này. Đây có thể xem là khởi đầu cho việc nghiên cứu, phát triển AI, tuy nhiên hành trình này đã manh nha từ trước. 
+Nhà khoa học John McCarthy
+Nhà khoa học Vannevar Bush đã trình bày ý tưởng của mình về một hệ thống có khả năng nhân rộng kiến thức và trí tuệ của loài người trong bài luận As We May Think. 5 năm sau, Alan Turing có một bài viết về quan điểm máy móc có khả năng mô phỏng con người và khả năng làm những việc yêu cầu trí thông minh, như chơi cờ.  
+b. Phát triển
+Sau mở đầu vào năm 1955, AI tiếp tục phát triển qua nhiều giai đoạn:
+* Giai đoạn vàng (1956 - 1974)
+Năm 1966: Các nhà nghiên cứu nhấn mạnh việc phát triển các thuật toán để giải quyết các vấn đề toán học. Cũng trong năm này, chatbot đầu tiên, Eliza, được Joseph Weizenbaum phát minh 
+Năm 1972: Robot hình người đầu tiên, WABOT-1, được phát triển tại Nhật Bản
+* Mùa đông AI (1974 - 1980)
+Mùa đông AI là giai đoạn mà việc tài trợ và hứng thú giảm sút đối với nghiên cứu trí tuệ nhân tạo. Cụm từ này được tạo ra, với ý nghĩa tương đồng với mùa đông nguyên tử. Mùa đông AI đầu tiên kéo dài từ năm 1974 đến 1980. 
+* Sự bùng nổ của AI (1980 - 1987)
+Mùa đông AI đầu tiên kết thúc vào năm 1980 với sự xuất hiện của Expert Systems (hệ thống chuyên gia). Expert Systems được lập trình để cạnh tranh với khả năng đưa ra quyết định của con người. Rất nhanh chóng, hệ thống này được nhiều công ty trên khắp thế giới đưa vào sử dụng. 
+Việc nghiên cứu AI tại thời điểm này tập trung vào tổng hợp kiến thức từ tất cả các chuyên gia. Cũng trong những năm 1980, sự trỗi dậy của triết lý Connectionism cũng đem đến nhiều cơ hội cho trí tuệ nhân tạo. Theo triết lý này, kết nối giữa các điểm nút tạo nên mạng tương tác khổng lồ. Trong mạng tương tác này, nhiều quá trình diễn ra đồng thời, một số quá trình nhất định diễn ra song song, được nhóm vào một hệ thống thứ bậc và đem lại kết quả là suy nghĩ hay hành động. 
+*Mùa đông AI thứ hai (1987 - 1993)
+Mùa đông AI thứ hai lại đến vào năm 1987. Có hai lý do đằng sau tình trạng nguội lạnh với trí tuệ nhân tạo lần này
+Những Expert Systems được phát triển trước đó, đặc biệt là với sự xuất hiện của XCON, không cho thấy sự hiệu quả của mình. Chúng tốn quá nhiều tiền để vận hành. Nhưng kết quả lại không đáp ứng được những kỳ vọng: chậm chạp, vụng về, khó cập nhật, … 
+Trong khi những chiếc máy Expert Systems chưa chứng minh được tính hiệu quả, những chiếc máy tính bàn xuất hiện. Chúng không hề kém cạnh với những chiếc máy Expert Systems tốn diện tích, không thân thiện với người dùng, vì vậy ngày càng trở nên phổ biến. 
+* Sự xuất hiện của các agent thông minh (1993 - 2011)
+Đầu thập niên 90, nghiên cứu công nghệ AI chuyển hướng tập trung vào một thứ mới, agent thông minh. Những agent này có thể sử dụng cho các dịch vụ xem lại thời sự, mua sắm trực tuyến, lướt mạng. Chúng có thể được gọi là agent hoặc bot. Với việc sử dụng các chương trình Big Data, các agent này dần dần trở thành những trợ lý công nghệ ảo.
+Một số phát triển nổi bật trong thời kỳ này có thể kể đến:
+Năm 1997
+: IBM Deep Blue đánh bại nhà vô địch cờ vua thế giới, Gary Kasparov
+Năm 2002
+: AI bước vào cuộc sống gia đình lần đầu tiên trong hình dạng một chiếc máy hút bụi, Roomba
+Năm 2006
+: AI bắt đầu được ứng dụng trong các doanh nghiệp. Facebook, Twitter và Netflix bắt đầu sử dụng AI.
+* Deep Learning, Big Data (2011 đến nay)
+Thời kỳ phát triển mới nhất của trí tuệ nhân tạo có thể gói gọn trong 3 từ: Deep Learning, Big Data và General AI. Các công ty công nghệ lớn đều đang cạnh tranh trong việc nghiên cứu, phát triển và ứng dụng công nghệ AI trong những sản phẩm của mình. Có thể nói, cuộc chạy đua công nghệ chưa bao giờ khốc liệt hơn. 
+Big Data là bước phát triển mới của trí tuệ nhân tạo
+AI giờ đây có thể là những con robot hỗ trợ các công việc thể chất, giúp các nhà quản trị đưa ra quyết định kinh doanh, hoặc ứng dụng trong các chương trình chăm sóc khách hàng, trả lời điện thoại. 
+2. AI là gì? 
+a. Định nghĩa
+AI là viết tắt của Artificial Intelligence, Trí tuệ Nhân tạo, hay chúng ta còn gọi là Công nghệ Trí tuệ Nhân tạo, Công nghệ AI. AI là ngành khoa học nghiên cứu và phát triển những cỗ máy thông minh, những chương trình máy tính đặc biệt thông minh. 
+AI là ngành khoa học nghiên cứu và phát triển những cỗ máy thông minh, những chương trình máy tính đặc biệt thông minh
+Nhưng trí thông minh của những chiếc máy này cụ thể là như thế nào? Trí tuệ nhân tạo là khả năng đạt được mục tiêu trong cuộc sống. Nhưng mục tiêu được phân ra nhiều loại, và cách thức đạt được chúng cũng có rất nhiều. Vậy nên, định nghĩa về thông minh là rất rộng, không hề bị bó hẹp. 
+b. So sánh trí thông minh con người và trí tuệ nhân tạo
+Trí thông minh con người có thể được chia thành 9 loại:
+Natural Smart - Trí thông minh thiên nhiên
+Musical Smart - Trí thông minh âm nhạc
+Logical - Mathematical - Trí thông minh logic - toán học
+Interpersonal Intelligence - Trí thông minh tương tác giữa cá nhân
+Bodily - Kinesthetic Intelligence - Trí thông minh cơ thể
+Linguistic Intelligence - Trí thông minh ngôn ngữ
+Intra-personal Intelligence - Trí thông minh nội tâm
+Spatial Intelligence - Trí thông minh không gian
+Existential Intelligence - Trí thông minh hiện sinh
+So với trí tuệ của con người, AI đã đạt được một số thành tựu nhất định 
+Nếu nhìn vào công nghệ 
+ hiện nay, ta có thể thấy 
+ đã đạt được một vài loại thông minh như thông minh logic hoặc ngôn ngữ. Nếu chúng ta đặt một câu hỏi đơn giản thế này: “Máy móc có thông minh không?”, câu trả lời không thể đơn giản như vậy được. 
+có thể hoàn thành một số công việc, nhiệm vụ rất ấn tượng, nhanh hơn, hiệu quả hơn và tiết kiệm thời gian hơn so với con người. Những chương trình 
+có thể làm được điều đó có thể coi như thông minh. 
+Nhưng đương nhiên, so với một con người bình thường, để trí tuệ thông minh đạt được sự thông minh như con người là một hành trình rất dài. Phát triển trí thông minh tương tác giữa cá nhân, nội tâm hay hiện sinh là rất khó. 
+3. Các loại trí tuệ nhân tạo
+AI có thể được phân loại dựa trên hai cách: theo khả năng và theo tính năng
+a. Theo khả năng
+Theo khả năng, trí tuệ nhân tạo có thể được chia thành 
+3 loại
+* Weak AI - AI Yếu:
+Đây là loại AI duy nhất mà chúng ta có thể phát triển ở thời điểm hiện tại. Từ chính xác nhất để nói về Weak AI là hướng về mục tiêu, chỉ có thể thực hiện một công việc duy nhất. Khi thực hiện những công việc này, chúng rất thông minh, có thể đạt kết quả giống như hoặc vượt trội so với con người.
+Weak AI chưa mô phỏng được trí thông minh con người 
+Tuy nhiên, chúng có nhiều hạn chế. Weak AI gần như không mô phỏng trí tuệ, hành vi của con người, và chỉ hoạt động trong một số ngữ cảnh nhất định. 
+* Strong AI - AI Mạnh
+AI mạnh có thể được chia nhỏ thành 2 loại: Artificial General Intelligence (AGI) và Artificial Superintelligence (ASI)
+AGI
+AGI là những chiếc máy có khả năng mô phỏng trí tuệ, hành vi của con người, có khả năng học và áp dụng trí thông minh của mình để giải quyết các vấn đề. AGI có khả năng suy nghĩ, hiểu và hành động giống như con người trong bất cứ hoàn cảnh nào. 
+Hiện tại, chúng ta vẫn chưa phát triển được AGI. Để đạt được điều này, các nhà nghiên cứu sẽ phải tìm cách để khiến máy móc có “nhận thức”, lập trình được tất cả những khả năng nhận thức. Máy móc phải có khả năng học trải nghiệm, ứng dụng những gì đã học để giải quyết các vấn đề khác, thay vì chỉ cải thiện khả năng ở những vấn đề đã gặp qua. 
+ASI
+ASI là công nghệ AI giả thuyết. Chúng không dừng lại ở việc mô phỏng con người mà có khả năng tự nhận thức, vượt qua cả trí thông minh và khả năng của con người. 
+Nếu AGI đang có dấu hiệu xuất hiện trong thực tiễn, thì ASI chỉ mới xuất hiện trong những cuốn sách khoa học viễn tưởng. Trong đó, máy móc có khả năng vượt qua con người, đe dọa hoặc thống trị loài người. Chúng có cảm xúc, có nhu cầu và có những khao khát của riêng mình.
+b. Theo tính năng
+Theo tính năng, trí tuệ nhân tạo có thể được chia thành 
+4 loại
+Reactive Machine
+AI phản ứng chỉ phân tích dữ liệu hiện tại để đưa ra quyết định 
+AI phản ứng là loại hình AI cơ bản nhất. Chúng không có khả năng lưu trữ thông tin, trải nghiệm, hay còn gọi là bộ nhớ. Thay vào đó, chúng tập trung vào hiện tại, phân tích hoàn cảnh và đưa ra cách giải quyết thích hợp nhất chứ không thể sử dụng thông tin trong quá khứ để giải quyết. 
+AI trí nhớ ngắn hạn có thể đưa ra dự đoán về tương lai 
+AI trí nhớ ngắn hạn là những chiếc máy có thể lưu giữ trải nghiệm hay dữ liệu, tuy nhiên chỉ trong một thời gian ngắn. Với khả năng này chúng có thể đưa ra dự đoán về tương lai 
+AI Lý thuyết về tâm trí có khả năng hiểu được cảm xúc con người, niềm tin và tương tác xã hội giống như con người
+AI Lý thuyết về tâm trí có khả năng hiểu được cảm xúc con người, niềm tin và tương tác xã hội giống như con người. Chúng ta chưa phát triển được loại AI này. Tuy nhiên, chúng đang trong giai đoạn khởi đầu và có thể thấy thông qua ứng dụng trong những chiếc xe tự lái. 
+Self - Aware
+AI tự nhận thức vẫn chưa được phát triển 
+AI tự nhận thức sẽ là những chiếc máy cực kỳ thông minh, có nhận thức, cảm xúc của riêng mình. Chúng thậm chí có thể thông minh hơn con người. Tuy nhiên, đây là những chiếc máy chỉ xuất hiện trong sách vở. Không ai có thể đoán trước điều gì nếu loại AI này thực sự được phát triển. 
+4. Ứng dụng của trí tuệ nhân tạo
+AI đang được ứng dụng trong nhiều lĩnh vực
+Chúng ta còn một quãng đường dài phải đi để phát triển trí tuệ nhân tạo, tạo ra những chiếc máy thông minh hơn nữa. Tuy nhiên, với những phát triển bây giờ, AI cũng đã có thể được ứng dụng vào đa dạng các lĩnh vực như:
+Y tế
+Giải trí
+Kinh doanh lưu trú
+Rất nhiều công ty lớn đang áp dụng AI
+. Để nắm bắt được nhiều điều hơn về trí tuệ nhân tạo, bạn nên tìm hiểu 
+những xu hướng công nghệ AI đáng chú ý năm 2022
+AI đang trở thành một phần không thể thiếu trong cuộc sống 
+Qua bài viết, Cohost hi vọng đã đem đến cho bạn câu trả lời thỏa đáng nhất cho câu hỏi
+ AI là gì
+ AI
+ đã phát triển trong một thời gian dài và trong tương lai chắc chắn sẽ còn phát triển hơn, được ứng dụng nhiều hơn. Cảm ơn bạn đã đón đọc bài viết. 

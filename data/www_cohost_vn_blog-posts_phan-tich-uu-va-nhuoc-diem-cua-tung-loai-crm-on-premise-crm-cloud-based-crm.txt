@@ -1,0 +1,60 @@
+Phân tích ưu và nhược điểm của từng loại CRM (On-premise CRM & Cloud based CRM) | Cohost AI
+Khách hàng quyết định sự thành bại của một doanh nghiệp. Vậy nên các doanh nghiệp rất chú trọng đến việc chăm sóc khách hàng, sử dụng các hệ thống 
+CRM
+ để tối ưu việc này. Các hệ thống 
+ cũng rất đa dạng, nhiều loại phù hợp với nhu cầu từng doanh nghiệp. CRM được chia thành 2 loại chính: 
+On-premise CRM
+Cloud-based CRM
+ưu, nhược điểm của từng loại CRM
+Trước tiên, tìm hiểu về 
+CRM là gì
+sự cần thiết của CRM trong ngành lưu trú
+ để hiểu rõ hơn thông tin cung cấp dưới đây nhé!
+On-premise CRM là gì?
+ là phần mềm lưu trữ giữ liệu tại chỗ. Những phần mềm này sẽ được cài đặt ngay tại địa điểm của khách sạn và được quản lý bởi chính các nhân viên tại khách sạn. 
+Các nhân viên IT nội bộ sẽ chịu trách nhiệm cho việc lắp đặt phần cứng và phần mềm, tích hợp 
+ với các hệ thống sẵn có khác, di chuyển các dữ liệu từ trước vào 
+. Việc quản lý hệ thống và các công việc bảo trì khác cũng sẽ do bộ phận IT nội bộ phụ trách. Với những phần mềm như thế này, khách sạn có thể tùy ý sử dụng, thay đổi để phù hợp với nhu cầu của mình.
+Cloud-based CRM là gì?
+ là hệ thống CRM dựa trên điện toán đám mây. Những công ty sử dụng hệ thống 
+ dựa trên điện toán đám mây không phải lắp đặt hệ thống này tại văn phòng của mình. Thay vào đó, họ ký hợp đồng với một nhà cung cấp để được truy cập vào hệ thống của nhà cung cấp. 
+Nhà cung cấp này sẽ chịu trách nhiệm bảo trì hệ thống, doanh nghiệp kết nối với phần mềm 
+ nhờ kết nối mạng. Dữ liệu về khách hàng được lưu trữ nhờ điện toán đám mây. Chỉ cần có kết nối mạng, các nhân viên có thể tiếp cận dữ liệu mọi lúc mọi nơi. 
+Hơn thế nữa, doanh nghiệp chỉ cần trả phí đăng ký hàng tháng và lựa chọn những tính năng cần thiết, giúp tiết kiệm chi phí.
+Phân biệt ưu, nhược điểm từng loại CRM
+Tùy chỉnh theo nhu cầu
+Khi hệ thống 
+ được sắp đặt ngay tại địa điểm công ty của bạn, bạn có quyền kiểm soát cách bạn lắp đặt và cập nhật phần mềm. Bạn có thể thực hiện các thay đổi tùy ý mà không cần đến sự trợ giúp của nhà cung cấp như khi sử dụng 
+cloud-based CRM
+Với những doanh nghiệp có nhân sự IT chất lượng cao, việc setup và cập nhật tự do, không chịu sự kiểm soát của nhà cung cấp là một lợi thế rất lớn. 
+On-premise CRM giúp tuỳ chỉnh theo nhu cầu
+Khả năng nâng cấp 
+Mặc dù hệ thống 
+ rất linh hoạt trong việc tùy chỉnh, các doanh nghiệp sẽ thấy việc mở rộng chúng khó khăn hơn nhiều so với hệ thống dựa trên điện toán đám mây. Thông thường, với một 
+CRM cloud
+, bạn chỉ cần thông báo với nhà cung cấp rằng bạn muốn có thêm tính năng nào, hoặc muốn tiếp cận thêm nhiều khách hơn nữa, nhà cung cấp sẽ giúp bạn nâng cấp.
+Tuy nhiên, với 
+on-premise CRM
+, vì đây là một hệ thống phụ thuộc vào phần cứng, doanh nghiệp sẽ cần bổ sung thêm cơ sở hạ tầng để phục vụ cho việc nâng cấp. 
+On-premise CRM có khả năng nâng cấp kém
+Chi phí trả trước thấp
+, doanh nghiệp không cần đầu tư cơ sở hạ tầng để lắp đặt. Có thể nói, chi phí này gần như bằng không. Điều này rất thích hợp với những công ty nhỏ và vừa hay các startup khi vốn đầu tư chưa nhiều. Họ không cần đầu tư một khoản lớn cho thiết bị và việc lắp đặt. 
+Tuy nhiên, chi phí trả cho nhà cung cấp hàng tháng sẽ tiêu tốn của các doanh nghiệp nhiều tiền về lâu dài so với trả phí một lần và duy nhất ngay từ đầu.
+Cloud-based CRM có chi phí trả trước thấp
+Giải pháp nhanh chóng
+Một trong những lợi ích hấp dẫn nhất của 
+ chính là doanh nghiệp có thể dễ dàng và nhanh chóng bắt đầu sử dụng chúng. Những tất cả những gì bạn cần làm lựa chọn và thanh toán cho phần mềm 
+, sau đó đăng nhập bằng những thông tin mà nhà cung cấp đưa cho bạn. 
+Việc học cách sử dụng cũng dễ dàng hơn so với 
+. Nhiều nhà cung cấp đã tinh chỉnh sản phẩm của mình dựa trên những góp ý của khách hàng để thuận lợi cho việc sử dụng. Bên cạnh đó, họ cũng có bộ phận hỗ trợ khách hàng để giúp khách học về cách hệ thống hoạt động. 
+Cloud-based CRM mang đến giải pháp nhanh chóng
+Dữ liệu có khả năng có bị hack 
+Vì dữ liệu sẽ được luân chuyển giữa đám mây để đến với các nhân viên, các vấn đề bảo mật thông tin sẽ xuất hiện, cụ thể việc dữ liệu bị hack có khả năng xảy ra khá cao. Mặc dù các nhà phát hành 
+ đặt mục tiêu hàng đầu là bảo mật, nhưng việc giao tiếp thông tin được thực hiện trên mạng internet là cốt lõi của 
+Vì lý do này, so với 
+ sẽ không có tính bảo mật bằng. Các doanh nghiệp nên chọn lựa nhà cung cấp có danh tiếng tốt về bảo mật. Hoặc có thể chọn cách lưu trữ dữ liệu đám mây riêng tư. Bằng cách này, tuy vẫn lưu trữ dữ liệu trên đám mây, các khách hàng khác của nhà cung cấp sẽ không chia sẻ đám mây cùng nhau. 
+Dữ liệu có thể bị hack khi dùng hệ thống cloud-based CRM
+Qua bài viết trên, 
+ hy vọng đã đem đến cho bạn những thông tin bổ ích về ưu, nhược điểm của từng loại CRM, cụ thể là 
+on-premise CRM 
+. Cảm ơn bạn đã đón đọc bài viết.

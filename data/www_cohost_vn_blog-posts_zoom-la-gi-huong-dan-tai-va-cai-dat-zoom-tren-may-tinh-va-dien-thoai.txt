@@ -1,0 +1,171 @@
+Zoom là gì? Hướng dẫn tải và cài đặt zoom trên máy tính và điện thoại | Cohost AI
+Từ sau sự bùng phát của đại dịch Covid-19, rất nhiều nhà trường cũng như các doanh nghiệp đã chuyển hướng sang sử dụng 
+phần mềm zoom
+ để thuận tiện hơn trong việc truyền tải và trao đổi thông tin trực tuyến. Trong bài viết hôm nay, 
+ sẽ giúp bạn hiểu hơn 
+Zoom là gì
+ và giải đáp tất tần tật những thắc mắc của người dùng về phần mềm này. 
+Zoom là gì?
+Zoom
+ là một nền tảng cho phép nhiều người được kết nối hội họp trực tuyến với nhau từ xa. Bằng việc trang bị một số thiết bị điện tử, như máy tính, điện thoại thông minh, hay máy tính bảng có kết nối wifi, người dùng có thể sử dụng để tham gia trao đổi trực tuyến dù ở bất kỳ đâu trên thế giới.
+Zoom có mất phí không?
+Phần mềm Zoom
+ được coi là giải pháp tốt nhất cho những cuộc họp hoặc các cuộc thảo luận nhóm. Trong đó, 
+Zoom Basic
+ là phần mềm họp/học trực tuyến hoàn toàn miễn phí.
+Gói 
+Zoom Free
+ bao gồm những tính năng sau:
+Không giới hạn số lượng cuộc họp
+Lưu trữ tối đa 100 người tham gia
+40 phút là giới hạn thời gian dành cho mỗi cuộc họp nhóm
+Cuộc họp giữa 2 người với nhau sẽ không giới hạn thời gian 
+Phiên bản miễn phí của 
+ cho phép thực hiện cuộc gọi video với tối đa là 100 thiết bị cùng một lúc. Thời gian giới hạn của cuộc họp với sự tham gia 
+từ 3 người trở lên là 40 phút
+Tuy nhiên, gói zoom miễn phí này vẫn còn hạn chế và giới hạn nhiều tính năng. Nếu bạn muốn chia sẻ thông tin với nhiều người hơn trong cuộc họp, tức là nếu bạn dành nhiều thời gian, bạn cần nâng cấp lên một số gói như là 
+Zoom Pro
+Zoom Business
+ hoặc 
+Zoom Enterprise
+. Tùy chọn tốt nhất từ các gói này cho phép tối đa 1.000 người tham gia mà không giới hạn thời gian.
+Tải zoom ở đâu?
+Để có thể thuận tiện trong việc sử dụng nền tảng họp/học trực tuyến 
+, bạn có thể truy cập 
+Tải Zoom ở đâu?
+Một số tính năng chính của zoom 
+Meeting-chat
+Trong phòng họp ở 
+ sẽ có 
+cửa sổ chat trực tiếp
+ để người tham gia có thể phát biểu cũng như trao đổi qua hình thức nhắn tin.
+Tính năng meeting-chat trên Zoom
+Screen sharing
+Dễ dàng minh hoạ với tính năng chia sẻ màn hình hoặc trình chính những tài liệu,..bạn muốn chia sẻ để mọi người có thể theo dõi và hiểu được những điều bạn đang nói.
+Trong quá trình chia sẻ màn hình, bạn có thể sẽ gặp phải một số trục trặc, điển hình là không có tiếng. Nếu vậy, tham khảo 
+bài viết này
+ để hiểu rõ hơn nguyên nhân và cách khắc phục bạn nhé!
+Tính năng screen sharing trên Zoom
+Recording
+Nhằm giúp cuộc thảo luận/buổi họp được lưu lại nếu người tham gia/người không thể tham gia muốn xem lại, 
+zoom sẽ hỗ trợ ghi lại (recording)
+. Bạn có thể lưu lại bản ghi trên thiết bị của mình, hoặc có thể tải rồi lưu trên dữ liệu đám mây. 
+Tính năng Recording trên Zoom
+Polling
+Chức năng thăm dò khảo sát
+ này phù hợp với những cuộc họp cần thu thập ý kiến từ người tham gia.
+Tính năng thăm dò khảo sát trên Zoom
+Các tiện ích trên zoom
+Tìm hiểu thêm về cách sử dụng các tiện ích trên zoom 
+Virtual background
+Bạn vào mục Settings để tùy chỉnh nền (
+background
+), rồi chọn 
+Virtual Background
+. Ngoài ra, bạn có thể tuỳ thích lựa chọn một số ảnh nền tùy thích.
+Tiện ích virtual background trên zoom
+Raise hand
+Hỗ trợ người tham gia phát biểu bằng hình thức giơ tay là một tiện ích khá hay ho khác của zoom. Nếu bạn muốn cắt ngang hoặc nêu ý kiến, có thể ấn chọn biểu tượng giơ tay để đưa dấu hiệu cho người đang trình bày.
+Tiện ích raise hand trên trên Zoom
+Remote control
+Người quản lý cuộc họp có thể tắt micro của bất kì người nào tham gia cuộc họp, để đảm bảo cuộc trao đổi thông tin không bị nhiễu tiếng ồn từ nhiều phía.
+Tiện ích remote control trên Zoom
+Webinar
+Một tiện ích khác nữ của zoom: 
+zoom webinar
+ - nơi các sự kiện và hội thảo được tổ chức trực tuyến nhằm giúp kết nối mọi người trên toàn thế giới, dễ dàng thảo luận và tương tác.
+Tiện ích này ra đời nhằm giúp tiếp cận khách hàng mà không cần mất quá nhiều chi phí tổ chức hội thảo. 
+Zoom Webinar
+Cho phép tới 1000 người tham dự.
+Cho phép chia sẻ một lúc 3 màn hình để thuyết trình.
+Yêu cầu tài khoản Pro trở lên (bản trả phí).
+Phiên bản ứng dụng: Zoom Mobile App phiên bản 3.0 trở lên, Zoom Desktop Client phiên bản 3.0 trở lên.
+Boardgame
+Tiện ích cuối cùng của zoom mà mình muốn đề cập ở đây đó chính là 
+ - 
+game đố vui kiến thức
+Để người chơi khác có thể thấy bước di chuyển của bạn, bạn có thể chia sẻ màn hình bằng cách chọn nút 
+Chia sẻ màn hình
+ màu xanh lục tại cuối cửa sổ của cuộc gọi; hoặc bạn có thể thao tác 
+Cmd + Ctrl + S
+ trên máy Mac hoặc 
+Alt + S
+ trên Windows, rồi nhấp vào 
+Bảng trắng >> Đăng lại
+Boardgame trên Zoom
+Có thể bạn đang băn khoăn về 
+cách đổi tên trên zoom
+Hướng dẫn đăng ký và cài đặt zoom
+ Truy cập vào đây.
+ Chọn 
+Zoom Client for Meetings
+ rồi ấn 
+Download
+ để tải về ứng dụng.
+Đăng ký tài khoản Zoom cho máy tính
+ Sau khi đã hoàn tất cài đặt, khởi động ứng dụng rồi chọn 
+Sign In
+Chọn Sign in để đăng ký tài khoản
+ Để đăng ký tài khoản, chọn 
+Sign Up Free
+ Bạn có thể tạo tài khoản nhanh bằng các tài khoản Google, SSO hoặc Facebook đã có sẵn.
+Chọn Sign Up
+ Nhập 
+ngày/tháng/năm sinh
+ của bạn rồi tiếp chọn 
+Continue
+Nhập ngày tháng năm sinh trên zoom
+ Nhập tài khoản email của bạn. Sau đó nhấn 
+Sign Up
+ để đăng ký.
+ Truy cập vào tài khoản email bạn vừa nhập rồi chọn 
+Activate Account
+ để kích hoạt tài khoản Zoom.
+Activate Account để kích hoạt tài khoản Zoom
+ Điền đầy đủ thông tin và mật khẩu và chọn 
+ để tiếp tục.
+Điền đầy đủ và chính xác thông tin
+ Nhấn 
+Invite
+ để mời người mà bạn muốn mời vào cuộc trò chuyện sau khi nhập email của họ.
+Invite bạn bè bằng email của họ
+ Cuối cùng, 
+Start Meeting Now
+ để bắt đầu cuộc trò chuyện trên Zoom.
+Start Meeting Now để bắt đầu cuộc trò chuyện trên Zoom
+Đăng ký tài khoản Zoom trên điện thoại
+: 
+Tải Zoom về điện thoại bằng cách:
+Điện thoại Android: Truy cập CH Play >> Gõ Zoom và ô tìm kiếm >> Sau đó tải ứng dụng về máy.
+Điện thoại iPhone: Truy cập App Store >> Gõ Zoom và ô tìm kiếm >> Sau đó tải ứng dụng về máy.
+ Mở ứng dụng Zoom rồi chọn 
+Đăng ký
+: Chọn ngày/tháng/năm sinh, sau đó nhấn 
+Xác nhận
+Lần lượt làm theo các bước
+Lưu ý
+: Đảm bảo đủ từ 16 tuổi trở lên khi đăng ký tài khoản Zoom để không gặp lỗi sau: “
+Bạn không đủ điều kiện đăng ký vào Zoom
+”.
+: Nhập đầy đủ các thông tin: email, họ và tên của bạn. Tiếp, chọn 
+: Kiểm tra email của bạn, kích hoạt tài khoản được gửi từ Zoom. Rồi nhấn vào 
+“Kích hoạt tài khoản”
+Một trang web hiện ra, điền đầy đủ các thông tin: 
+Tên, họ
+ >> 
+Nhập mật khẩu mới 2 lần
+ >> Chọn mục 
+I’m not a robot
+ >> Nhấn 
+Thực hiện các bước tuần tự
+Lưu ý: Mật khẩu phải đảm bảo:
+Có ít nhất 8 ký tự
+Có ít nhất 1 ký tự là chữ cái
+Có ít nhất 1 ký tự là số
+Sử dụng cả chữ cái in hoa và in thường
+Bước 6
+: Mở lại ứng dụng Zoom >> đăng nhập bằng email và mật khẩu vừa tạo.
+Giao diện ứng dụng Zoom khi đăng ký tài khoản và đăng nhập thành công.
+Bài viết đến đây là kết thúc. 
+CoHost AI 
+hy vọng bạn đọc nhận lại được những thông tin hữu ích cũng như hiểu hơn về ứng dụng hội/họp trực tuyến này. Đừng quên ghé thăm mình thường xuyên nhé!

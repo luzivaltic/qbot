@@ -1,0 +1,143 @@
+Slack là gì? Sổ tay sử dụng Slack cho người mới  | Cohost AI
+Nếu bạn đi làm, bạn sẽ nhận thấy nhiều nơi yêu cầu nhân viên sử dụng 
+Slack
+. Nhưng 
+ là gì? 
+ là một ứng dụng chat nhóm rất phổ biến. Nó được sử dụng nhiều bởi các tổ chức để quản lý công việc. 
+Hãy cùng Cohost tìm hiểu cụ thể 
+Slack là gì và cách sử dụng công cụ này 
+nhé! 
+1. Slack là gì?
+Slack 
+về cơ bản là một công cụ dùng để giao tiếp trong môi trường làm việc. Với một số công ty, đây là công cụ thay thế cho email, giúp mọi người giao tiếp và chia sẻ và tiết kiệm thời gian hơn nhiều so với email .
+Sử dụng 
+, mọi người có thể giao tiếp 1-1 thông qua Direct Message hoặc giao tiếp theo nhóm qua các channel. Workspace của 
+ cho phép mọi người chia sẻ thông tin, các file tài liệu, rất hữu ích. Bạn có thể sử dụng 
+ bằng cả điện thoại hay máy tính, giúp bạn dễ dàng cập nhật thông tin và những thông báo mới nhất. 
+về cơ bản là một công cụ dùng để giao tiếp trong môi trường làm việc
+Việc giao tiếp trên 
+ không hề nhàm chán vì người dùng có thể sử dụng các công cụ hỗ trợ như emoji hay GIF. Bạn vừa có thể giao tiếp, làm việc nhóm lại có thể hiểu biết thêm về những người đồng nghiệp của mình mà không nhất thiết phải ở cùng 1 căn phòng. 
+Một điều nữa, 
+ cho phép bạn tích hợp các ứng dụng, các công cụ khác. Nhờ vậy mà bạn có thể quản lý luồng công việc chỉ trong một nền tảng duy nhất.
+2. Một số khái niệm cơ bản
+Slack workspace
+ là khái niệm cơ bản nhất của Slack. Đây là tập hợp những kênh công khai và riêng tư của một tổ chức. Trong workspace có nhiều công nghệ và công cụ giao tiếp như 
+Các kênh (giống như những phòng chat)
+Cho phép nhắn tin riêng trực tiếp và cho nhóm ngay lập tức
+Công cụ tìm kiếm nâng cao
+Chia sẻ màn hình (dành cho người dùng sử dụng gói premium)
+Gọi video
+Và rất nhiều tính năng khác 
+ là tập hợp những kênh công khai và riêng tư của một tổ chức
+Admin sẽ kiểm soát ai có thể tham gia workspace. Khi tham gia một workspace, một thành viên có thể tham gia các kênh công khai và được thêm vào các kênh riêng tư. 
+Workspace rất hữu ích với những tổ chức có nhiều hơn 5 phòng ban, tương ứng với 5 kênh. Hoặc nếu tổ chức có nhiều dự án lớn thì workspace cũng phù hợp. 
+Slack channel
+Ngay dưới tên team Slack của bạn và tên tài khoản, bạn sẽ nhìn thấy một section có tên là 
+Channels
+. Các kênh thường có kí hiệu # trước tên nếu là kênh công khai, còn kênh riêng tư được ký hiệu bởi hình chiếc khóa. 
+Channel - kênh thường có ký hiệu # ở trước
+Bạn có thể tùy ý đặt tên channel, dựa vào dự án, vào sở thích hoặc theo team như team Sales. Có 2 loại channel.
+Channel công khai và riêng tư 
+Kênh riêng tư sẽ có ký hiệu khóa ở trước tên 
+Channel công khai
+: Tất cả các thành viên của một workspace đều có thể tham gia các kênh công khai. Các kênh công khai được dùng để chia sẻ các thông tin chung và có thể được tìm kiếm bởi tất cả các thành viên.
+Channel riêng tư
+: Bất cứ ai cũng có thể tạo một channel riêng tư, tuy nhiên các thành viên mới chỉ có thể gia nhập nếu nhận được lời mời từ thành viên khác đã có mặt trong kênh riêng tư. Các tin nhắn, file tài liệu chia sẻ trong kênh riêng tư chỉ có thành viên thuộc kênh mới thấy được. Một kênh riêng có thể chứa tới 1000 người. 
+3. Hướng dẫn sử dụng 
+a. Cách tải
+Để bắt đầu sử dụng Slack, trước hết bạn cần đăng ký tài khoản và tải ứng dụng Slack về máy.
+Các bước đăng ký:
+1. Truy cập 
+https://slack.com
+ và đăng ký tài khoản mới. Nhập email dành cho công việc của bạn
+Bước 1, nhập email công việc
+2. Chọn tên cho team Slack hoặc tổ chức của bạn 
+Bước 2, nhập tên team hoặc tổ chức 
+3. Đặt URL. Bạn nên sử dụng cú pháp [tên team Slack].slack.com
+4. Nhập email các thành viên trong công ty 
+Bạn có thể sử dụng cách khác là gửi link đến các thành viên khác 
+5. Sau đó workspace sẽ xuất hiện. Bạn hãy làm theo các bước hướng dẫn tiếp theo để học những điều cơ bản về Slack. Khi đã nắm được những thông tin cơ bản, bạn có thể bắt đầu sử dụng. 
+Để có trải nghiệm tốt nhất, bạn nên tải phiên bản ứng dụng desktop và điện thoại của Slack. 
+b. Cách sử dụng Slack 
+Tính năng nổi bật
+Hẹn giờ tin nhắn
+Các thành viên trong nhóm có thể sẽ có những khung giờ làm việc khác nhau, đặc biệt với những nhóm có thành viên đến từ nhiều quốc gia. Hẹn giờ cho các tin nhắn là một cách dễ dàng để tránh làm phiền mọi người vào lúc họ nghỉ ngơi mà vẫn đảm bảo rằng mọi người đều nắm được thông tin. 
+Không phải ai cũng có thời gian làm việc giống nhau, tính năng gửi lên lịch tin nhắn của 
+ sẽ giúp giải quyết vấn đề này 
+Bạn thậm chí có thể dùng tính năng này để tạo các nhắc nhở cho bản thân. 
+Cài đặt nhận thông báo 
+Một tính năng khác của 
+ giúp mọi người giao tiếp trong công việc hiệu quả nhận thông báo. 
+ cho phép bạn nhận thông báo ngay lập tức nếu có người gửi tin nhắn đến bạn trong nhóm hoặc nhắn riêng. 
+Tuy nhiên, nhận tin nhắn liên tục cũng không phải giải pháp cho hiệu suất làm việc nếu như bạn đang cần tập trung cho những công việc phức tạp hay quan trọng hơn khác. Hiểu được vấn đề này, 
+ cho phép bạn cài đặt tùy chỉnh nhận thông báo.
+Cài đặt thông báo tin nhắn giúp tăng hiệu quả làm việc cho từng cá nhân 
+Chúng ta có thể lựa chọn sẽ nhận thông báo từ ai, từ kênh nào, và loại thông báo muốn nhận như tin nhắn riêng tư hay tin nhắn có nhắc đến mình…
+Ghim tin nhắn
+Việc ghim tin nhắn sẽ giúp các thành viên trong kênh biết được thông tin nào là quan trọng nhất và những thông tin mà bất cứ ai cũng phải biết. 
+Click chọn dấu ba chấm bên cạnh mỗi tin nhắn và chọn ‘Pin to channel’ để ghim tin nhắn trên 
+Trong một kênh hoặc cuộc hội thoại riêng tư với một người, bạn có thể ghim đến 100 tin nhắn hay file tài liệu. Dù vậy, bạn chỉ nên ghim những thông tin thực sự quan trọng và hữu ích mà thôi. Thông thường, mọi người sẽ chỉ ghim 1-2 tin nhắn. 
+Tùy chỉnh theme 
+Khi sử dụng 
+, người dùng có quyền thay đổi theme theo sở thích của mình. Đây là một điểm vượt trội của 
+ so với những ứng dụng tương tự. Một số ứng dụng không cho phép bạn thay đổi theme hoặc chí giới hạn một vài theme nhất định.
+, bạn có thể chuyển sang chế độ tối hay sử dụng các bảng màu có sẵn của 
+. Nếu không thích, bạn cũng hoàn toàn có thể tự xây dựng theme mới cho mình, thỏa sức sáng tạo. Khả năng cá nhân hóa trải nghiệm của người dùng là điều khiến 
+trở nên thú vị hơn rất nhiều. 
+ cho phép người dùng lựa chọn nhiều loại theme
+Tích hợp với các công cụ khác 
+ cho phép các tổ chức kết nối với các dịch vụ khác như Office 36, Clickup, Google, HubSpot, Zoho, Outlook, Trello, Jira và rất nhiều ứng dụng khác nữa. Bên cạnh những tính năng có sẵn, với khả năng tích hợp, người dùng có thể tổ chức, hợp lý hóa công việc tốt hơn. 
+Việc kết hợp không chỉ giúp các thành viên cập nhật thông tin nhanh và dễ dàng mà còn tránh được việc phải di chuyển qua lại giữa quá nhiều công cụ. Việc này giúp mọi người làm việc thuận tiện hơn. Đặc biệt, việc tích hợp các công cụ khác trên 
+ là hoàn toàn miễn phí.
+Tạo nhắc nhở 
+cũng cung cấp tính năng cài đặt nhắc nhở. Môi trường làm việc hiện tại yêu cầu chúng ta cần phải ghi nhớ rất nhiều thứ. Thật không dễ dàng gì khi phải ghi nhớ hết các công việc.
+Nếu quên những cuộc họp quan trọng, hay những điểm chính, chất lượng công việc sẽ bị ảnh hưởng đáng kể. Nhưng với 
+, chúng ta có thể cài đặt các lời nhắc và nhận thông báo về lời nhắc trong thời gian mong muốn. Với tính năng này, bạn có thể tập trung làm việc mà không cần lo lắng rằng mình sẽ quên những thông báo quan trọng.
+Gõ /remind là bạn có thể tạo một nhắc nhở rồi 
+Đây là một tính năng được nhiều người yêu thích. 
+Một số lệnh cơ bản 
+Để sử dụng Slack, có những lệnh cơ bản sau mà mỗi người dùng đều nên biết. Đây là những câu lệnh cơ bản nhất và sẽ được sử dụng rất nhiều. 
+@channel:
+ Sử dụng khi muốn chia sẻ thông tin với tất cả các thành viên của một kênh
+@username:
+ Sử dụng khi bạn muốn nhắc trực tiếp một ai đó. Tuy nhiên tin nhắn này vẫn sẽ hiện với những người khác trong cùng kênh. Nó khá giống với việc tag một người bạn trên Facebook
+/dm hoặc /msg: 
+Sử dụng khi bạn muốn gửi tin nhắn riêng đến một người
+/search: 
+Sử dụng để tìm kiếm các tin nhắn và file trong quá khứ 
+/collapse:
+ Sử dụng để ẩn các hình ảnh hay gif trong kênh
+/expand:
+ Trái ngược với lệnh trên, expand được sử dụng để hiện tất cả các ảnh trong cuộc trò chuyện 
+/remind [@someone or #channel] to [what] [when]: 
+Sử dụng để nhắc nhở mọi người
+/call:
+ Sử dụng để bắt đầu một cuộc gọi
+@Here: 
+Sử dụng để gửi tin nhắn cho các thành viên trong kênh đang online 
+Bạn có thể tham khảo thêm một số câu lệnh khác tại 
+đây
+4. So sánh Slack và một số ứng dụng tương tự 
+ không phải là ứng dụng duy nhất để quản lý và giao tiếp khi làm việc. Có kha khá công cụ khác có thể giúp các tổ chức làm được điều này. Có thể kể đến Discord, Chanty, Microsoft Teams hay Monday.com. 
+Mỗi công cụ đều có những ưu, nhược điểm riêng và tùy vào từng công ty mà sẽ lựa chọn sử dụng ứng dụng nào cho thích hợp nhất. So với các đối thủ cạnh tranh, hiện tại 
+ đang là công cụ phổ biến nhất. Khả năng tích hợp lên đến 2400 ứng dụng và phù hợp với mọi loại hình tổ chức là điều khiến 
+trở nên phổ biến như vậy. 
+Để có được cái nhìn chi tiết hơn về Slack so với những công cụ khác, bạn có thể xem 
+tại đây
+5. Tip sử dụng Slack 
+Slack trở nên phổ biến vì giúp việc giao tiếp và quản lý công việc trong các tổ chức hiệu quả hơn. Nhưng đối với mỗi người dùng, để tăng hiệu quả làm việc, bạn cũng nên biết được một số mẹo nha.
+Đánh dấu các từ quan trọng
+: Giúp mọi người nắm bắt thông tin quan trọng. Sử dụng tổ hợp phím Ctrl B hoặc Ctrl I 
+Tải Slack về máy tính cũng như điện thoại
+: Việc này giúp bạn cập nhật thông tin nhanh hơn
+Điều chỉnh Slack theo nhu cầu cá nhân
+: Bạn có thể điều chỉnh thanh sidebar hay mute những kênh không quan trọng, đánh dấu những kênh và người quan trọng. Cách này, thông tin bạn nhận được sẽ không bị quá tải. 
+Sử dụng GIF
+: GIF giúp mọi người giảm căng thẳng, vui đùa và hiểu rõ nhau hơn sau những phút làm việc căng thẳng
+Nếu bạn muốn tìm hiểu thêm những mẹo để sử dụng 
+ hiệu quả thì hãy đọc ngay 
+bài viết
+ này. 
+Qua bài viết trên, Cohost hi vọng đã đem đến cho bạn thật nhiều thông tin bổ ích về 
+Slack - công cụ hỗ trợ làm việc nhóm hiệu quả
+. Slack sở hữu nhiều tính năng nổi bật và cũng khá đơn giản để bắt đầu sử dụng. Bạn có thể cân nhắc sử dụng công cụ này cho công ty của mình. Cảm ơn bạn đã đón đọc bài viết. 

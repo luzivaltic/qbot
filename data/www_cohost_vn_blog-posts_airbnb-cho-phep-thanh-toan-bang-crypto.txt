@@ -1,0 +1,88 @@
+Airbnb cho phép thanh toán bằng crypto trong năm 2022 | Cohost AI
+Airbnb là một trong những kênh OTA phổ biến nhất, được nhiều người tin dùng. Hiện tại Airbnb chấp nhận khá nhiều hình thức thanh toán: Visa, Mastercard, Apple Pay, Google Pay và Paypal. Trong thời gian tới, công ty này dự định sẽ cho phép người dùng thanh toán bằng tiền ảo. 
+Ở bài viết này, hãy cùng Cohost tìm hiểu về dự định năm mới - 
+cho phép thanh toán bằng crypto của Airbnb
+1. Crypto là gì?
+Crypto
+ được phát triển dựa trên cryptography - mật mã học 
+Trước khi đào sâu về quyết định của nhà sáng lập 
+ - Brian Chesky, hãy cùng tìm hiểu xem 
+crypto
+ là gì nhé. 
+Cryptocurrency
+ dịch ra tiếng Việt là 
+tiền mã hóa
+. Đây là một loại tiền kỹ thuật số hay còn gọi là 
+tiền ảo
+ được phát triển dựa trên cryptography - mật mã học. Mật mã học được sử dụng để tạo ra các đồng tiền ảo, giúp trao đổi và bảo mật chúng. 
+* Đặc điểm của crypto:
+Những đặc điểm của 
+ là lí do khiến nó trở nên rất phổ biến 
+Kỹ thuật số: Crypto 
+chỉ tồn tại trên các thiết bị điện tử chứ không phải là tiền giấy hay đồng xu mà chúng ta có thể cầm, nắm được.
+Phi tập trung:
+Tiền ảo
+ không có một máy chủ trung tâm để vận hành. Thay vào đó, nó được phân phối trên một mạng lưới rộng lớn với hàng trăm nghìn thiết bị.
+Ngang hàng (peer-to-peer)
+: Những người sở hữu crypto sẽ trực tiếp trao đổi với nhau chứ không thông qua bên thứ ba nào.
+Tính biệt hiệu
+: Điều mà nhiều người thường nhầm về tiền ảo là tính ẩn danh của chúng, tức là bạn không phải cung cấp bất cứ thông tin nào về bản thân. Tuy nhiên, 
+crypto 
+có tính biệt hiệu. Sử dụng tiền ảo cũng giống như việc bạn viết một cuốn sách bằng bút danh. Bút danh có thể liên quan đến cá nhân bạn, và khi bạn sử dụng bút danh, tất cả những cuốn sách bạn viết thuộc về bút danh của bạn. 
+Mã hóa
+: Mỗi người dùng sẽ có một mã đặc biệt ngăn thông tin của họ bị leak. Đây chính là mật mã học. Khi thông tin được giấu đi nhờ mật mã học, nó đã được mã hóa. Mã này cũng chính là “bút danh” của người dùng.
+Tính toàn cầu
+: Không như tiền tệ do từng quốc gia phát hành và rất khó để sử dụng nếu di chuyển sang một quốc gia khác, 
+ có thể được gửi đi khắp mọi nơi trên thế giới. 
+2. Dự định cho phép thanh toán bằng tiền ảo của Airbnb
+Vào ngày 3/1, cuối tuần đầu tiên của năm mới, CEO của 
+, Brian Chesky, đã hỏi các khách hàng của mình thông qua Twitter: Nếu Airbnb có thể ra mắt bất cứ thứ gì mới vào năm 2022, đó sẽ là gì? Hai ngày sau, Chesky đăng danh sách 6 gợi ý được nhiều người đề cập đến nhất trong số 4000 phản hồi mà anh ấy nhận được. 
+Thanh toán bằng crypto
+ nằm đầu trong danh sách những điều mà người dùng muốn 
+Điều đầu tiên trong danh sách là 
+thanh toán bằng tiền ảo
+. Chesky cũng nói thêm rằng 
+ đã và đang lên kế hoạch thực hiện một vài gợi ý sau đây và sẽ bắt đầu xem xét các gợi ý còn lại. Dù không chắc chắn nhưng có thể việc cho phép 
+thanh toán bằng crypto
+ là một điều mà 
+ đang hướng tới. 
+Brian Chesky nói rằng 
+ đã có dự định thực hiện những điều mà người dùng muốn từ trước 
+Vào tháng 9 năm ngoái, Chesky cho biết client đã yêu cầu 
+ chấp nhận việc thanh toán bằng 
+ vài năm trước. Hơn nữa, trong một tài liệu nộp cho US SEC để chuẩn bị cho IPO vào năm 2020, 
+có nhắc đến thành công tương lai của công ty này sẽ phụ thuộc vào việc ứng dụng các công nghệ như tiền ảo, blockchain. 
+Tương lai của 
+ phụ thuộc nhiều vào các ứng dụng của công nghệ như 
+3. Tại sao Airbnb muốn cho phép thanh toán bằng tiền ảo?
+Việc chấp nhận 
+ đem lại những lợi ích nhất định cho 
+* Sự thuận tiện cho khách hàng
+Người dùng tại một số quốc gia phải sử dụng tài sản kỹ thuật số để thanh toán các giao dịch quốc tế
+Trước hết đó là sự thuận tiện cho hàng triệu người đang sử dụng kênh OTA này mỗi tháng. Người dùng 
+đến từ khắp mọi nơi trên thế giới, tuy nhiên một vài quốc gia không cho phép thanh toán quốc tế, ví dụ như Argentina. Một số người phải sử dụng các tài sản kỹ thuật số như tiền ảo để thanh toán. Việc 
+Airbnb chấp nhận tiền ảo
+ sẽ giúp những khách hàng này thanh toán thuận tiện hơn rất nhiều. 
+* Thu hút khách hàng tiềm năng
+cũng sẽ giúp 
+ thu hút thêm nhiều khách hàng tiềm năng, cụ thể ở đây là những tín đồ công nghệ, yêu thích và ủng hộ tiền ảo. Con số những người sẵn sàng sử dụng crypto và ủng hộ các công ty chấp nhận 
+ là không nhỏ. 
+ và thị trường tiền ảo đều sẽ thu được lợi ích nếu người dùng kênh OTA này có thể thanh toán bằng 
+Từ năm 2013, số lượng giao dịch trên 
+ đã vượt quá 336 tỷ đô la. Nếu có thể thu hút thêm 150 triệu người hiện đang sử dụng tiền ảo, đây sẽ là một cú hích lớn cho việc kinh doanh của 
+, đồng thời cũng tác động không nhỏ đến thị trường tiền ảo. 
+Nhiều doanh nghiệp, công ty, tổ chức đang dần 
+chấp nhận thanh toán bằng tiền ảo
+. Trong số các kênh OTA lớn, chưa nhiều kênh chấp nhận 
+. Trở thành người tiên phong sẽ là một lợi thế cạnh tranh của 
+ khi so sánh với các đối thủ khác. 
+Là người dẫn đầu sẽ giúp Airbnb có lợi thế cạnh tranh tốt hơn 
+Về lâu dài, nếu thành công, các đối thủ cũng sẽ phải chấp nhận 
+ như một hình thức thanh toán mới để bắt kịp với 
+. Đến lúc này, có thể 
+ đã bỏ xa các đối thủ của mình. Nếu 
+ được sử dụng để thanh toán, 
+, cùng với Tesla và AMC, là một trong những công ty lớn đầu tiên chấp nhận thanh toán bằng tiền ảo. 
+Qua bài viết trên, Cohost AI hy vọng đã đem đến cho bạn những cái nhìn thú vị về việc 
+Airbnb cho phép thanh toán bằng crypto
+ trong năm 2022. Bạn có ủng hộ quyết định này của Airbnb không, hãy chia sẻ với Cohost AI ý kiến của bạn nhé. Cảm ơn bạn đã đón đọc bài viết.

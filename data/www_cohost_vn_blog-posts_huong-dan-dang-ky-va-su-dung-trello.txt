@@ -1,0 +1,100 @@
+Hướng dẫn đăng ký và sử dụng Trello  | Cohost AI
+Chúng ta đều biết 
+Trello
+ là một phần mềm rất phù hợp cho những cá nhân, tổ chức giúp họ dễ dàng quản lý dự án cũng như theo dõi tiến độ một cách dễ dàng, tăng hiệu quả công việc. Trong bài viết này, 
+ sẽ giúp bạn 
+đăng ký và sử dụng Trello
+ một cách nhanh và hiệu quả nhất! 
+Hướng dẫn tải Trello 
+Cho PC: 
+Bước 1: Vào
+trang chủ Trello
+  
+Bước 2: Chọn 
+“
+Máy tính bàn” 
+(nếu là 
+MacOS
+ thì chọn 
+Appstore
+, 
+Windows
+Microsoft
+) 
+Bước 3: Chọn 
+Get
+ -> 
+Install 
+-> 
+Launch 
+Cho thiết bị di động: 
+Thiết bị di động ” 
+Apple 
+thì chọn 
+, các hệ điều hành khác thì chọn 
+GooglePlay
+ 
+Cách đăng ký tài khoản Trello 
+Làm thế nào để đăng ký một tài khoản 
+? 
+ sẽ hướng dẫn bạn làm điều đó qua một vài thao tác đơn giản sau đây:
+Bước 1:
+ Truy cập vào trang đăng nhập của 
+TẠI ĐÂY
+. 
+Bước 2:
+ Nhập địa chỉ email của bạn và chọn 
+“Đăng ký - miễn phí”
+Nhập địa chỉ email của bạn và chọn “Đăng ký - miễn phí”
+Bước 3:
+ Nhập địa chỉ email của bạn và bấm 
+“Tiếp tục” 
+Bạn hoàn toàn có thể đăng ký bằng tài khoản
+ Google, Microsoft,...
+Nhập địa chỉ Email của bạn
+Bước 4: 
+Nhập tên của bạn và thiết lập mật khẩu 
+Bước 5: 
+Nhập tên không gian làm việc của bạn và nhấn chọn 
+Nhập tên không gian làm việc của bạn
+Bước 6:
+ Kiểm tra email và xác nhận email của bạn 
+(Verify your email) 
+Kiểm tra Email và xác nhận Email
+Giao diện làm việc của Trello sẽ xuất hiện, bạn đã hoàn thành công việc đăng ký của mình rồi!! 
+Bạn đã hoàn tất đăng ký Trello!
+Hướng dẫn sử dụng Trello cơ bản 
+Trước hết, bạn cần phải hiểu rõ 
+Trello là gì?
+ là một ứng dụng đơn giản bao gồm tập hợp các Bảng, Danh sách, Thẻ, Menu Bảng, hỗ trợ bạn lên ý tưởng, lập kế hoạch và theo dõi tiến độ dự án. 
+Trello là gì? Tất tần tật về Trello năm 2022
+Với thiết kế tối giản, tính năng và tiện ích tích hợp trực quan, 
+ thích hợp cho các dự án nhỏ và dễ dàng sử dụng cho cả người mới bắt đầu. 
+Tạo không gian làm việc 
+Không gian làm việc
+ Trello
+ là nơi cho bạn cái nhìn tổng quan nhất về cả dự án cũng như các thành viên trong nhóm. Tất cả các thông tin, tập hợp các tài liệu quan trọng liên quan tới dự án đều được lưu trữ tại một nơi. 
+Không gian làm việc cũng chính là trung tâm điều hướng của nhóm, nơi tất cả các thành viên đều có thể truy cập vào mọi bảng, mọi tài liệu có giá trị. Đây cũng là nơi có thể dễ dàng tìm kiếm và chia sẻ thông tin, cũng như cộng tác với các thành viên trong nhóm. 
+Gửi lời mời cho các thành viên nhóm 
+Số lượng thành viên được thêm vào dự án là không giới hạn, bạn có thể mời tất cả các thành viên trong nhóm và các bên liên quan tham gia. 
+Để mời thành viên vào không gian làm việc, bạn chỉ việc nhấp vào 
+“Mời thành viên vào không gian làm việc”. 
+Trong tab Thành viên, bạn có thể tìm kiếm tất cả mọi người thông qua địa chỉ email hoặc tên của người dùng. 
+Gửi lời mời tới các thành viên nhóm
+Tại bản miễn phí sử dụng của 
+, tất cả các thành viên được thêm sẽ tự động được cấp trạng thái quản trị mặc định. Tính năng này cho phép họ mời và loại bỏ thành viên tại không gian làm việc, tạo liên kết mời tham gia, và nhiều tính năng khác nữa. 
+Thiết lập bảng 
+Thiết lập bảng 
+ dựĐoctheo các hoạt động hiện có, giúp các thành viên có cái nhìn tổng quát hơn và dự án mà họ đang tham gia. Bạn có thể phân chia ra thành những dự án nhỏ hơn hoặc bắt đầu từ những hoạt động mà họ đã biết trước đó.
+Thiết lập bảng
+Việc tạo không gian rõ ràng cho từng nhóm và dự án bằng cách trình bày các bảng thể hiện quy trình làm việc một cách khoa học giúp tăng tối đa hiệu quả trong công việc. Bạn nên lưu ý tránh điền quá nhiều thông tin vào một bảng. Thay vào đó, hãy tạo nhiều bảng để chia nhỏ quy trình làm việc cho từng thành viên khác nhau.
+Đọc thêm về
+tự động hoá trong Trello
+mẹo và thủ thuật khi sử dụng Trello
+Kết luận 
+Trên đây là 
+hướng dẫn đăng ký và sử dụng Trello
+ một cách đơn giản và dễ hiểu nhất! 
+ hy vọng bạn sẽ có được trải nghiệm sử dụng tốt nhất với 
+Trello 
+và tạo ra những dự án thật sự thú vị với ứng dụng thân thiện này. 

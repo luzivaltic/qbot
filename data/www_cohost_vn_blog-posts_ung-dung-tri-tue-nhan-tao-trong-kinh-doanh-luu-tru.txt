@@ -1,0 +1,83 @@
+Ứng dụng trí tuệ nhân tạo trong kinh doanh lưu trú - Chatbot Ana Cohost AI | Cohost AI
+Ngành kinh doanh lưu trú 2 năm vừa qua đã chứng kiến “biến cố lớn" do sự bùng phát của dịch bệnh Covid-19. Tuy nhiên, có lẽ sau cơn mưa trời lại sáng. Với sự phát triển của ứng dụng trí tuệ nhân tạo (AI) đã được xem là phao cứu cánh giúp lật thế bàn cờ. Cùng Cohost AI tìm hiểu cụ thể hơn về ứng dụng này nhé!
+Ngành lưu trú du lịch hai năm đại dịch vừa qua
+Đại dịch Covid-19 gây ra thiệt hại nặng nề cho nền kinh tế toàn cầu và ngành du lịch không là ngoại lệ. Nói vậy là bởi, theo số liệu thu thập trong năm 2020, ngành du lịch tại Việt Nam chịu thiệt hại đến 23 tỷ USD, tương ứng với sự sụt giảm 45% khách nội địa và 80% khách quốc tế. Việc này dẫn đến công suất phòng lấp đầy tại các khách sạn chỉ ở mức 10-15% và hàng loạt doanh nghiệp cũng đã phải đóng cửa trong thời điểm dịch bệnh tại Việt Nam.  Doanh thu phòng trên mỗi phòng hiện có (RevPAR) tại hai thành phố là Hà Nội và Thành phố Hồ Chí Minh lần lượt chỉ đạt 56% và 64% so với năm 2019. 
+Ngành du lịch trong 2 năm Covid-19 chứng kiến nhiều biến động
+Một số bài báo cho rằng có thể đưa ra các gói kích cầu du lịch, ví dụ như khuyến mãi giá, hay đặt phòng theo nhóm để có thể duy trì hoạt động kinh doanh của các khách sạn. Tuy nhiên, việc kích thích nhu cầu dựa vào chính sách giảm giá để thu hút khách du lịch chỉ là một chiến lược ngắn hạn trong thời kỳ dịch bệnh được kiểm soát tạm thời. Câu hỏi được đặt ra là liệu ngành khách sạn nói riêng và du lịch nói chung có thể cầm cự được bao lâu khi tại thời điểm 2020-2021 dịch Covid-19 diễn biến vô cùng khó lường. Thêm vào đó, tâm lý người dân chưa ổn định vì còn ngại tiếp xúc trực tiếp.
+Ứng dụng trí tuệ nhân tạo (AI) được xem là phương án tối ưu trong thời điểm dịch bệnh dành cho ngành lưu trú du lịch. Và thời điểm hiện tại, ứng dụng này càng được quan tâm và phát triển hơn hết. Ứng dụng AI mang lại hiệu quả cao, chi phí nhân công thấp. Ngoài ra, việc áp dụng AI trong khách sạn là cách tốt nhất hạn chế lây nhiễm chéo – có thể giúp bảo vệ khách và nhân viên phục vụ. Do đó, AI được xem như chìa khóa để duy trì sự ổn định tăng trưởng của ngành du lịch – khách sạn ở Việt Nam hậu Covid-19.
+Ứng dụng của trí tuệ nhân tạo (AI) được xem là phương án tối ưu đối với ngành lưu trú trong đại dịch
+Tiềm năng của ứng dụng AI trong ngành kinh doanh lưu trú tại Việt Nam
+Theo một số nghiên cứu vào năm  2019, việc ứng dụng AI tại Việt Nam bao hàm cơ hội, thách thực bên cạnh những điểm mạnh và điểm yếu nhất định. Cụ thể là:
+Điểm mạnh
+Điểm yếu
+* Giảm lao động trực tiếp
+* Giảm thời gian chờ đợi
+* Tăng khả năng cung cấp dịch vụ
+* Vệ sinh và an toàn
+* Hỗ trợ khách hàng 24/7
+* Cải thiện khả năng bảo mật và an ninh
+* Thiếu giao tiếp trực tiếp với con người
+* Cần thời gian làm quen AI
+* Sửa lỗi cần có chuyên gia
+* Mức đầu tư lớn
+* Sự phỏng đoán của AI về cảm xúc của khách còn nhiều mặt hạn chế
+Cơ hội
+* Hỗ trợ chuyên nghiệp cho các nghiệp vụ tiếp xúc khách hàng
+* Có thể trao đổi bằng nhiều ngôn ngữ
+* Cải tiến bảo mật thông tin
+* Môi trường dành cho những khách hàng ngại tiếp xúc với cộng đồng
+* Phát triển bền vững (không bị tác động bởi các yếu tố bên ngoài)
+* Giải pháp cho du lịch quy mô lớn
+* Cơ hội việc làm dành cho người lao động
+* Tiêu thụ nhiều nguồn năng lượng
+* Vấn đề an ninh mạng (cắp bản quyền, thông tin,..)
+* Ảnh hưởng đến môi trường
+* Sự thông minh vượt trội của AI so với con người
+Bảng 2 dưới đây sẽ tóm tắt thêm về tính hợp lý của việc ứng dụng AI trong ngành khách sạn nói riêng và kinh doanh lưu trú nói chung. Cùng mình theo dõi xem nhé!
+STT
+Bộ phận
+Bước
+Mức độ áp dụng của AI
+Sales & Marketing
+Quảng cáo sản phẩm và dịch vụ trực tuyến
+Rất tốt
+Thu thập dữ liệu khách hàng
+Phân tích dữ liệu khách hàng
+Đặt phòng (Reservation)
+Tiếp nhận thông tin khách đặt phòng online
+Giải đáp thắc mắc tự động
+Tốt, cần sự hỗ trợ của nhân viên trong một số trường hợp
+Cập nhật số lượng và giá phòng tự động
+Lễ tân (Receptionist)
+Nhận phòng (check-in)
+Giải đáp thắc mắc của khách lưu trú
+Khá, cần sự hỗ trợ của nhân viên trong một số trường hợp
+Thanh toán đặt cọc khi nhận phòng
+Tốt
+Thanh toán dịch vụ trước khi trả phòng
+Trả phòng (check-out)
+4
+Buồng phòng (Housekeeping)
+Kiểm tra khách lưu trú
+Đang phát triển
+5
+Kỹ thuật (Engineering)
+Phát hiện lỗi khoá từ, điện, nước, internet,...
+6
+An ninh (Security)
+Kiểm tra an ninh
+Tài chính kế toán (Finance & Accounting)
+Thống kê tài chính theo ngày, tuần, tháng, năm
+Hành chính nhân sự (Human Resource)
+Kiểm soát công tác mua sắm, sửa chữa
+Kiểm soát nhân sự
+Trợ lý ảo Ana - Ứng dụng AI nổi bật của phần mềm Cohost AI
+Với hàng nghìn lượt đặt phòng sau khi du lịch tại nhiều nước được mở cửa trở lại, chatbot thông minh hay còn được biết đến là trợ lý ảo (Ana) sẽ giúp hỗ trợ giao tiếp liên tục với nhiều khách du lịch từ khắp nơi trên thế giới.
+Sau một giai đoạn đào tạo, Ana có thể tối ưu hóa tương tác với khách hàng đặt chỗ và rút ngắn thời gian phản hồi qua việc ứng dụng trí tuệ nhân tạo. Từ đó, các chủ sở hữu được hỗ trợ thực hiện các nhiệm vụ vận hành và tăng sự hài lòng của khách hàng cuối mỗi giao dịch (end-users).
+Trợ lý ảo Ana ứng dụng AI giúp giữ chân khách hàng tối đa
+Kết hợp với các sản phẩm và dịch vụ mà Cohost AI phát triển, trợ lý ảo Ana mang đặc tính như một thông dịch viên quốc tế đa ngôn ngữ, hứa hẹn sẽ truyền tải một hình ảnh tốt đẹp, đồng thời nhanh chóng truyền bá bản sắc văn hóa đặc trưng của từng quốc gia tới khách du lịch toàn cầu.
+Giữ chân khách hàng tối đa: Vượt trội với tính năng trả lời tự động cùng khả năng dịch nhanh 6 ngôn ngữ, Ana giữ chân khách hàng bởi sự tương tác nhanh chóng và chuyên nghiệp.
+Hỗ trợ khách hàng 24/7: Với sự hỗ trợ của trí tuệ nhân tạo, Ana luôn sẵn sàng trả lời khách hàng 24/7 để doanh nghiệp luôn đáp ứng kịp thời nhu cầu của khách hàng.
+Tiết kiệm THỜI GIAN và chi phí NHÂN SỰ: Trải qua quá trình học máy (machine learning) liên tục giúp Ana tự động ghi nhớ câu trả lời, thu thập, phân tích dữ và thay thế sức lao động của con người giúp doanh nghiệp vừa GIẢM CHI PHÍ nhân công vừa TĂNG HIỆU SUẤT công việc.
+Lời kết 
+Bài viết về ứng dụng trí tuệ nhân tạo (AI) xin đến đây là kết thúc. Hy vọng Cohost AI giúp bạn đọc hiểu hơn về loại hình ứng dụng công nghệ này. Đừng ngần lại liên hệ ngay để được tư vấn cụ thể hơn về phần mềm quản lý Cohost AI ứng dụng trí tuệ nhân tạo trong vận hành nhà ở nhé!

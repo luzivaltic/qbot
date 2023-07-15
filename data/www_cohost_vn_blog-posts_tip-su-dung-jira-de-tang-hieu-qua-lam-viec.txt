@@ -1,0 +1,66 @@
+Tip sử dụng Jira để tăng hiệu quả làm việc | Cohost AI
+Bạn đang sử dụng 
+? Bạn đang đau đầu vì công cụ này quá khó hiểu, không hề giúp bạn quản lý dự án tốt như bạn tưởng? Có lẽ là vì bạn chưa biết đến những mẹo sử dụng Jira thôi. 
+những tip giúp bạn sử dụng Jira hiệu quả
+ hơn nhé. 
+1. Sử dụng các tổ hợp phím
+Sử dụng các tổ hợp phím hay các phím tắt là cách giúp bạn làm việc hiệu quả hơn trên bất kỳ nền tảng nào vì giúp bạn tiết kiệm kha khá thời gian, kể cả trên 
+. Thời gian bạn tìm đến con chuột và di chuột để tìm các điểm tương ứng trên màn hình sẽ khá tốn thời gian. 
+Các tổ hợp phím là cách dễ dàng nhất để giúp bạn tăng hiệu quả làm việc khi mới bắt đầu và sẽ có ích về lâu dài vì chúng khiến những công việc thường gặp dễ dàng hơn để hoàn thành hơn. Bạn có thể xem danh sách các tổ hợp phím Jira khi chọn ‘Keyboard shortcuts’. Ban bấm vào phần Help ở phía trên nếu dùng phiên bản Server hoặc ở bên trái nếu dùng phiên bản Cloud. 
+Đơn giản hơn nữa, chỉ cần gõ ‘?’ là bạn có thể xem danh sách các tổ hợp phím rồi. 
+Dưới đây là danh sách những tổ hợp phím hiện có trên Jira. Để tìm hiểu kỹ hơn về các shortcut, bạn có thể đọc 
+ của Atlassian - công ty phát triển Jira. 
+Tổng hợp các tổ hợp phím trên 
+2. Tự động hóa các nhiệm vụ
+Trong một dự án, sẽ có những đầu việc lặp đi lặp lại. Dù không khó hay phức tạp nhưng chúng lại tốn thời gian. Đôi khi chúng ta ước rằng giá mà có thể có công cụ làm hộ chúng ta, hoặc tự động hóa giải quyết mà không cần chúng ta bận tâm quá nhiều. 
+ có một tính năng giúp tự động hóa các đầu việc lặp lại. Đây là một trình tạo (builder)
+ no-code 
+(không yêu cầu lập trình) đưa ra quy luật dựa trên nguyên lý nếu-thì. Mặc dù không cần phải biết code, nhưng bạn phải là global hoặc local admin trên Jira thì mới có thể tạo được trình tạo này. 
+Nếu bạn là global admin, bạn sẽ tìm thấy Jira automation trên menu, dưới phần 
+Automation Rules
+. Nếu là local admin, bạn sẽ thấy nó dưới phần Project Automation. 
+Một ví dụ về tính năng tự động hóa của 
+Khi thiết lập các quy luật, bạn có thể tự động hóa các hành động dựa trên những tiêu chí có sẵn. Có 3 thành phần cần để tạo một quy luật - một trigger để khởi động quy luật, điều kiện nếu-thì để làm rõ quy luật và hành động kết quả. Khi kết hợp ba thành phần này với nhau, bạn có thể tạo ra các luật tự động hóa, không cần làm thủ công nữa. 
+Để đọc kỹ hơn về cách tự động hóa các đầu viết, bạn có thể đọc 
+này. 
+3. Thực hiện chỉnh sửa nhiều hành động cùng một lúc
+Sẽ có lúc bạn cần thực hiện thao tác với nhiều issue cùng một lúc. Và làm thủ công từng issue một sẽ rất tốn thời gian. Trong những lúc như vậy, sẽ hiệu quả hơn nhiều nếu sử dụng 
+bulk action
+Tính năng 
+cho phép bạn thực hiện những thao tác sau với nhiều issue cùng một lúc:
+Chuyển đổi issue
+Chỉnh sửa issue
+Xóa issue
+Di chuyển số lượng lớn issue 
+Theo dõi hoặc bỏ theo dõi issue 
+Trước khi thực hiện các thao tác trên số lượng lớn issue, bạn cần có quyền ‘Make bulk changes’ trên toàn bộ hệ thống và quyền với từng dự án liên quan. Ví dụ, để di chuyển nhiều issue cùng một lúc, bạn cần có quyền ‘Move issue’ của dự án đó và quyền ‘Make bulk changes’ toàn bộ. 
+Các bước thực hiện bulk change:
+1. Lựa chọn 
+Lựa chọn Issue là bước đầu tiên để thực hiện bulk change
+2. Lựa chọn hành động muốn thực hiện
+Sau đó bạn cần lựa chọn hành động muốn thực hiện 
+3. Mô tả cụ thể các thay đổi
+Bước cuối cùng là ghi chú rõ các thay đổi 
+Tìm hiểu tại
+để tìm hiểu kỹ hơn cách thực hiện bulk action trên Jira. 
+4. Thiết lập ưu tiên cho các issue
+Một phương pháp giúp mọi người làm việc hiệu quả hơn chính là xác định được mức độ ưu tiên đối với các đầu việc. Với quản lý dự án, việc biết nên hoàn thành công việc nào trước, hay dành nhiều thời gian hơn cho công việc nào sẽ giúp dự án chất lượng hơn mà vẫn đảm bảo đúng hạn. 
+ có thể giúp các team dự án sắp xếp ưu tiên cho các đầu việc. 
+cung cấp sẵn các mức độ ưu tiên để bạn có thể đặt cho các issue. Có 5 mức độ mặc định: highest, high, medium, low và lowest. Phiên bản mới của Jira cung cấp các mức độ ưu tiên mới bên cạnh 5 mức độ mặc định. 
+Màu đỏ là những issue rất quan trọng, màu xanh là những issue kém quan trọng hơn
+Bạn có thể sử dụng 5 mức độ có sẵn trên Jira hoặc tùy chỉnh các mức độ ưu tiên tùy theo nhu cầu. Bạn cũng có thể tạo các mức độ mới cho các dự án khác nhau. Để thiết lập mức độ ưu tiên, bạn có thể chọn ngay từ khi tạo issue.
+Tại mục Priorities, bạn có thể thêm hoặc chỉnh sửa các ưu tiên đã có sẵn
+Hoặc bấm icon Settings trên góc phải phía trên, chọn Issues, kéo xuống và chọn Priorities. Tại đây, bạn sẽ thấy tất cả các issue và priority tương ứng, chọn Edit để chỉnh sửa là được. 
+5. Kết nối với các ứng dụng khác
+Kết nối Jira với các ứng dụng khác sẽ cho bạn khả năng xem được nhiều thông tin cùng lúc tại cùng một chỗ, không phải chuyển qua chuyển lại giữa nhiều nền tảng.
+Các đường dẫn đến Google Dọc hay Confluence, hoặc kết nối với Hipchat để mọi người nhận được tin nhắn thông báo giúp mọi người nắm bắt thông tin nhanh hơn, tích hợp thêm nhiều tính năng. 
+Để kết nối với các ứng dụng khác:
+Bấm chọn Administration -> Applications
+Chọn Application Links 
+Tại Application Links, bấm Create Link để liên kết với ứng dụng khác
+3.      Thiết lập kết nối đến các ứng dụng khác bằng cách điền các thông tin Application, Direction, Status, Actions 
+Điền link vào và bạn đã hoàn thành liên kết 
+với ứng dụng khác 
+Những ứng dụng nào có thể thay thế Jira
+mẹo hữu ích để bạn sử dụng Jira dễ dàng hơn và hiệu quả
+ hơn. Hãy áp dụng ngay những tip trên nếu bạn muốn quản lý dự án thuận tiện hơn với Jira. Cảm ơn bạn đã đón đọc bài viết. 

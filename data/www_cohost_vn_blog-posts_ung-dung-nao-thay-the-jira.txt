@@ -1,0 +1,91 @@
+Những ứng dụng nào có thể thay thế Jira? | Cohost AI
+Jira
+là một ứng dụng giúp các tổ chức quản lý dự án. Tuy nhiên, với nhiều người, ứng dụng này lại quá phức tạp và khó hiểu dù rất hiệu quả. Vậy nên nhiều người đang tìm kiếm những công cụ có khả năng làm được những công việc tương tự. 
+Hãy cùng Cohost tìm hiểu về 
+ưu và nhược điểm của Jira và các ứng dụng tương tự 
+nhé. 
+1. Nhược điểm của Jira
+Jira là một công cụ quản lý dự án khá tốt, nhưng không hoàn hảo. Một số nhược điểm của Jira:
+Giao diện lỗi thời 
+Giao diện của 
+Jira 
+không quá ấn tượng
+Khá khó và phức tạp để sử dụng 
+Người mới khi tiếp xúc với Jira thường bị choáng ngợp bởi workflow của 
+Không thể giao một task cho nhiều người
+Và rất nhiều lý do khác nữa, đó là lý do vì sao mọi người tìm kiếm những công cụ khác thay cho Jira. 
+Tip sử dụng Jira để tăng hiệu quả làm việc 
+2. Jira vs. Trello
+Jira và Trello đều được sở hữu bởi công ty Atlassian và đều được dùng để quản lý dự án. Mỗi ứng dụng đều cung cấp các công cụ chất lượng để quản lý các đầu việc nhưng có những thế mạnh riêng. Điểm khác biệt lớn nhất có thể thấy ngay khi sử dụng lần đầu chính là Trello sử dụng Kanban còn Jira sử dụng cả Scrum và Sprint bên cạnh Kanban. 
+Ưu điểm
+Không yêu cầu kinh nghiệm hay kiến thức gì đặc biệt để có thể sử dụng
+Giao diện đơn giản
+có giao diện đơn giản, ai cũng có thể sử dụng được
+Trực quan, giúp người dùng ngay lập tức hiểu được cách sử dụng
+Thích hợp cho các nhóm và project nhỏ 
+Nhược điểm 
+Không phù hợp nếu bạn muốn thêm nhiều thông tin cho một issue để làm rõ thông tin với mọi người
+Có phiên bản ứng dụng trên điện thoại nhưng không hiệu quả như phiên bản PC
+Tốn không gian để tạo được Kanban 
+Không có cách để cài đặt thứ tự ưu tiên cho các task 
+Nhìn vào các đầu việc ở đây, bạn sẽ thấy rất khó để biết đâu là công việc bạn nên làm trước 
+Hướng dẫn sử dụng Jira cho người mới 
+3. Jira vs. Basecamp
+Basecamp là một công cụ làm việc tất-cả-trong-một cho các team làm việc remote. Ưu thế của ứng dụng này so với Jira và các ứng dụng khác là sự đơn giản và dễ dàng để sử dụng. Quản lý các thành viên và onboard sẽ diễn ra khá thuận lợi với Basecamp. 
+Basecamp
+Có các tính năng hữu ích như tự động check-in, nhắn tin riêng (
+Campfire
+ - giao tiếp với tất cả các thành viên trong một dự án) 
+Hình ảnh Campfire trên Basecamp
+Có thể gửi kèm các file tài liệu, hình ảnh khi bàn bạc. Người dùng cũng có thể kết nối với Google Document để có thể dễ dàng kéo thả để tải lên 
+Nhiều dung lượng cho các team, giúp mọi người tìm lại các tài liệu cũ dễ dàng hơn 
+Có thể sử dụng trên nhiều thiết bị: Điện thoại Android, iOS, PC hay chiếu trên máy chiếu 
+Bạn có thể sử dụng Basecamp trên nhiều thiết bị 
+Không có tính năng theo dõi thời gian, một điều rất cần thiết khi quản lý dự án 
+Không có các tính năng nâng cao nên không phù hợp với những team cần các chức năng cao cấp hơn. Ví dụ, Basecamp không có công cụ phân tích nên không thể đưa ra insight về dự án 
+Để sử dụng hết các tính năng và 500GB dung lượng, không giới hạn người dùng, số lượng project của Basecamp, bạn phải trả 99 đô một tháng. Đây là con số hấp dẫn với các công ty lớn nhưng với những team nhỏ thì đây là con số không phù hợp, nhất là khi có thể họ sẽ không cần đến tất cả các tính năng.
+4. Jira vs Clickup 
+ClickUp là một trong nhiều phần mềm để quản lý dự án. Đây là một nền tảng sử dụng điện toán đám mây và phù hợp với nhiều quy mô tổ chức. Mục tiêu của ClickUp là cung cấp một ứng dụng duy nhất có khả năng giúp người dùng quản lý dự án.
+Nền tảng này không muốn bạn phải click chuột quá nhiều lần để có thể hoàn thành một công viêc. Nói cách khác, bạn không cần phải sử dụng những nền tảng khác nếu đã sử dụng ClickUp.
+ClickUp
+Ưu điểm 
+Phù hợp với những team nhỏ: Vì giao diện khá đơn giản và dễ hiểu, các team nhỏ không cần phải được training mới có thể sử dụng. Hơn nữa, ClickUp có nhiều tính năng giúp quản lý các công việc hàng ngày nên phù hợp với các freelancer. 
+Dashboard: Nếu Jira có Scrum, Kanban và Sprint thì ClickUp cũng có nhiều hình thức xem phù hợp với các mục đích khác nhau 
+                    
+Board view
+ - phù hợp khi theo dõi theo Kanban để dễ dàng di chuyển các đầu việc
+                    
+List view
+ - giống như một checklist các đầu việc
+Box view
+ - xem tiến độ của từng thành viên
+                    
+Gantt view
+ - xem tiến độ của toàn dự án, lên lịch cho các đầu việc và quản lý deadline 
+Hình ảnh Gantt chart trên 
+Clickup
+Hệ thống công việc: ClickUp hệ thống công việc từ WorkSpace -> Spaces -> Folders -> Lists -> Tasks -> Subtasks -> Checklists
+          
+ Space
+: Tạo các Space để theo dõi nhiều team, như team HR hay team sales 
+           
+Folder
+: lưu trữ và nhóm các dự án hay những công việc liên quan đến nhau
+List
+: Tạo những task riêng biệt cần phải hoàn thành 
+Task
+: Quản lý công việc bằng các subtask, mô tả công việc, nhận xét… 
+Subtask
+: Chia nhỏ các task thành các subtask 
+Checklist
+: Quản lý checklist cho mỗi task hay subtask.
+So với Jira, 
+ có một số điểm yếu hơn sau:
+Quá nhiều tính năng
+: So với Jira, Clickup có khá nhiều tính năng, tuy nhiên nhiều tính năng gần như không được sử dụng bao giờ. Nhiều tính năng quá cũng khiến người dùng phân tâm, bối rối và khiến dự án đi chệch hướng. 
+Cần tự điều chỉnh nhiều
+: ClickUp cho phép người dùng có quyền tùy chỉnh mọi thứ để phù hợp với nhu cầu của mình. Tuy nhiên, phải tự điều chỉnh mọi thứ sẽ khá tốn thời gian. Và nếu không làm vậy, bạn sẽ không thể sử dụng ClickUp một cách tối ưu được. 
+ClickUp yêu cầu người dùng tự điều chỉnh nhiều để có thể sử dụng nó một cách tối ưu nhất
+Qua bài viết trên, Cohost hi vọng đã đem đến cho bạn những cái nhìn 
+tổng quan về Jira so với những ứng dụng tương tự để quản lý dự án
+. Mỗi dự án đều có những ưu điểm riêng, vậy nên bạn cần xem xét tính chất dự án của mình và đưa ra lựa chọn phù hợp. Cảm ơn bạn đã đón đọc bài viết. 

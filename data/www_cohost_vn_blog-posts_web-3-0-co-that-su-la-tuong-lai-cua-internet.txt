@@ -1,0 +1,68 @@
+Web 3.0 có thật sự là tương lai của Internet  | Cohost AI
+Internet đã trở thành không gian ảo, được chia sẻ rộng rãi hầu hết mọi thứ mà bạn có thể nghĩ đến. Nhưng chắc chắn đây chưa phải là phiên bản Internet tốt nhất. Giống như bất kỳ dạng thức từng tồn tại nào, nó vẫn sẽ liên tục phát triển và hoàn thiện hơn mỗi ngày. Nhìn chung, Internet đã không ngừng thay đổi và sự hiện diện của 
+Web 3.0
+ chính là thể hiện của một cuộc dịch chuyển lớn về lớp nhận dạng của Internet. Trong nhiều trường hợp là sự chuyển đổi từ các dịch vụ tập trung sang các hệ thống phi tập trung. Khi thảo luận về lịch sử phát triển, 
+ sẽ đề cập đến ba thời đại: 
+Web 1.0, Web 2.0 và Web 3.0 
+trong cuộc sống.
+Internet và cuộc sống 
+Hành trình kỹ thuật số của nhân loại bắt đầu từ Web 1.0 sau đó chúng tôi chuyển sang Web 2.0 và giờ là thời điểm cho 3.0 đã đến gần
+Internet được giới thiệu phiên bản 
+Web 1.0
+ được tiếp cận dưới dạng trang thông tin “tĩnh” và cuối những năm 1980. Với thế hệ đầu tiên này, chỉ người sở hữu quản lý trang web mới có quyền truy cập bằng những ngôn từ đơn giản. Họ chính là người nắm toàn quyền quyết định về những loại thông tin được gửi đến người xem. Đây được coi là “Kỷ nguyên Đọc", nơi hầu hết người tiêu thụ thông tin (consumers) chỉ có thể xem thông tin và không thể tương tác với các nội dung mình đã đọc được. VIệc sáng tạo nội dung để đăng lên trang web gặp nhiều giới hạn và đòi hỏi  một bộ kỹ năng chuyên sâu. 
+Khi công nghệ không ngừng phát triển, 
+Web 2.0 
+- “ Kỷ nguyên Đọc, Viết" ra đời như một phiên bản cải tiến. Nó cho phép người dùng tự tạo tài khoản và chia sẻ thông tin, phát triển danh tính cá nhân trên không gian mạng. 
+mang lại cho chúng ta các nền tảng truyền thông xã hội như Facebook, Tumblr, Twitter, Youtube,...được sử dụng rộng rãi trên toàn thế giới. Bên cạnh đó,
+ Web 2.0
+ còn đem đến một cuộc cách mạng từ những thứ đơn giản như các diễn đàn chia sẻ theo chủ đề, cho tới phức tạp hơn như các trang thương mại điện tử đã quá quen thuộc với chúng ta hiện nay. 
+Nhiều nền tảng mạng xã hội xuất hiện trong thời đại Web 2.0
+Web 3.0 
+ra đời dựa trên cuộc cách mạng về thông tin, tương tác của hai nền tảng cũ, tập trung chủ yếu về cách lưu trữ dữ liệu và phân phối thông tin. Web 3.0 sẽ là “Kỷ nguyên Đọc, Viết, Sở hữu", cung cấp cho người dùng Internet phương tiện để sở hữu dữ liệu của họ, nội dung họ tạo ra hoặc tiêu thụ, tiếp đó là danh tính Kỹ thuật số của họ với tư cách là một công dân Internet. 
+Nhiều người cho rằng 
+chính là tương lai của Internet.
+Web 3.0 có thật sự là tương lai của Internet?
+Sự thật hay tin đồn? 
+Trong vòng 30 năm kể từ ngày Internet ra đời, cách dữ liệu và thông tin được truy xuất chưa bao giờ thay đổi. Toàn bộ dữ liệu được lưu trữ và quản lý trên một máy chủ độc lập. Khuyết điểm của phát minh này chính là chỉ “một nhóm quản trị viên" được toàn quyền quản lý dữ liệu và mọi ảnh hưởng liên quan đến cơ sở dữ liệu của người dùng. 
+Người dùng Internet về bản chất đã đánh mất quyền kiểm soát dữ liệu và thông tin cá nhân của chính mình. Điều này tạo ra một vấn đề nhức nhối thời bấy giờ: thông tin cá nhân bị khai thác như một “mỏ vàng”, và mạng xã hội thao túng người dùng thông qua thông tin họ cung cấp để truy cập. Lưu trữ và chuyển thông tin qua nhiều máy chủ cũng tạo ra cơ hội cho sự minh bạch, tăng chi phí và giảm tốc độ xử lý.
+Công nghệ Web 3.0 dựa trên Blockchain mang lại cho người dùng sự minh bạch và cảm giác sở hữu cao
+Trước thực tế này, việc tạo ra công nghệ 
+blockchain
+ được nhiều người coi là “sự phát minh ra Internet thứ hai”. Ngày nay, thế giới ảo phần lớn được xây dựng trên nền tảng 
+Blockchain
+ là một sổ cái kỹ thuật số ghi lại các giao dịch và thông tin được duy trì và nhân bản trên một mạng hay máy tính ngang hàng, khiến việc ghi lại, chỉnh sửa hay hack các giao dịch sai trái gần như là không thể. Do đó, người dùng có toàn quyền kiểm soát thông tin không cần phải lo lắng về vấn đề xâm phạm hoặc khai thác. 
+Cốt lõi của 
+ ra đời dựa trên 
+, về cơ bản thừa hưởng đặc tính của hai thế hệ 
+Web 1.0 và 2.0 
+trước đó. Tuy nhiên, so với các anh chị em của mình, 
+ thể hiện sự vượt trội hơn hẳn bởi các giá trị nội dung, sản phẩm mà nó mang lại. Người dùng Internet sở hữu toàn bộ chất xám của chính họ thay vì các đơn vị cung cấp dịch vụ như Facebook, Google, Amazon,...
+Một trong những điều hấp dẫn nhất xuất hiện ở 
+và 
+ là: Loại bỏ hoàn toàn các bên trung gian, dữ liệu không thể bị sửa đổi và thao túng, hoạt động 24/7 do các dịch vụ trên 
+Web 3
+ không có máy chủ cố định, kết nối thông minh giữa 
+IoT
+ và công nghệ 
+, người dùng có thể sử dụng các thiết bị kết nối Internet được gắn thẻ ngữ nghĩa chung để cung cấp các Website phù hợp, trực quan và cá nhân hóa trải nghiệm. 
+Web 3.0 được coi là tương lai của Internet
+thật sự được coi là tương lai của Internet. Nó sẽ dần dần thay thế cho 
+Web 1.0 
+để chiếm được sự tin tưởng của người dùng. Có thể nói đây là một ý tưởng tràn đầy tiềm năng. Thực tế, có nhiều công ty lớn đã bắt tay vào phát triển 
+ áp dụng ở nhiều khía cạnh: từ cơ sở hạ tầng cho tới ứng dụng. Theo Fortune, các nhà đầu tư đã chi khoảng 27 tỷ USD để đầu tư vào các dự án 
+ tiềm năng chỉ trong năm 2021. 
+Ngay cả Giám đốc điều hành và Nhà sáng lập Facebook (nay là Meta) Mark Zuckerberg đã từng nói: “Giống như NFT, nền tảng 
+ và 
+Metaverse 
+là sự phát triển tự nhiên tiếp theo trong cách chúng ta tương tác, liên lạc và giao tiếp với nhau.”.
+Đồng sáng lập kiêm CEO của BHO - nền tảng cung cấp cơ sở hạ tầng cho các dự án 
+, ông Phan Đức Nhật cho biết thêm “Có rất nhiều quan điểm và ý kiến ​​trái chiều về 
+. Tuy nhiên, trong năm 2021, hàng tỷ đô la đầu tư sẽ tiếp tục đổ vào những dự án này nên nếu nắm rõ xu hướng, người dùng sẽ không ngạc nhiên trước sự thay đổi của công nghệ. "
+Tuy nhiên, việc thực hiện ý tưởng thay đổi toàn bộ mạng Internet không phải là một "chuyện cổ tích". Chỉ riêng cơ sở hạ tầng để giải quyết trải nghiệm người dùng có thể mất hàng thập kỷ. Giám đốc điều hành Tesla - Tỷ phú Elon Musk cho biết: "Tôi không nói rằng 
+ là không khả thi. Tôi nghĩ rằng khái niệm này hiện đang được đánh giá quá cao. Trong 10, 20 hoặc 30 năm nữa, điều đó thật đáng để chờ đợi". 
+Năm 2051 có lẽ sẽ là thời điểm tốt nhất. " Một số chuyên gia cũng bày tỏ lo ngại về sự phân quyền của 
+, chẳng hạn như cựu CEO Twitter Jack Dorsey. Vào ngày 21 tháng 12, anh ấy đã đề cập đến nó trong một tweet của mình: “Bạn không sở hữu 
+. Các quỹ đầu tư và công ty công nghệ sở hữu nó. Chúng tôi không bao giờ thoát ra khỏi vòng lặp này. 
+ vẫn giữ nguyên tiêu điểm hiện tại, chỉ khác là được gắn nhãn. "
+ mong rằng với những thông tin trên, các bạn có thể tự mình đánh giá liệu 
+ có phải là xu hướng Internet của tương lai hay chỉ là một thông tin đồn thổi? Những người dùng Internet mới là những người thật sự có thể trả lời được chính xác câu hỏi này trong tương lai. 

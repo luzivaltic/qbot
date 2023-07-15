@@ -1,0 +1,33 @@
+Kỹ sư phần mềm Backend | Cohost AI
+Cohost AI Vietnam là công ty tiên phong trong việc áp dụng công nghệ vào vận hành nhà cho thuê (home-sharing), kinh doanh lưu trú đa nền tảng; được thành lập ở thung lũng Silicon Valley, Hoa Kỳ, bởi các chuyên gia Việt Nam và quốc tế.
+Phát triển các ứng dụng trên nền tảng Web cho Cohost Club - nền tảng chia sẻ du lịch và homestay. 
+Đảm bảo chất lượng hiệu năng cũng như độ ổn định của sản phẩm.
+Cộng tác với các thành viên khác trong team và bộ phận khác để xây dựng các tính năng mới.
+Sửa lỗi, thay đổi sản phẩm để phù hợp nhu cầu vận hành.
+YÊU CẦU BẮT BUỘC
+Có kinh nghiệm phát triển ứng dụng thời gian thực
+Thành thạo ít nhất một ngôn ngữ Python, NodeJS
+Có hiểu biết về kiến trúc Micro-services
+Nắm vững về RESTful APIs và giao tiếp giữa các API
+Có kinh nghiệm làm việc với Redis, Elasticsearch, Mysql, Kafka
+YÊU CẦU ƯU TIÊN
+Nắm vững về GraphQL APIs và giao tiếp giữa các API
+Đã làm việc AWS hoặc Google Cloud
+Đã từng làm việc với các hệ thống chat
+Có hiểu biết về AI, Machine Learning
+Có thể lên kế hoạch, thiết kế hệ thống
+Hoà đồng, có khả năng làm việc team-work tốt
+Có khả năng tự học và nghiên cứu công nghệ mới
+Thu nhập cạnh tranh hấp dẫn & bonus hấp dẫn
+Chế độ lương hấp dẫn, lương tháng 13, xét thưởng theo năm, thưởng thêm vào các dịp lễ, tết, đánh giá hàng quý xét tăng lương ít nhất 2 lần/ 1 năm, có năng lực sẽ được đánh giá ngay tại thời điểm
+Được nghỉ phép 12 ngày phép/ năm mà lương vẫn được nhận bình thường
+Giờ giấc làm việc linh hoạt, có thể làm remote
+Làm việc trong môi trường trẻ trung, năng động, sếp và đồng nghiệp siêu thân thiện
+Giải thưởng sáng tạo hàng tuần
+Tổ chức ăn uống, party mỗi cuối tuần (TGIF)
+Có chỗ ngủ trưa thoải mái + hỗ trợ ăn trưa/phụ cấp
+Được training & làm việc với các chuyên gia hàng đầu trong nước và nước ngoài sẽ giúp bạn tích lũy nâng cao kiến thức
+Các chuyến đi công tác giống như đi du lịch, được tài trợ các hoạt động cộng trong team, được giao lưu nâng cao kiến thức lập trình và trải nghiệm thực tế
+Team Building hàng năm, được khám phá những đặc sản, địa danh nổi tiếng trên thế giới
+Văn phòng rộng rãi, thoáng mát, tiện nghi; Có bếp, bánh, trà, café, tủ snack hoặc thích ăn gì là được mua cái đó
+Được mặc thoải mái những gì bạn thích đơn giản để bạn có thể thỏa sức sáng tạo. 

@@ -1,0 +1,125 @@
+Tại sao Zoom không có tiếng và cách khắc phục | Cohost AI
+Bạn thường xuyên phải sử dụng ứng dụng 
+ để học tập và hội họp. Tuy nhiên gặp phải vấn đề mất tiếng và chưa tìm được cách giải quyết. Bài viết dưới đây sẽ giúp bạn lý giải 
+quyên nhân Zoom không có tiếng và bày bạn cách khắc phục
+ được biết đến như một nền tảng hội họp trực tuyến giúp kết nối người tham gia ở bất kỳ đâu trên thế giới. Để sử dụng ứng dụng này, bạn chỉ cần trang bị ít nhất một thiết bị di động điện tử, như là điện thoại thông minh, máy tinh cây, laptop; và quan trọng cần có đường truyền mạng wifi ổn định.
+Nguyên nhân Zoom không nghe được tiếng
+Một số nguyên nhân khiến 
+Zoom không nghe được tiếng
+ là:
+Do tai nghe bị lỗi
+Do lỗi ứng dụng
+Loa của thiết bị bị lỗi
+Do Zoom chưa được cấp quyền âm thanh
+Các dấu hiệu phần mềm 
+ gồm:
+Âm thanh phát ra bị vang
+Người tham gia không nghe được bạn nói
+Bạn không nghe được tiếng của những người khác
+Một số nguyên nhân Zoom không có tiếng
+Cách khắc phục lỗi Zoom không có tiếng
+Kiểm Tra Thiết Bị Âm Thanh
+Để có thể khắc phúc được sự cố âm thanh, trước tiên bạn cần thực hiện một vài kiểm tra cơ bản sau:
+Kiểm tra loa
+ Truy cập 
+ rồi nhấn vào biểu tượng cài đặt ở phía trên và bên phải màn hình.
+Chọn biểu tượng bánh cưa
+Audio
+ ở bảng bên trái. Click vào nút 
+Test Speaker
+ trong mục 
+Speaker
+ để kiểm tra loa cung như để đảm bảo bạn nghe thấy tiếng của người tham gia.
+Kiểm loa trên Zoom
+- Nếu âm thanh phát ra từ tai nghe hoặc loa, âm thanh của bạn đã được thiết lập chính xác.
+- Nếu bạn không nghe thấy âm thanh, chọn thiết bị khác ở menu thả xuống. Rồi nhấn nút 
+ để tiếp tục kiểm tra.
+Với trường hợp bạn không thể nghe thấy tiếng của một người tham gia cụ thể thì đó có thể do người đó đang gặp vấn đề về âm thanh. Vậy nên, hãy thông báo để người đó biết và khắc phục sự cố nhé!
+Kiểm tra micro
+Để kiểm tra, bạn ấn vào nút 
+Test Mic
+ ở phần 
+Microphone
+ bên dưới, nói thử một câu và 
+ sẽ ghi lại giọng nói của bạn.
+Kiểm tra micro trên Zoom
+Mình khuyên bạn nên tích vào 
+Automatically join audio by computer when joining a meeting
+ để tự động tham gia cuộc gọi với âm thanh máy tính.
+Chọn chế độ "Tự động kết nối âm thanh bằng máy tính khi tham gia cuộc họp"
+Ngoài ra, bạn cũng có thể nhấn chọn 
+Join Audio
+ ở góc dưới bên trái giao diện cuộc họp để kiểm tra thử âm thanh ngay sau khi tham gia cuộc họp. Ấn vào 
+Test Speaker and Microphone
+ rồi thực hiện tương tự như ở trên.
+Trong trường hợp mà người tham gia vẫn không thể nghe thấy tiếng của bạn, hãy áp dụng các cách xử lý cụ thể bên dưới đây!
+Cấp Quyền Truy Cập Micro Cho Zoom
+Nếu micrô của bạn không hoạt động, có khả năng rằng phần mềm Zoom chưa được cấp quyền truy cập vào micrô. Để cho phép Zoom sử dụng micrô, bạn thực hiện các bước sau:
+Trên máy Mac
+ Mở 
+System Preferences
+ trên máy Mac từ Dock. Hoặc bạn có thể click vào biểu tượng 
+Apple rồi chọn System Preferences
+Làm tuần tự các bước
+ Tại trang 
+, chọn 
+Security and Privacy > tab Privacy
+ và nhấn vào tùy chọn Microphone ở bảng bên trái. Tiếp đến, bạn tích vào 
+ để cho phép ứng dụng truy cập micro.
+Hoàn tất các bước để cho phép Zoom truy cập micro
+Trên Windows
+ Nhập vào 
+Windows search từ khóa Microphone privacy settings
+ rồi chọn kết quả tìm kiếm tương ứng.
+ Bật tùy chọn 
+Allow apps to access your microphone
+ Kéo xuống dưới trang rồi bật tùy chọn 
+Allow desktop apps to access your microphone
+Kiểm Tra Cài Đặt Micro
+Một số cài đặt sai cũng sẽ khiến người tham gia không thể nghe thấy tiếng bạn nói. Vì vậy, thực hiện một số bước sau để điều chỉnh lại nhé!
+ Nhấp vào biểu tượng Apple và chọn 
+System Preferences > Sound
+ rồi sau đó chuyển sang tab Input.
+Kiểm tra micro trên máy Mac
+ Chọn micrô mà bạn sử dụng và điều chỉnh mức đầu vào cho phù hợp. Các thay đổi sẽ tự động lưu.
+Điều chỉnh mức phù hợp
+Bước 1: 
+Nhấn tổ hợp phím 
+Windows + I
+ để mở Settings. Tiếp đến, chọn 
+System > Sound
+ Ở phía bên dưới và bên phải màn hình mục Related Settings, bạn ấn chọn tùy chọn 
+Sound Control Panel
+ Tại cửa sổ Sound, bạn chuyển sang 
+tab Recording
+ rồi nhấp chuột phải vào bất kỳ vị trí nào, sau đó chọn 
+Show Disabled Devices
+ Tiếp, bạn cần đảm bảo đã bật micrô của bạn. Hoặc không, hãy nhấp chuột phải vào nó và ấn vào Enable.
+ Chọn micrô mà bạn sử dụng và nhấn nút 
+Properties
+. Sau đó, bên dưới hộp thoại 
+Microphone Properties 
+là
+tab Levels, bạn di chuyển thanh trượt sang mức đầu vào lớn hơn, đồng thời đảm bảo biểu tượng loa bên cạnh không ở trạng thái tắt.
+Cập Nhật Driver Âm Thanh
+Driver âm thanh bị lỗi hoặc lỗi thời cũng được xem là một trong những nguyên nhân phổ biến gây ra sự cố Zoom không nghe được tiếng. Để đảm bảo các thiết bị âm thanh hoạt động trong tình trạng tối ưu nhất, bạn nên cài đặt driver âm thanh mới nhất.
+Windows search
+ từ khóa 
+Device Manager
+ và nhấp vào kết quả tìm kiếm tương ứng.
+Sound, video and game controllers
+. Sau đó, bạn click chuột phải vào driver âm thanh rồi chọn 
+Update Driver
+ Chọn tùy chọn 
+Select Search automatically for drivers
+. Cộng việc của bạn bây giờ sẽ chỉ cần đợi Windows quét và cài đặt bản cập nhật driver khả dụng.
+Cập nhật driver âm thanh
+Khởi Động Lại Máy Tính
+Đôi khi, lỗi âm thanh không nghê được trên Zoom sẽ chỉ là sự cố tạm thời. Bạn đơn giản chỉ cần khởi động lại máy tính là có thể giải quyết được vấn đề.
+Khởi động lại máy tính
+Xóa Và Cài Đặt Lại Zoom
+Cuối cùng, lỗi Zoom không có tiếng có thể do chính ứng dụng. Với trường hợp này, bạn gỡ bỏ cài đặt rồi tải về phiên bản mới nhất của Zoom.
+Tải Zoom cho Android
+Tải Zoom cho iPhone
+Hy vọng rằng những biện pháp kể trên giúp ích bạn đọc trong quá trình khắc phục lỗi mất tiếng khi tham gia cuộc gọi trên Zoom. Đừng quên ghé thăm 
+ thường xuyên để cập nhật thêm những bài viết mới nhất nhé!

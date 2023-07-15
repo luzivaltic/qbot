@@ -1,0 +1,100 @@
+Mẹo và thủ thuật khi dùng Trello  | Cohost AI
+Nếu bạn là người mới sử dụng 
+, muốn khám phá thêm những tính năng giúp tối ưu hoá quy trình để việc quản lý công việc hàng ngày trở nên dễ dàng hơn. Trong bài viết này, Hãy để 
+ giúp bạn tìm hiểu về 
+mẹo và thủ thuật khi dùng Trello
+Người dùng ứng dụng làm việc với nền tảng mạng và công nghệ đều muốn mang hơi thở còn người giúp văn phòng kỹ thuật số trở nên sinh động hơn. Nhằm đảm bảo việc đó, 
+đặt con người làm trung tâm của mọi việc. 
+xây dựng một số tính năng tuy nhỏ nhưng vô cùng thiết yếu giúp bạn có được trải nghiệm sử dụng sinh động nhất, tinh tế và đơn giản gần gũi với người dùng. 
+Trello - ứng dụng quản lý thân thiện nhất với người dùng
+Hướng dẫn đăng ký và sử dụng Trello
+Ảnh bìa thẻ 
+Màu sắc và hình ảnh là công cụ truyền tải thông tin hữu ích hơn cả từ ngữ, vậy nên việc sử dụng
+ ảnh bìa thẻ
+ chính là một công cụ vô cùng thú vị. Tại 
+, người dùng đều có thể thêm hình ảnh, màu sắc vào tiêu đề hoặc ảnh bìa đầy đủ. Nhờ đó, bảng của bạn trông sẽ sinh động và nổi bật tất cả các thông tin cụ thể. 
+Người dùng có thể tuỳ ý chọn lựa xem bạn muốn ảnh bìa nằm phía trên tiêu đề thẻ hay có chiều cao bằng với chiều cao thẻ. Một điều thú vị hơn nữa, là bạn có thể tải lên ảnh bìa của riêng mình, chọn ảnh trong nhiều tệp đính kèm khác nhau hoặc ngay từ thư viện 
+Unsplash
+. Ưu điểm của việc sử dụng ảnh bìa là bạn vẫn có thể dán nhãn lên thẻ của mình mà không ảnh hưởng đến ảnh bìa.
+Thêm ảnh bìa thẻ vô cùng đơn giản
+Dấu tách thẻ 
+Để giúp quá trình quản lý công việc được năng suất hơn, bạn có thể chia nhỏ danh sách các thẻ bằng một 
+dấu ngắt dòng
+ đơn giản. Thêm 3 dấu gạch ngang 
+“---” 
+làm tiêu đề thẻ để làm 
+dấu tách thẻ
+Dấu tách thẻ
+ này hoàn toàn có thể được di chuyển giữa các thẻ khi tiến độ công việc của bạn có tiến triển và thay đổi. 
+Ví dụ về dấu tách thẻ
+Bên cạnh 2 thủ thuật kể trên, bạn có thể tham khảo cách 
+Phản ứng bằng biểu tượng cảm xúc
+Một trong những cách khiến trải nghiệm làm việc thú vị, gia tăng hiệu suất cộng tác chính là biến việc giao tiếp trở nên dễ dàng. Người dùng có thể dễ dàng thể hiện cảm xúc trong mọi ngữ cảnh. Bất kỳ ai để lại nhận xét hoặc tag bạn trên thẻ 
+, bạn có thể trả lời bằng 
+biểu tượng cảm xúc
+ vô cùng sinh động. 
+Để thêm phản ứng vào các nhận xét, chỉ cần nhấp vào 
+ bên dưới nhận xét và chọn một 
+ phù hợp. Hoặc bạn có thể nhấp vào 
+ đã được thêm bởi những thành viên trước đó. 
+Thể hiện cảm xúc bằng những biểu tượng vô cùng sinh động
+Nhãn dán 
+Cá nhân hóa phong cách và cá tính của bạn bằng cách thêm 
+nhãn dán
+ vào thẻ. Bạn hay nhóm của bạn vừa đạt ra mắt tính năng mới, hãy thêm 
+ vào mặt trước thẻ để mọi người ăn mừng thành tích của bạn. 
+Để tăng thêm tính sáng tạo, bạn cũng có thể làm 
+nhãn dán GIPHY
+ xuất hiện trên thẻ. Các thao tác sử dụng 
+ rất đơn giản, hãy chuyển đền phần 
+“Hiện menu”
+ ở góc trên cùng bên phải của 
+. Nhấp 
+“nhãn dán”
+ và các nhãn dán tĩnh hiện có của 
+ sẽ được hiển thị. Nhập từ khoá trong ô tìm kiếm và bộ 
+ sẽ hiện ra ngay trước mắt bạn. 
+Bộ nhãn dán yêu thích của bạn
+Tung hoa giấy ăn mừng 
+Khi bạn và các thành viên trong nhóm hoàn thành công việc, còn gì vui hơn việc được ăn mừng với những người đồng đội của mình. Điều này giúp giải toả phần nào áp lực trong công việc, tạo động lực cho các thành viên giúp họ cảm thấy nỗ lực của mình là xứng đáng. 
+Khi bạn kéo thẻ vào danh sách cụ thể, bạn chỉ cần thả bất kỳ biểu tượng nào trong số các biểu tượng cảm xúc dưới đây vào tiêu đề của danh sách để trải nghiệm cơn mưa hoa giấy.
+🎉 🎊 🎇 🎆 ✨ 👖
+Đánh dấu đã hoàn thành 
+đã hoàn thành công
+ việc trong 
+, đừng quên chia sẻ tin này với cả nhóm để mọi thành viên đều được cập nhật về tiến độ công việc một cách nhanh nhất. Dưới đây là một số cách giúp 
+đánh dấu hoàn thành
+ công việc: 
+Cách đánh dấu đã hoàn thành
+Tạo danh sách 
+“Đã xong”
+ và di chuyển thẻ vào danh sách đó khi đã hoàn thành. Việc tạo một danh sách 
+ mỗi tuần cho các cuộc họp và vô cùng hợp lý. 
+Nếu bạn đã thêm ngày hết hạn vào thẻ, đánh dấu là công việc hoàn thành bằng cách nhấp vào ô tích ở mặt sau của thẻ. Phù hiệu của thẻ sẽ chuyển ngay từ đỏ nguy hiểm sang màu xanh lá. 
+Tạo một nhãn để báo hiệu 
+ và áp dụng nhãn dán này vào tất cả các thẻ đã hoàn thành. 
+Đánh dấu vào ô tích 
+Power-Up
+Kéo và thả nhãn dán ăn mừng vào thẻ khi muốn chia sẻ thành tích như một cách thông báo công việc đã được hoàn tất. 
+Phím tắt
+ có nhiều 
+phím tắt
+ hữu ích giúp tiết kiệm thời gian. Dưới đây là một vài 
+ được người dùng yêu thích: 
+Xem nhanh tất cả các thẻ của mình trên một bảng: Nhấn phím 
+Q
+Thêm chính bạn vào thẻ: di chuột lên thẻ và nhấn phím cách. 
+Thêm người khác vào thẻ: nhấn phím 
+M
+Thêm ngày hết hạn: nhấn phím 
+D
+Lưu thẻ và đi ngay tới mặt sau thẻ: nhấn 
+Shift - Enter. 
+Hiện menu nhãn dán: nhấn phím 
+L
+Lọc các nhãn dán trên giúp hiển thị nhãn dán quan trọng nhất với bạn: nhấn phím 
+F
+Bảng phím tắt trong Trello
+Những tính năng hấp dẫn về 
+mẹo và thủ thuật
+ này có thể tuỳ chỉnh giúp mọi người hoàn thành công việc một cách thoải mái hơn. Bên cạnh đó, nó cho phép cá tính của mỗi thành viên và cả nhóm phát triển, để bạn có một trải nghiệm thú vị v!                                                                                                                                           

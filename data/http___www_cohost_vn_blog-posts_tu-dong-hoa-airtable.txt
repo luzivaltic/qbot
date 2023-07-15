@@ -1,0 +1,65 @@
+Tự động hoá trên Airtable | Cohost AI
+Khi bạn đã quen với 
+, chắc chắn bạn sẽ thấy công cụ này rất có ích. Và càng sử dụng nhiều bạn sẽ càng muốn công cụ này giúp cho mình nhiều hơn nữa. Một trong những cách đó là thiết lập tự động hóa trên Airtable để làm được nhiều việc hơn mà lại tiết kiệm thời gian. Hãy cùng Cohost tìm hiểu về 
+tính năng tự động hóa trên Airtable
+1. Tổng quan về Tự động hóa trên Airtable
+Tự động hóa là tính năng có trên phiên bản PC của Airtable, giúp người dùng định hình lại quy trình làm việc
+Tự động hóa cho phép bạn định hình quy trình làm việc tùy chỉnh theo dạng 
+kích thích - hành động
+ ngay trong cơ sở dữ liệu Airtable. Nhóm làm việc của bạn sẽ tiết kiệm được nhiều thời gian bằng cách tự động hóa những công việc mang tính lặp lại, tăng hiệu quả giao tiếp và giảm thiểu những sai sót. 
+Tự động hóa giới hạn trong base của từng cá nhân và có thể được sử dụng trên phiên bản desktop của Airtable. Tự động hóa hiện không có sẵn trên phiên bản ứng dụng iOS và Android.
+Chỉ những người có quyền 
+Owner hoặc Creator
+ mới có thể tạo quy trình tự động hóa. Collaborator và Editor sẽ được xem nhưng không thể chỉnh sửa các quy trình tự động hóa. 
+2. Lợi ích của tính năng Tự động hóa trên Airtable 
+Tự động hóa giúp tổ chức tiết kiệm thời gian nhờ quy trình được tối ưu, hạn chế những công việc mang tính lặp lại
+Tự động hóa trên Airtable sẽ đem đến cho người dùng rất nhiều lợi ích:
+Tự động hóa giúp bạn 
+thích nghi với những nhu cầu thay đổi
+. Dù dữ liệu tăng lên bao nhiêu lần thì những tự động hóa mà bạn set up vẫn sẽ giữ nguyên
+Tự động hóa giúp 
+tối ưu hóa các quy trình
+. Nếu bạn nhận thấy một quy trình chưa được hiệu quả trong quá trình tạo các tự động hóa thì bạn hoàn toàn có thể tạo mới và tối ưu lại quy trình đó. 
+Bạn có thể 
+tránh xa những công việc có tính chất lặp đi lặp lại
+ nếu copy rồi paste không phải là điều mà bạn muốn làm. Airtable có thể tự động hóa những công việc đó cho bạn
+3. Cách tạo quy trình tự động hóa trên Airtable
+Có 3 giai đoạn để tạo nên quy trình tự động hóa trên Airtable
+Thiết lập Tự động hóa 
+ Bấm chọn “Automations” ở góc phải màn hình
+Bấm chọn Automations trên màn hình
+ Chọn các mẫu tự động hóa có sẵn trên Airtable. Bạn vẫn có thể điều chỉnh lại quy trình trong từng mẫu.
+Người dùng có thể sử dụng các mẫu tự động hóa mà Airtable cung cấp hoặc tạo tự động hóa của riêng mình bằng cách custom tự động hóa
+Còn nếu bạn muốn tự tạo một tự động hóa, chọn “
+Create a custom automation
+”. Để tránh những hiểu nhầm về sau, hãy đặt tên hoặc thêm mô tả cho quy trình này. 
+ Vì các quy trình tự động hóa trên Airtable theo dạng kích thích - hành động, nên tiếp theo bạn sẽ cần chọn một kích thích hay trigger bằng cách chọn “Choose a trigger” 
+Chọn trigger mà bạn mong muốn cho tự động hóa của mình
+Tùy vào trigger mà bạn chọn mà có thể bạn sẽ cần phải chọn thêm table hoặc view tương ứng. Ví dụ, nếu bạn chọn trigger “When a record enters a view” bạn sẽ phải chọn view và table tương ứng vì view ở đây sẽ là view mà bạn tạo ra dành riêng cho quy trình tự động hóa. 
+Nếu bạn chọn nhầm trigger thì bạn hoàn toàn có thể chọn lại. 
+Kiểm tra Trigger của quy trình Tự động hóa
+Kiểm tra là bước quan trọng mà bạn không nên bỏ qua. Kiểm tra lại sẽ giúp bạn đảm bảo được rằng các hành động được thực hiện đúng mỗi khi có kích thích xảy ra. 
+Lưu ý: Đây là một bước bắt buộc. Tuy nhiên những trigger sau sẽ không cho phép bạn thử:
+New response from Google Form
+Outlook Calendar: When an event is created
+Outlook Calendar: When an event is changed
+Outlook Email: Khi bạn nhận được email mới 
+Để kiểm tra, bạn sẽ cần thực hiện 2 bước.
+: Chọn “Run test” để nhận một giá trị thử và bắt đầu kiểm tra. 
+Bạn không nên bỏ qua bước test trigger này
+: Khi kiểm tra xong, kết quả bao gồm cả giá trị thử kích thích tự động hóa sẽ xuất hiện. Nếu bạn gặp vấn đề khi kiểm tra thì Airtable có hướng dẫn tìm nguyên nhân kiểm tra không thành cho người dùng để bạn tham khảo. 
+Thêm hành động cho Tự động hóa
+: Bấm vào menu drop-down “Action type” 
+Sau khi bấm chọn “Add action”, menu drop-down gồm các loại action sẽ hiện ra cho bạn chọn
+: lựa chọn loại hành động. Sau khi chọn xong, bạn sẽ cần làm rõ hơn về hành động này. Ví dụ nếu bạn chọn action “Send an email”, bạn sẽ phải thêm email người nhận, tiêu đề và nội dung cho email.
+Bạn sẽ cần làm rõ hơn về action mà mình đã chọn
+: Kiểm tra Action cho quy trình tự động hóa. Một lần nữa, bạn sẽ cần kiểm tra Action, cũng giống như kiểm tra Trigger. 
+Kiểm tra action giúp bạn chắc chắn rằng tự động hóa sẽ hoạt động đúng như những gì bạn mong muốn
+Khi kiểm tra, bạn sẽ cần thực hiện thay đổi ở một table bằng cách thêm hoặc thay đổi các cột. Như vậy, bạn sẽ cần retest các bước đã thực hiện để cho những thay đổi này được thể hiện chính xác trong quá trình thực hiện tự động hóa. 
+Sau khi test xong, bạn hãy bấm chọn “Done” và bật tự động hóa. Giờ tự động hóa của bạn sẽ bắt đầu hoạt động. 
+Airtable vs Notion: Công cụ nào quản lý dữ liệu tốt hơn?  
+4. Hạn chế của tự động hóa trên Airtable
+Để tạo một quy trình tự động hóa trên Airtable không tốn nhiều thời gian hay công sức. Nhưng những quy trình tự động hóa này cũng có giới hạn của nó. Giới hạn ở đây là số lượng ứng dụng hỗ trợ và số hành động có thể thực hiện được. 
+Có khoảng 10 ứng dụng được hỗ trợ trực tiếp trên Airtable, và con số này đương nhiên là không nhiều. Và đôi khi chỉ có một hành động có thể được tự động hóa trên một ứng dụng mà thôi. Ví dụ với email, bạn chỉ có thể tự động hóa việc gửi email. 
+tự động hóa trên Airtable
+. Nhìn chung, Airtable và tính năng tự động hóa của nó không quá khó để sử dụng và đem đến sự tiện lợi cho người dùng nhưng không phải là toàn năng. Cảm ơn bạn đã đón đọc bài viết. 

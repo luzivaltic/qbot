@@ -1,0 +1,17 @@
+Data Science Intern | Cohost AI
+Cohost AI Vietnam is a pioneer in applying technology to operating a home-sharing, multi-platform accommodation business; it was established in Silicon Valley, the USA by Vietnamese and international experts. 
+JOB DESCRIPTIONS
+Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming
+Research & Develop custom insights
+Support in mapping a network to identify potential investors/customers
+Exploring and validating new techniques for pricing insights and price recommendations, and simulating pricing concepts to assess the potential value and analyze in-market behavior
+MUST-HAVE REQUIREMENTS
+Basic understanding and use of at least one programming language (R, Python, Scala, etc)
+Proficiency in data analysis, forecasting, and budgeting
+Foreign language: Good at English (reading, writing)
+NICE-TO-HAVE REQUIREMENTS
+University graduate majoring: Tourism, hotel management, real estate, Economics, Commerce, Business administration, marketing, foreign languages
+Understand basic algorithms in Data Science (such as Linear Regression, Logistics Regression, ADA, XGboost, etc)
+Have self-researched a data mining topic (show proof)
+Experience with PMS software
+Excellent verbal and written communication, and presentation skills

@@ -1,0 +1,50 @@
+Mối đe dọa bảo mật trong Metaverse | Cohost AI
+ là buzzword công nghệ trong thời gian gần đây. Nó hứa hẹn sẽ đem đến nhiều cơ hội, thay đổi cách chúng ta tương tác với nhau, nhưng đi cùng với đó là rất nhiều rủi ro, đặc biệt là những rủi ro về bảo mật. Hãy cùng Cohost tìm hiểu về những 
+mối đe dọa bảo mật trong Metaverse
+Trend Micro
+ - công ty công nghệ Mỹ - Nhật - đã công bố nghiên cứu về các mối đe dọa trong Metaverse gần đây, tổng cộng có tất cả 9 mối đe dọa về bảo mật. Các mối đe dọa này được chia thành 3 nhóm chính.
+Tài sản trong 
+ sẽ được mua bằng tiền tệ của riêng nó: những loại crypto như Bitcoin hay NFT. Việc trộm cắp crypto hay NFT trong metaverse sử dụng công nghệ blockchain nên rất khó để tìm ra tên trộm. Tính chất phi tập trung của blockchain cho phép xóa bỏ lịch sử sở hữu của một chain. Khoảng 
+14 tỷ đô la
+ coin đã bị trộm trong năm 2021.
+Khoảng 14 tỷ đô la coin đã bị trộm trong năm 2021
+Ngoài ra, NFT quy định quyền sở hữu cho một tài sản nhưng lại không cung cấp kho lưu trữ cho tài sản đó. Nếu file dữ liệu NFT được mã hóa trong ransomware (mã độc đòi tiền chuộc), người dùng vẫn có quyền sở hữu nhưng sẽ bị chặn quyền truy cập tài sản đó trừ khi họ trả tiền chuộc. 
+Darkverse
+Darkverse là phiên bản web đen (deep web) của metaverse
+Darkverse là phiên bản web đen của 
+ nhưng nguy hiểm hơn web đen thông thường vì sự hiện diện của người dùng là ảo. Nó mô phỏng những cuộc họp trực tiếp bí mật, khác với những cuộc thảo luận mở trên các diễn đàn web đen. Darkverse nằm trong deep verse (giống với deep web - những trang web không thể tìm kiếm bằng những công cụ tìm kiếm thông thường như Google). 
+Gian lận tài chính
+Tội phạm và các nhóm tội phạm thích thú 
+ vì số lượng lớn các giao dịch thương mại điện tử có thể sẽ  ra trong những thế giới ảo này. Sẽ có rất nhiều người lợi dụng điều này và lừa tiền, trộm tiền, ăn cắp tài sản ảo của người dùng. 
+Việc rửa tiền xảy ra nhiều hơn với các bất động sản metaverse 
+Việc rửa tiền có thể sẽ xuất hiện với các bất động sản của 
+. Giá trị của những mảnh đất “ảo” phụ thuộc vào mong đợi của mọi người. Nó chịu ảnh hưởng của rất nhiều yếu tố nên rất dễ bị thao túng.
+Vấn đề bảo mật
+Kiếm tiền từ dữ liệu người dùng có thể gây ra những vấn đề bảo mật 
+Cho đến bây giờ, 
+ vẫn là miễn phí. Metaverse là tập hợp các thế giới ảo được xây dựng và phát triển bởi các công ty lớn. Nhưng không có gì là miễn phí cả. Nhà phát hành 
+ sẽ kiểm soát mọi khía cạnh trong không gian meta của mình, thu thập rất nhiều dữ liệu người dùng và kiếm tiền từ dữ liệu đó. 
+Kể cả với những 
+ mà user là người host, người host vẫn có thể thu thập data và kiếm tiền từ data. Vấn đề bảo mật sẽ là một vấn đề lớn trong 
+Những cuộc tấn công IT truyền thống
+Dù metaverse rất hiện đại nhưng vẫn đang chạy trên các hệ thống IT truyền thống
+ vẫn được chạy trên những phần cứng IT truyền thống. Từ trước đến nay đã có nhiều cuộc tấn công vào những phần cứng này, 
+ vì thế cũng có khả năng bị tấn công thông qua phần cứng.
+Ví dụ, những tương tác mạng - ảo sẽ cần đến công nghệ AR. Để làm được như vậy, các ứng dụng 
+ phải giao tiếp với rất nhiều thiết bị IoT. Khả năng bị tấn công sẽ cao hơn vì có số lượng thiết bị có nhược điểm tăng lên. 
+Mối đe dọa VR/AR/MR/XR
+ sẽ là thế giới VR và AR. Người dùng sẽ tương tác trong thế giới ảo 3D hay trong thế giới thực được hỗ trợ bởi các thiết bị 3D. Không gian 
+ VR sẽ xuất hiện trong khoảng 2-3 năm nữa, còn 
+ AR/MR sẽ còn khoảng 4-5 năm. 
+Nhờ có VR/AR, người dùng có thể đắm chìm hoàn toàn vào metaverse, nhưng cũng có thể khiến người ta quên đi thế giới thực
+Người dùng có thể xây dựng một nhân cách mới trong thế giới metaverse, khác với nhân cách trong thế giới thật. Việc này có thể dẫn đến việc người dùng bỏ quên thế giới thực, đắm chìm vào 
+Mối đe dọa mạng thực - ảo
+ là ứng dụng tương tác cho Web không gian (Spatial Web). Spatial Web là môi trường máy tính trong không gian 3, sự kết hợp giữa thế giới ảo và thế giới thực. Web không gian được kích hoạt bằng hàng tỷ thiết bị kết nối với nhau thông qua giao diện VR/AR/MR/XR. 
+Sự kết hợp giữa IoT và thế giới ảo sẽ tạo cơ hội cho các mối nguy mạng thực - ảo
+Sự kết hợp giữa IoT và thế giới ảo sẽ tạo cơ hội cho các mối nguy mạng thực - ảo. Ví dụ với những hợp đồng đồng thông minh (smart contract), hững giao dịch thực hiện tại cửa hàng ảo sẽ được gửi tự động đến cho một địa chỉ thực Tội phạm sẽ tìm cách hack smart contract hay tạo hợp đồng giả để lừa tiền khách hàng. 
+Tấn công phi kỹ thuật 
+Tấn công phi kỹ thuật” nói về việc thực hiện những hành động độc hại thông qua tương tác giữa con người 
+Cụm từ “tấn công phi kỹ thuật” nói về việc thực hiện những hành động độc hại thông qua tương tác giữa con người. Tấn công phi kỹ thuật sử dụng những chiêu trò thao túng tâm lý để lừa người dùng mắc lỗi bảo mật hay cung cấp những thông tin nhạy cảm. Những thành phần xấu có thể giả danh bác sĩ rồi đưa ra những thông tin sai lệch gây nguy hại cho người bệnh. Giả danh để lừa người khác là một hành vi phạm tội không hề mới lạ, nhưng với metaverse, thật khó để phân biệt thật giả. 
+Ngoài những mối nguy kể trên, còn nhiều vấn đề khác của metaverse như là bản quyền, tác động đến môi trường khi chạy metaverse, tương tác giữa người với người… 
+Qua bài viết trên, Cohost hy vọng đã đem đến cho bạn những thông tin hữu ích về những 
+. Cảm ơn bạn đã đón đọc bài viết. 

@@ -1,0 +1,75 @@
+Top 5 doanh nghiệp ứng dụng AI | Cohost AI
+Rất nhiều công ty bây giờ áp dụng 
+ vào công việc kinh doanh của mình. Thực chất, xu hướng bây giờ là sử dụng AI để đạt được thành công kinh doanh. Tuy nhiên, không phải ai cũng thành công, hoặc ít nhất là áp dụng có hiệu quả AI. 
+5 doanh nghiệp ứng dụng thành công trí tuệ nhân tạo
+1. Amazon
+Khi nhắc đến những công ty dẫn đầu trong ứng dụng 
+, chúng ta không thể nhắc đến Amazon, gã bán lẻ khổng lồ của thế giới. Mặc dù khởi điểm là một nhà bán lẻ trực tuyến, Amazon không hề chậm trễ trong việc áp dụng các thành tựu công nghệ.
+Tại Amazon, 
+ hiện diện ở khắp mọi nơi. Ba sản phẩm 
+ thành công của doanh nghiệp này là trợ lý ảo Alexa, Amazon Go Store và công cụ gợi ý Amazon. 
+Alexa 
+có khả năng tương tác bằng giọng nói, tạo danh sách việc cần làm, đặt báo thức, cung cấp các thông tin về thời tiết, giao thông, thể thao… 
+Hình ảnh trợ lý ảo Alexa
+Amazon Go Store
+ là chuỗi cửa hàng tiện lợi đầu tiên không có thu ngân. Khách hàng có thể mua hàng mà không cần thanh toán với thu ngân hoặc sử dụng các trạm self-checkout.
+Nổi bật nhất là công cụ gợi ý sử dụng AI mà Amazon sử dụng. AI cung cấp cho Amazon dữ liệu về khách hàng, từ đó đưa ra các đề xuất mua hàng đã được cá nhân hóa. Công cụ này đã giúp tăng lượng bán của công ty 
+2. Apple
+So với các ông lớn khác, Apple có vẻ khá kín tiếng về 
+AI,
+ vì vậy cũng bị đánh giá thấp hơn về cách ứng dụng trí tuệ công nghệ. Khi nhắc tới Apple, chúng ta thường nghĩ tới iPhone. Nhắc tới iPhone và 
+, chúng ta sẽ nghĩ đến trợ lý ảo Siri.
+Bên cạnh Siri, Apple cũng có nhiều sản phẩm
+khác như Sleep App của Apple Watch 
+Siri đúng là một sản phẩm 
+nổi bật của Apple. Nhưng bên cạnh Siri, ông lớn này cũng đưa ra rất nhiều tính năng, sản phẩm hấp dẫn với sự trợ giúp của AI.
+Sleep app
+ của Apple Watch giúp người dùng xác định được giấc ngủ của mình, thậm chí theo dõi hành vi khi ngủ của bản thân. Apple Watch sử dụng Học máy, một lĩnh vực con của trí tuệ nhân tạo, để phân loại hành động và phát hiện khi nào bạn đang ngủ. 
+Apple biết trước người dùng sẽ sử dụng ứng dụng nào tiếp theo. Thư viện ứng dụng, tính năng khi bạn cài đặt iOS 14, sẽ thay đổi cách chúng ta sử dụng app. Khi mở thư viện ứng dụng, bạn sẽ được đề xuất những app bạn có thể sẽ cần dùng đến, nhờ có AI tích hợp ngay trên điện thoại của bạn.
+3. Google
+Google đang hướng đến việc trở thành một công ty “
+AI first
+”. Điều này có nghĩa là tập đoàn này đang thay đổi các sản phẩm của mình bằng cách áp dụng 
+ để giải quyết các vấn đề của người dùng. 
+Với hệ sinh thái của mình, Google đang ứng dụng 
+ vào hệ thống vận hành, các ứng dụng của mình. 
+Google Maps
+: Chế độ lái xe xác định vị trí của bạn, từ đó đưa ra những chỉ dẫn đi đường mà không cần người dùng đưa ra yêu cầu.
+Google Maps không còn xa lạ với nhiều người, đây chính là một sản phẩm áp dụng thành công trí tuệ nhân tạo
+Google Photos
+: Đề xuất với bạn những tấm ảnh nào bạn nên chia sẻ với bạn bè của mình
+Google Translate
+: Mạng nơ-ron nhân tạo, Google Neural Machine Translation (GNMT), giúp tăng độ thành thạo và sự chính xác của các bản dịch. 
+Google Calendar
+: Tính năng Smart Scheduling đưa ra đề xuất về thời gian họp hay ưu tiên phòng họp dựa trên lịch trình của những người trong cuộc họp.
+Google Mail
+: Tính năng Smart Reply giúp người dùng tiết kiệm thời gian nhờ việc đưa ra đề xuất cách phản hồi một email dựa trên phong cách viết email của bạn và email mà bạn nhận được. 
+Bạn có thể đang sử dụng 
+ thông qua Google mỗi ngày mà không nhận ra 
+4. Alibaba
+Alibaba là một trong những tập đoàn thương mại điện tử lớn nhất, bên cạnh Amazon. Khi nhắc đến thương mại thương mại điện tử, có thể bạn nghĩ cách tập đoàn này ứng dụng 
+ sẽ có nét tương đồng với các sàn thương mại điện tử khác. Đúng là vậy, Alibaba cũng có công cụ gợi ý sản phẩm cho khách hàng, có chatbot xây dựng dựa trên AI để hỗ trợ khách hàng.
+Nhưng cách tập đoàn này ứng dụng 
+ không chỉ dừng lại ở đó. 
+Chuỗi cung ứng
+: Alibaba phát triển Ali Smart Supply Chain (ASSC) - Chuỗi cung ứng thông minh Ali. ASSC giúp các nhà buôn dự đoán nhu cầu sản phẩm, từ đó chuẩn bị, bổ sung và phân phối hàng trong kho để đạt doanh thu tối ưu. Không chỉ vậy, công cụ này còn giúp nhà buôn chọn sản phẩm để cung cấp cho khách hàng và chiến lược giá đúng đắn. 
+Thành phố thông minh
+: City Brain, phát triển bởi Alibaba, sử dụng hệ thống trên nền tảng điện toán đám mây. Hệ thống này lưu trữ dữ liệu về một thành phố, cư dân và xử lý dữ liệu bằng các thuật toán 
+AI.
+ giúp các thành phố vận hàng này đã giúp giảm 15% các vụ tai nạn giao thông. 
+City Brain là hệ thống giúp quản lý các thành phố phát triển bởi Alibaba, áp dụng 
+5. Facebook
+Facebook là mạng xã hội phổ biến nhất hành tinh với hàng tỷ người dùng. Việc ông lớn này sử dụng
+ trí tuệ nhân tạo
+ để phục vụ người dùng tốt hơn là một điều tất yếu. 
+Facebook đã và đang sử dụng 
+để đem đến cho người dùng trải nghiệm tốt hơn 
+Dịch tự động
+: Với profile người dùng đa dạng, đến từ nhiều đất nước khác nhau, rào cản ngôn ngữ trong các nội dung trên Facebook là điều không thể tránh khỏi. Nhưng công ty này sử dụng hệ thống dịch tự động bằng 
+. Nhờ vậy, người dùng khi gặp những nội dung chứa ngôn ngữ mà mình không hiểu có thể đọc bản dịch mà Facebook cung cấp chỉ trong 1 giây. 
+Tự động tag
+: Vào năm 2010, tính năng tự động tag đã xuất hiện trên Facebook. Sử dụng công nghệ nhận diện khuôn mặt, Facebook có thể nhận dạng từng người trong một tấm ảnh và đề xuất cho người đăng về việc gắn thẻ một người vào tấm ảnh của mình.
+Facebook là một trong 5 công ty đi đầu trong việc áp dụng trí tuệ nhân tạo 
+Cohost hi vọng rằng bài viết trên đã đem đến cho bạn bức tranh toàn cảnh về 
+top 5 doanh nghiệp ứng dụng AI
+. Bắt kịp với 5 ông lớn này là điều khó khăn, nhưng các công ty khác hoàn toàn có thể học hỏi và cải thiện việc kinh doanh của mình từ những ví dụ này. Cảm ơn các bạn đã đọc bài viết. 

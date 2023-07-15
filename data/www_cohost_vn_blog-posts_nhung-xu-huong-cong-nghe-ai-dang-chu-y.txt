@@ -1,0 +1,51 @@
+Những xu hướng công nghệ AI đáng chú ý năm 2022 | Cohost AI
+Định nghĩa được 
+AI - trí tuệ nhân tạo
+, hiểu được những thách thức và cơ hội mà công nghệ này là chưa đủ. Để trở thành người dẫn đầu, bạn cần nắm được các xu hướng phát triển của AI. 2022 đến và mở ra nhiều điều mới.
+Ở bài viết này, hãy cùng Cohost tìm hiểu về các 
+xu hướng công nghệ AI đáng chú ý trong năm 2022
+1. AI và Metaverse
+ nhận được nhiều sự chú ý hơn sau khi Facebook đổi tên thành Meta 
+Một sự kiện đáng chú ý vào tháng 10 vừa qua là việc Mark Zuckerberg, ông chủ của Facebook, công bố sẽ đổi tên công ty thành Meta để đồng nhất với tham vọng xây dựng Metaverse của công ty này. Sự kiện này thu hút sự quan tâm đông đảo của giới công nghệ và công chúng nói chung. 
+Có thể nói, tất cả đều đang đón chờ những bước đi cụ thể tiếp theo của Zuckerberg và Meta. Metaverse là một khái niệm khá trừu tượng. Đó là một môi trường kỹ thuật số, nơi người dùng có thể làm việc và chơi đùa cùng nhau. Đó là một thế giới thực tế ảo (virtual), giống như internet. Điểm khác biệt là với metaverse, người dùng sẽ có những trải nghiệm “chìm đắm” vào thế giới ảo do chính mình tạo ra. 
+ là sự kết hợp của công nghệ thực tế ảo và nền tảng sẵn có của Facebook
+ là sự kết hợp của công nghệ thực tế ảo và nền tảng xã hội sẵn có của Facebook. Công nghệ thực tế ảo kết hợp với 
+trí tuệ nhân tạo 
+sẽ đem đến những trải nghiệm không tưởng, tương tác và gắn kết hơn. Người dùng sẽ cảm giác như đang ở nhà, đồng thời thỏa sức sáng tạo khi thiết kế ‘căn nhà’ của mình. 
+2. Low/No - code AI
+Không phải công ty nào cũng có đủ nguồn lực để áp dụng 
+công nghệ AI
+Chúng ta đều biết rằng tận dụng 
+trí tuệ nhân tạo
+ sẽ đem đến lợi thế cạnh tranh cho các doanh nghiệp. Ai cũng hiểu điều đó, nhưng các công ty vẫn không thể thực hiện được. Rào cản lớn nhất chính là thiếu nhân lực đủ kiến thức, kỹ năng để có thể tạo ra công cụ, thuật toán cần thiết.
+Với Low/No Code AI, các công ty có thể dễ dàng áp dụng trí tuệ nhân tạo 
+Nhận biết được vấn đề mà nhiều doanh nghiệp gặp phải, 
+low/no - code AI
+ ra đời. Đây là công cụ cung cấp giao diện để tạo ra những hệ thống 
+phức tạp mà không cần đến những kỹ sư công nghệ cấp cao. Để dễ hiểu thì việc này giống như việc xây dựng các website mà không cần đến các UI designer. Việc một công ty cần làm là kéo thả để tạo nên trang web mong muốn. 
+3. AI Ethics - Nguyên tắc AI
+Với sự phát triển, mở rộng không ngừng của trí tuệ nhân tạo, những nguyên tắc về cách sử dụng công nghệ này cũng bắt đầu được quan tâm. Mặc dù 
+ đem đến nhiều lợi ích cho xã hội, cho kinh tế, một số người lo ngại rằng mục đích của các công ty có thể không phải lúc nào cũng tích cực.
+Nhiều người đang lo lắng về những hậu quả mà 
+có thể gây ra nếu không được sử dụng đúng cách 
+Sau khi Google sa thải nghiên cứu viên cấp cao về 
+- Timnit Gebru. Một nghiên cứu của Gebru về những cạm bẫy của mô hình xử lý ngôn ngữ, một phần mềm 
+đang trở nên rất phổ biến bởi một hệ thống có tên GPT-3. GPT-3 đang tạo nên rất nhiều hứng thú trong giới công nghệ. 
+Nghiên cứu này được lưu truyền và xem xét bởi các lãnh đạo cấp cao của Google, những người cho rằng nghiên cứu này là “không chấp nhận được”, trong khi Gebru cho rằng không có gì đáng để chê trách. Câu chuyện đằng sau sự sa thải này rất phức tạp, tuy nhiên, chúng ta có thể hiểu đơn giản rằng Timnit Gebru bất đồng với cách tận dụng 
+của Google, cho rằng những bước đi của tập đoàn này có thể những ảnh hưởng tiêu cực.
+GPT-3 là đối tượng nghiên cứu Timnit Gebru 
+Sau khi bị sa thải, Gebru quyết định thành lập một trung tâm nghiên cứu AI mà không có sự thiên vị để thúc đẩy sự phát triển 
+ theo hướng tốt đẹp. Distributed Artificial Intelligence Research Institute (DAIR) là tên của trung tâm nghiên cứu này. Timnit Gebru dự định sẽ tiếp tục tìm hiểu về 
+và các công nghệ đang phát triển mà có thể có sự thiên vị đối với các cộng đồng yếu thế. 
+Sự việc này đã dần thu hút sự quan tâm của đông đảo nhiều người về mục đích của các công ty công nghệ và sự cần thiết của một nguyên tắc chung về cách sử dụng 
+4. AI và ngành sáng tạo
+Một xu hướng đáng chú ý khác là 
+có khả năng sáng tác thơ, nhạc, viết các bài báo. 
+Với GPT-4, sáng tạo không còn là đặc quyền của con người
+Trong năm 2022, với những mô hình mới như GPT-4, sản phẩm kế nhiệm GPT-3 do OpenAI phát hành được nhắc đến ở trên, và Google’s Brain định nghĩa lại những gì mà 
+có thể làm được. Chúng ta thường nghĩ rằng khả năng phân tích và cảm xúc độc nhất của con người khiến những công việc sáng tạo là đặc quyền của con người.
+Những tác phẩm của 
+rất đáng mong đợi 
+Với những công nghệ tiên tiến có khả năng xử lý ngôn ngữ này, chúng ta hoàn toàn có thể chờ đợi những sản phẩm ấn tượng của chúng. Tuy nhiên, một hạn chế của các công cụ xử lý này là với những sản phẩm yêu cầu tính chính xác, khả năng sáng tác ‘quá tay’ có thể tạo ra tin giả. 
+Qua bài viết trên, Cohost hy vọng đã đem đến cho bạn cái nhìn mới mẻ về những 
+. Những xu hướng này chắc chắn sẽ định hình bước phát triển của trí tuệ nhân tạo trong tương lai gần. Cảm ơn bạn đã đón đọc bài viết. 

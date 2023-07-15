@@ -1,0 +1,54 @@
+Cùng tìm hiểu về BlaBlaCar - ví dụ đúng đắn cho kinh tế chia sẻ trong lĩnh vực giao thông | Cohost AI
+Khi liệt kê những công ty áp dụng mô hình 
+trong từng lĩnh vực, với lĩnh vực vận chuyển, rất nhiều người sẽ nghĩ đến Uber. Tuy nhiên, cái tên thể hiện đúng nhất tính chất của mô hình này là BlaBlaCar.
+Hãy cùng Cohost tìm hiểu về BlaBlaCar nhé.
+1. Câu chuyện của BlaBlaCar
+Frédéric Mazzella - một trong ba founder của 
+BlaBlaCar
+ được thành lập vào năm 2006 bởi Frédéric Mazzella, Nicholas Brusson và Francis Nappez. Ý tưởng đến từ Mazzella. Vào năm 2003, Mazzella là một sinh viên tại đại học Stanford, tìm cách để trở về nhà vào dịp Giáng Sinh. Tuy nhiên, cậu sinh viên không có xe, tất cả các chuyến tàu đều đã chật cứng. 
+Nhưng Mazzella cũng nhận ra rất nhiều người đang lái xe về nhà với chỉ ghế lái được lấp đầy. Cậu nhận thấy nên có một hệ thống giúp mình tìm kiếm những lái xe có hành trình giống mình, sẵn sàng chia sẻ tiền xăng xe, đổi lại là mình được một chỗ ngồi trên xe của họ. 
+Nhà sáng lập mong muốn có một nền tảng giúp các chuyến đi xa có giá cả phải chăng hơn 
+Mazzella hình dung sẽ có một nền tảng online giúp cho những chuyến đi xa có mức chi phí phải chăng hơn, hiệu quả hơn. Như vậy, một sàn giao dịch ngang hàng (peer-to-peer) sẽ là mô hình tốt nhất. 
+Mazzella tự lập trình phiên bản đầu tiên của website, sau đó với sự hợp sức của kỹ sư Nappez để phát triển một nền tảng và một sinh viên MBA, Brusson, để giúp sức với các vấn đề về tài chính và mở rộng việc kinh doanh. 
+Vào năm 2008, các nhà sáng lập cho ra mắt một phiên bản nâng cấp của website ban đầu, với các tính năng như ứng dụng iOS và Android. Đến năm 2010, công ty đã có hơn 600,000 thành viên và thu hút hơn 10 triệu lượt xem trang web mỗi tháng. 
+2. Mô hình kinh doanh
+Cách 
+ hoạt động khá đơn giản, như nhiều sàn thương mại điện tử khác như Shopee. Nếu bạn là người đi nhờ xe, tất cả những gì bạn cần làm là tìm chuyến đi mà bạn mong muốn, trả tiền cho người lái khi chuyến đi kết thúc. Nếu bạn là người lái, bạn sẽ đăng bài về chuyến đi của mình, thông tin về xe của bạn và giá cho mỗi người đi nhờ. Việc còn lại là chờ những lượt “đặt hàng” từ những người có nhu cầu đi nhờ xe. Trước khi bắt đầu, người lái và người đi nhờ có thể liên lạc để thống nhất về địa điểm, thời gian đón và trả. 
+Người lái sẽ cung cấp thông tin về chuyến đi của mình trên 
+Diane Prebay, cộng tác viên truyền thông toàn cầu của 
+ chia sẻ: Dịch vụ của chúng tôi cho phép mọi người chia sẻ phí đi đường, phí xăng xe và được tiếp cận với những chuyến xe với giá cả phải chăng. Điều chúng tôi làm không phải là dịch vụ theo yêu cầu, mà là chia giá cả. 
+Tài xế của 
+BlaBlaCar 
+thông thường không tạo ra lợi nhuận cho bản thân nhờ dịch vụ mà mình cung cấp 
+Những tài xế của 
+ không thể tạo ra lợi nhuận khi sử dụng dịch vụ này, bởi số tiền mà mỗi người đi nhờ phải trả không được vượt quá 6 xu/km. Tức là lái xe chỉ nhận được một số tiền vừa đủ để trả tiền xăng, phí cầu đường. Con số này không thay đổi theo nhu cầu như các phương tiện giao thông công cộng khác như tàu, xe buýt hay máy bay. Dù khách hàng đặt chỗ trước từ lâu hay chỉ mới ngày hôm qua, số tiền họ chi trả không đổi. 
+Công ty sẽ thu 15% từ phí đi xe để chi trả chi phí hoạt động của mình. 
+TaskRabbit - Chia sẻ kinh tế trước khi kinh tế chia sẻ xuất hiện 
+3. Thành công của BlaBlaCar
+Tại Pháp, nơi khởi nguồn của 
+, dịch vụ đi chung xe này ghi nhận số lượng người dùng kỷ lục, với 135,000 hành khách mỗi ngày. So với năm 2018, doanh thu của công ty này năm 2019 đã tăng 71%. 
+Sự thay đổi lớn này đến từ việc 
+mở rộng dịch vụ cũng như thị trường của mình. Cụ thể, công ty này cung cấp các chuyến xe buýt cũng như bán vé xe buýt ở một số nơi. 
+BlaBlaCar mua lại Ouibus với tầm nhìn cung cấp cả dịch vụ xe buýt 
+Tháng 11 năm 2018, 
+mua lại Ouibus, biến nền tảng của mình thành nơi cung cấp dịch vụ di chuyển bằng đường bộ, dù là đi bằng xe buýt hay xe ôto. Hiện tại, Ouibus đã đổi tên thành 
+BlaBlaBus
+. Bên cạnh BlaBlaBus, 
+ còn cung cấp dịch vụ di chuyển hàng ngày từ nhà đến nơi làm việc thông qua 
+BlaBlaLines
+. BlaBlaBus xuất hiện tại 400 thành phố ở Châu Âu, còn BlaBlaLines đã thu hút được 1.5 triệu người dùng. 
+Có thể thấy, startup đến từ Pháp này đã xây dựng được một hệ sinh thái về di chuyển trên đường bộ của riêng mình. Công ty có hơn 87 triệu người dùng và 17 người đăng ký mới chỉ tính riêng năm 2019, với hơn 70 triệu hành khách.
+Tương lai phát triển của BlaBlaCar là dấn thân vào nhiều mảng dịch vụ giao thông khác 
+Đại dịch chắc chắn có ảnh hưởng không hề nhỏ đến công ty này, tuy nhiên đang dần hồi phục với việc tăng trưởng bên ngoài khu vực Châu Âu. Lượng đặt xe oto và xe buýt bên ngoài châu Âu tăng trưởng ở mức hai chữ số so với trước khi đại dịch ập đến.
+ đang có kế hoạch mua lại công ty Ukraina Octobus, công ty phát triển hệ thống  quản lý hàng tồn kho với công nghệ tiên tiến, để số hóa nguồn cung xe buýt. Thương vụ M&A này sẽ củng cố khả năng của công ty trong việc số hóa hãng vận tải xe buýt. Tại những quốc gia không nằm ở Châu Âu, việc bán vé xe vẫn đang diễn ra offline, như vậy, 
+ sẽ trở thành người tiên phong trong các giao dịch vé xe online.
+4. Triển vọng tương lai của BlaBlaCar
+Với người trẻ hiện nay, không quá nhiều hướng đến một cuộc sống có nhà, có xe. Thay vì sở hữu một thứ gì đó cho riêng mình, việc thuê, mượn là một ý tưởng hấp dẫn hơn nhiều. Đi chung, chia sẻ xe sẽ ngày càng trở nên phổ biến, triển vọng cho 
+là rất lớn. 
+Mô hình của BlaBlaCar khá được giới trẻ yêu thích
+đem đến cho khách hàng những lựa chọn thân thiện hơn với môi trường, tốt hơn với ví tiền của họ khi đi những chuyến đường dài. Với ứng dụng hiện có, sự phát triển khách quan của công nghệ điện thoại, có lẽ 
+ sẽ là thứ đầu tiên nhiều người tìm đến khi thực hiện những kế hoạch du lịch. 
+ Nên gọi người lao động hay đối tác với kinh tế chia sẻ?
+BlaBlaCar hứa hẹn là công cụ nhiều người sử dụng khi di chuyển 
+Cohost hi vọng bài viết trên đây đã đem đến cho bạn những thông tin hữu ích về 
+, công ty giúp mọi người đi chung trên những chuyến đường dài. Mô hình mà công ty này áp dụng theo chuẩn những giá trị cốt lõi của mô hình sharing economy. Cảm ơn các bạn đã đọc bài viết.

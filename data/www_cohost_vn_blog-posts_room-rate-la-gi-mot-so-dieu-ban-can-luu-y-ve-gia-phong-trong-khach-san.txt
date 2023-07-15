@@ -1,0 +1,108 @@
+Room rate là gì? Một số điều bạn cần lưu ý về giá phòng trong khách sạn 2022 | Cohost AI
+Room rate là gì?
+ Câu hỏi tưởng như đơn giản thế nhưng nhiều người vẫn nhầm lẫn nó với nhiều khái niệm khác trong kinh doanh khách sạn. Hôm nay, 
+ sẽ giúp giải đáp thắc mắc của bạn về khái niệm 
+Room rate là gì
+ và một số điều bạn cần lưu ý về 
+ trong khách sạn 2022. 
+một số thuật ngữ trong khách sạn
+ để mở rộng vốn kiến thức của bạn về ngành này nhé!
+Room rate
+ là giá phòng khách sạn mà bạn muốn bán cho khách du lịch. Tuy nhiên, sẽ có rất nhiều yếu tố cần được cân nhắc và kết hợp thông minh trước khi tạo ra 
+. Cơ bản, giá phòng khách sạn có thể định lượng và định tính. Lưu ý rằng, 
+ thường được tính dựa trên tỷ lệ trung bình theo ngày là 
+Average Daily Rate
+ hay được gọi tắt là 
+ADR
+ là giá phòng khách sạn mà bạn muốn bán cho khách du lịch
+Bên cạnh r
+oom rate
+ khuyến khích bạn đọc tham khảo thêm thông tin về 
+mẹo tăng chỉ số Occupancy rate
+ để kinh doanh homestay thêm hiệu quả hơn nhé!
+Công thức tính 3 chỉ số kpi đo lường giá bán phòng khách sạn
+Tại các khách sạn sẽ sử dụng chỉ số KPI khác nhau để đo lường giá bán phòng; và dưới đây là 3 chỉ số phổ biến nhất. Cùng mình tìm hiểu thêm về khái niệm và công thức tính của các chỉ số này bạn nhé!
+ADR - Giá bán phòng trung bình một ngày
+Khái niệm 
+, là chỉ số KPI được dùng tại các khách sạn để tính giá bán phòng trung bình trong một ngày cụ thể. Nhìn chung, chỉ số này một phần giúp đo lường hiệu quả kinh của khách sạn này so các đối thủ khác cùng quy mô, thị trường mục tiêu và vị trí. 
+Giá bán phòng trung bình một ngày cụ thể là 
+Công thức tính
+Công thức tính ADR
+Ví dụ:
+ Tổng doanh thu từ hoạt động bán phòng của một khách sạn 5 sao bán được trong 1 ngày là 300.000 USD, tương ứng với số lượng 150 phòng thì giá bán phòng trung bình ngày đó sẽ bằng:
+ADR = 300.000 USD / 150 = 2.000 USD
+ Chỉ số này không bao gồm số lượng phòng miễn phí (
+Complimentary
+) và phòng dùng nội bộ (
+House use
+) bởi những phòng này không tạo ra doanh thu cho khách sạn.
+Allotment là gì? Những điều bạn cần biết về allotment trong khách sạn 2022
+ARR - Giá bán phòng trung bình hàng tuần/ tháng
+Khái niệm
+Nhìn chung, để tính giá bán phòng trung bình, các khách sạn đều sử dụng 2 chỉ số 
+ADR và ARR
+. Tuy nhiên, chỉ số 
+ARR (Average Room Rate)
+ sẽ được dùng cho việc tính giá trung bình trong quãng thời gian dài hơn (tuần hoặc tháng).
+ARR
+ là giá bán phòng trung bình được tính trong quãng thời gian dài
+Công thức tính ARR
+ARI - Chỉ số giá bán trung bình
+ARI
+Average Rate Index
+, là một chỉ số KPI để đo lường hiệu quả giá bán phòng trung bình một ngày của một khách sạn so với các khách sạn khác trong cùng 1 khoảng thời gian mà có cùng đặc điểm về vị trí, mô hình và đối tượng khách hàng.
+ được dùng để so sánh mức độ hiệu quả
+Công thức tính ARI
+Với trường hợp khách sạn ở ví dụ trên có chỉ số 
+ là 2.000 USD, ADR trung bình của nhóm khách sạn cạnh tranh là 1.600 USD thì chỉ số giá bán trung bình (
+) sẽ là:
+ARI = 2.000 USD / 1.600 USD = 1.25
+Nếu ARI = 1, ADR khách sạn bạn ngang bằng với ADR trung bình của nhóm khách sạn đối thủ cạnh tranh.
+Nếu ARI > 1, ADR khách sạn bạn cao hơn ADR trung bình của nhóm khách sạn đối thủ cạnh tranh.
+Nếu ARI < 1, ADR khách sạn bạn thấp hơn ADR trung bình của nhóm khách sạn đối thủ cạnh tranh.
+Sau khi đã tính ra 
+chỉ số ARI
+, dựa vào công suất phòng, mỗi khách sạn sẽ áp dụng chiến lược giá bán khác nhau: cao, thấp hoặc bằng 
+ của nhóm khách sạn đối thủ để từ đó có thể tăng lợi thế cạnh tranh và tạo ra doanh thu tốt hơn.
+Ngoài 3 chỉ số kpi đo lường giá bán phòng khách sạn kể trên, các nhà quản lý cũng cần phải để tâm đến 
+chỉ số RevPAR và những điều cần lưu ý
+ đến chỉ số này khi kinh doanh khách sạn.
+ nếu bạn đang tìm hiểu và quan tâm đến bộ phận này trong khách sạn.
+Các yếu tố ảnh hưởng đến giá phòng khách sạn
+Vị trí của khách sạn:
+ Giá phòng của bạn sẽ chịu tác động nhất định từ vị trí khách sạn được đặt tại; ở trung tâm thành phố hay gần biển, trong ngõ hẻm hay ngoài mặt phố, thuộc thành phố nào,...
+Vị trí khách sạn ảnh hưởng đến giá phòng
+Vị trí của phòng:
+ Phòng tầng cao hay tầng trệt, có view biển hay view phố không, hay gần lối thoát hiểm hay không,…cũng sẽ quyết định giá phòng khách sạn bạn, cao hay thấp.​
+Loại phòng:
+ Phòng tiêu chuẩn, cao cấp, hay dành cho các nguyên thủ,…chắc chắn ảnh hưởng đến giá phòng khách sạn.​
+Giá phòng được xét trên cả loại phòng
+Trang thiết bị:
+ Các trang thiết bị (amenities) tại các loại phòng mà khác nhau về nguồn gốc, chất liệu, công dụng,…cũng tạo nên sự khác biệt về giá phòng khách sạn.​ 
+Lưu ý amenities
+ ở từng phòng để có thể cung cấp những trải nghiệm tốt nhất cho khách hàng.
+Số lượng phòng thuê:
+ Hiện nay, không ít các khách sạn đưa ra mức giá ưu đãi đối với trường hợp thuê phòng số lượng lớn. Vậy nên, có thể nói số lượng phòng được thuê cũng ảnh hưởng đến giá khách sạn.
+Phòng được thuê cũng là yếu tố ảnh hưởng đến room rate
+Giá của các đối thủ cạnh tranh:
+ Thông thường các khách sạn cũng tiêu chuẩn đánh giá, cùng hãng sao tại một khu vực nhất định sẽ cạnh tranh nhau về giá để thu hút thêm nhiều khách hàng. Giá phòng của khách A được niêm yết dựa trên việc tham khảo và đánh giá từ khách sạn B,C,D,.. trong cùng khu vực.
+Ngày trong tuần, tính thời vụ và thời gian khách lưu trú: 
+Thông thường, các khách sạn sẽ đưa giá mức giá phòng cao hơn vào cuối tuần hoặc vào dịp lễ đặc biệt so với các ngày trong tuần. Ngoài ra, giá phòng vào mùa cao điểm cũng sẽ cao hơn mùa thấp điểm. Khách lưu trú dài ngày hơn cũng sẽ được ưu đãi giá thấp hơn so với những trường hợp lưu trú ngắn ngày.  ​
+Các dịp lễ hoặc cuối tuần sẽ có giá phòng cao hơn so với ngày thường
+Cùng với đó, 
+vào những dịp đặc biệt cũng được trả cao hơn so với những ngày thường trong tuần.
+Các bữa ăn kèm theo giá phòng:
+European plan (EP)
+: giá bao gồm tiền phòng và không bao gồm bữa ăn nào
+American plan (AP)
+: giá bao gồm tiền phòng và 3 bữa ăn sáng, trưa và tối.
+Modified American plan (MAP)
+: giá bao gồm tiền phòng và 2 bữa ăn trong ngày (sáng-trưa) hoặc ăn sáng và ăn trưa; hoặc ăn sáng và ăn tối.
+Continental plan (CP)
+: giá bao gồm tiền phòng và bữa ăn sáng nhẹ (
+Bed & Breakfast plan
+)
+Trên đây là những thông tin cơ bản về 
+ cung cấp đồng thời cũng hy vọng giúp bạn đọc hiểu hơn khái niệm 
+Room Rate là gì
+ cũng như một số lưu ý về giá phòng trong khách sạn. Đừng quên cập nhật bài viết mới nhất bạn nhé!

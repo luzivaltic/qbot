@@ -1,0 +1,156 @@
+Airtable là gì? Ứng dụng của Airtable trong các hoạt động kinh doanh  | Cohost AI
+Airtable là một công cụ quản lý cơ sở dữ liệu được nhiều doanh nghiệp tin dùng. Bạn có biết sức hút của nó đến từ đâu không? Hãy cùng Cohost tìm hiểu về 
+Airtable và ứng dụng của nó trong các hoạt động kinh doanh
+1. Airtable là gì? 
+Airtable
+ là một công cụ quản lý dữ liệu được phát hành vào năm 2012
+ là một giải pháp quản lý dữ liệu với thiết kế thân thiện với người dùng, đáng tin cậy và linh hoạt được phát hành vào năm 2012. 
+ chứa thông tin trong bảng tính, tương tự như 
+Excel
+ hay
+ Google Sheet
+, với giao diện hấp dẫn và dễ sử dụng. Bạn có thể sắp xếp, tổ chức các sáng kiến, nội dung, dự án… của mình tập trung tại một chỗ.
+Nhưng 
+ đồng thời cũng là một cơ sở dữ liệu quan hệ nên đem đến cho người dùng nhiều tiện ích hơn nữa. Nó kết hợp những tính năng của một cơ sở dữ liệu và format của bảng tính theo một cách rất dễ hiểu, giúp ai cũng có thể sử dụng. 
+Bên cạnh Airtable cũng có một vài ứng dụng khác được dùng để quản lý dữ liệu, ví dụ như Notion. So sánh 
+Airtable và Notion
+ sẽ thấy mỗi công cụ đều có điểm mạnh riêng.
+2. Thành phần cơ bản của Airtable
+Để hiểu rõ hơn về 
+, hãy cùng tìm hiểu về các thành phần cơ bản của công cụ này. Các thành phần này làm nên cấu trúc hệ thống của 
+, giúp bạn sắp xếp và phân loại dữ liệu theo nhiều phân khúc. Đây cũng là những cụm từ bạn sẽ gặp và sử dụng thường xuyên. 
+Base
+: Base giống như bảng tính, có thể chứa rất nhiều bảng. Tuy nhiên, một base không chỉ đơn giản là hàng và cột, một base cũng có thể là lịch hay bảng Kanban. Base vì vậy linh hoạt hơn so với bảng tính.
+Table
+: Table hay bảng là cấu trúc cơ bản của các base. Nó giống như các sheet trong một bảng tính, mỗi table sẽ chứa thông tin liên quan đến một nội dung, chủ đề nhất định. Ví dụ, với một base về social marketing thì mỗi table sẽ chứa thông tin của một mạng xã hội. 
+View
+: View là những cách khác nhau mà dữ liệu trong bảng của bạn được hiển thị. Đây là một trong những tính năng nổi bật của Airtable, sẽ được nói rõ hơn ở phần sau. 
+Field
+: Field trên Airtable giống như các cột trong một bảng tính. Mỗi field sẽ là một loại dữ liệu. So với các cột bảng tính, field có thể chứa được nhiều kiểu dữ liệu: tệp dữ liệu (ảnh, âm thanh và nhiều loại tệp khác), hộp kiểm, menu dropdown, dữ liệu text một dòng, dữ liệu text nhiều dòng. 
+Record
+: Tương tự như Field, Record giống như các hàng trong một bảng tính, chứa thông tin về một đối tượng trong dữ liệu, mỗi đối tượng sẽ có nhiều trường dữ liệu hay field. 
+Ví dụ về table, record và field trong 
+App
+: Đây là một điểm nổi bật của Airtable. Các app sẽ giúp bổ sung thêm nhiều chức năng cho 
+, tương tự như Appstore trên điện thoại. 
+Các app sẽ cung cấp thêm nhiều tính năng cho người sử dụng 
+3. Tại sao nên lựa chọn Airtable
+Giữa rất nhiều công cụ cho doanh nghiệp để quản lý, tại sao bạn nên chọn 
+? 
+Thích hợp với nhiều loại hình doanh nghiệp
+Giao diện của Airtable theo dạng bảng tính khá đơn giản nên có thể được hầu hết các doanh nghiệp sử dụng. Khi mà đa số chúng ta đều quen thuộc với bảng tính Excel hay Google Sheet thì chuyển đổi sang 
+ cũng không tạo nên quá nhiều khó khăn.
+Nếu người dùng đã quen với các công cụ khác như Excel thì cũng không gặp quá nhiều khó khăn với 
+Người dùng cũng có thể chọn cách hiển thị phù hợp với nhu cầu của mình. Thậm chí, dữ liệu cũng có thể điều chỉnh thành các dạng phù hợp như tiền tệ, ngày tháng, văn bản dài hay giá trị cho trước. 
+Dễ dàng chia sẻ file và dữ liệu
+Người dùng có thể dễ dàng chia sẻ file và dữ liệu. Phiên bản miễn phí cũng có tính năng này. 
+ cung cấp cả ứng dụng cho desktop và điện thoại nên bạn có thể truy cập file ở bất cứ đâu, bất cứ khi nào. Giới hạn lưu trữ file cũng khá lớn nên bạn có thể đăng những file có kích thước lớn lên để cả team download. 
+ có nhiều lựa chọn chia sẻ file cho người dùng
+Khi chia sẻ dữ liệu, bạn có nhiều lựa chọn: 
+Chia sẻ đường dẫn với nhiều tùy chỉnh quyền truy cập, quyền xem khác nhau
+Nhúng base trên 
+ lên website
+Sử dụng API key để tùy chỉnh app của bạn (tất cả người dùng Airtable đều có quyền truy cập vào API key thông qua tài liệu Airtable API) 
+Chuyển dữ liệu sang 
+Google Sheet
+ thông qua 
+Airtable Importer, Zapier 
+hoặc những ứng dụng khác 
+Dễ dàng hợp tác với đồng nghiệp
+Airtable có rất nhiều tính năng hợp tác để cải thiện việc giao tiếp giữa các thành viên trong nhóm. Những người khác nhau sẽ có những quyền hạn khác nhau với một base:
+Owner/Creator
+: Owner/Creator có quyền hạn cao nhất với một base trên Airtable, họ có thể thêm, xóa cũng như điều chỉnh các record, khóa hoặc bỏ khóa các cách hiển thị, di chuyển workspace sang vị trí khác. 
+Editor:
+Commentor
+: Commentor có thể truy cập và xem toàn bộ base nhưng họ sẽ không thể thực hiện chỉnh sửa mà chỉ có thể bình luận, nhận xét. 
+Read-only
+: Những người này chỉ được xem base nhưng không thể comment hay chỉnh sửa. 
+Với những người khác nhau, bạn có thể cài đặt quyền hạn khác nhau với base
+Khi viết comment, bạn có thể thông báo cho một người cụ thể bằng cách sử dụng @ để nhắc đến tên của họ. Nhờ vậy, quá trình giao tiếp diễn ra nhanh, giúp công việc được hoàn thành sớm hơn và giúp tất cả mọi người đều nắm được thông tin. 
+4. Các tính năng nổi bật của Airtable 
+Cách hiển thị khác nhau cho những trường hợp sử dụng khác nhau
+ cho phép người dùng lựa chọn những cách hiển thị dữ liệu khác nhau, tùy chỉnh để thích hợp với nhu cầu người dùng. Có những cách hiển thị sau:
+Bảng tính cơ bản
+: giống với bảng tính dạng lưới trên Excel hay Google Sheet
+Ví dụ hình ảnh bảng tính trên 
+Lịch
+: hiển thị các record theo các cột ngày, ví dụ như ngày các record được thêm vào cơ sở dữ liệu 
+Hình ảnh hiển thị theo lịch trên 
+Thư viện
+: hiển thị theo dạng các thẻ, mỗi thẻ sẽ là một tệp đính kèm như ảnh hay tài liệu 
+Airtable 
+hiển thị theo dạng thư viện
+Bảng (Kanban)
+: Nếu bạn đã sử dụng 
+, có lẽ bạn sẽ quen thuộc với cách hiển thị này. Bảng Kanban là cách hiển thị theo dạng các thẻ nối tiếp nhau trên cột. 
+Hình ảnh bảng Kanban trên 
+Việc tự động hóa tùy thuộc vào nhu cầu và hiểu biết của từng người. Tự động hóa đơn giản có thể chỉ là tạo các thông báo tự động, phức tạp hơn thì có thể là thực hiện một chuỗi hành động dựa trên một chuỗi hoạt động là trigger. 
+ cung cấp các tự động hóa cơ bản, nhưng bạn hoàn toàn có thể sáng tạo thêm nếu thành thạo ngôn ngữ Javascript để bổ sung thêm các chức năng khác bằng cách triển khai mã lập trình logic.
+Tự động hóa trên 
+ được xây dựng theo dạng 
+Trigger - Action
+Tích hợp với nhiều công cụ khác
+Nhắc đến tự động hóa thì không thể không nhắc đến khả năng tích hợp với những công cụ khác. Hai chức năng kết hợp lại khiến 
+ trở nên tiện dụng hơn nhiều. Sử dụng tự động hóa, bạn có thể 
+Gửi email tự động
+Đồng bộ với Google Calendar
+Cập nhật record dựa trên những thay đổi trong những công cụ khác
+Gửi tin nhắn trên Slack/Microsoft Teams
+Lên lịch tweet trên Twitter
+và rất nhiều việc khác nữa. 
+ cũng cho phép người dùng nhập cơ sở dữ liệu hay thông tin từ những công cụ khác vào 
+. Thậm chí, bạn còn có thể nhập bảng tính từ ứng dụng lịch hay liên lạc của mình. Nhìn chung, bạn có thể kết nối 
+ với những công cụ khác và sử dụng những mẫu mà 
+ cung cấp để tập trung dữ liệu tại một chỗ, thực hiện nhiều thao tác dễ dàng, mượt mà. 
+Tìm hiểu kỹ hơn về tự động hóa trên Airtable tại 
+5. Ứng dụng của Airtable vào hoạt động kinh doanh
+Ứng dụng vào hoạt động tiếp thị
+Email Marketing
+: Airtable base là một nơi tuyệt vời để bạn lên kế hoạch cho chiến dịch email marketing của mình, lên lịch gửi và phân tích tính hiệu quả sau khi tiến hành chiến dịch. 
+Bạn có thể quản lý chiến dịch email marketing với 
+Content Calendar
+: Phân chia công việc, lên lịch bài đăng, review, đăng bài và phân tích có thể được làm ngay tại một nơi - Airtable base. Điều này tiết kiệm thời gian và công sức cho tất cả mọi người. 
+ cho Content Calendar giúp bạn phân tích tính hiệu quả dễ dàng
+Social Ads
+: Các doanh nghiệp hiện nay sử dụng quảng cáo trên nhiều nền tảng mạng xã hội khác nhau. Việc theo dõi quảng cáo trên nhiều nền tảng có thể sẽ khó khăn và gây hoang mang. Lưu trữ tất cả mọi thứ ở một chỗ sẽ giúp bạn và tất cả những người liên quan có thể truy cập và theo dõi số tiền bỏ ra và mức độ hiệu quả. 
+Bạn có thể lưu trữ tất cả các chiến dịch Social Ad trên một base 
+Ứng dụng vào hoạt động bán hàng
+Sales CRM
+ cung cấp một template Sales CRM giúp doanh nghiệp truy cập vào thông tin account và khách hàng trong thời gian thực. Mỗi thành viên có thể cá nhân hóa cách hiển thị của template này để hoàn thành nhiều công việc như xem lịch các cuộc họp, hay dùng bảng kanban để xem tiến độ của một giao dịch. 
+Các thành viên có thể cá nhân hóa Sales CRM để theo dõi
+SWOT Analysis
+ cũng có template dành cho việc phân tích SWOT, nhờ vậy doanh nghiệp có thể biết được các yếu tố bề mặt cũng như bên trong để đưa ra những quyết định đúng đắn. 
+Template SWOT mà Airtable cung cấp
+Ứng dụng vào hoạt động phát triển phần mềm
+Theo dõi bug
+: Template cho hệ thống theo dõi bug đơn giản hóa cũng có trên 
+. Người dùng có thể gắn form để dễ dàng nhập báo cáo về bug. Các doanh nghiệp có thể chuẩn bị cho việc hỗ trợ khách hàng bằng cách phân loại bug dựa trên các thẻ ưu tiên. 
+Theo dõi tiến độ xử lý bug dễ dàng với 
+Ma trận rủi ro giá trị (Value Risk Matrix)
+: Đây là công cụ để đánh giá mức độ phức tạp của một ý tưởng. Mức độ phức tạp phụ thuộc vào thời gian, các vấn đề kỹ thuật và hỗ trợ tài chính. Với template VRM, người dùng có thể tùy chỉnh mức đánh giá cho rủi ro và giá trị để xây dựng ma trận. 
+ cung cấp sẵn template cho Value Risk Matrix
+Ứng dụng vào hoạt động quản lý sản phẩm
+User Story Mapping
+: Sử dụng base 
+ giúp các nhà quản lý sản phẩm (Product Manager) ghi lại những việc đã làm và tìm lại các tài liệu nghiên cứu trước đó để lên chiến lược kỹ càng.
+Hình ảnh User Story Mapping được thực hiện trên 
+Nghiên cứu thị trường và phân tích đối thủ
+: Đây là quy trình nên được diễn ra liên tục và có sự hợp tác giữa các thành viên trong tổ chức. Tận dụng những tính năng làm việc nhóm, hợp tác của 
+, các nhóm làm sản phẩm có thể cập nhật base thường xuyên, thu thập thông tin và phân tích thị trường. 
+Tận dụng tính năng hợp tác của 
+ giúp người dùng theo dõi công việc nghiên cứu diễn ra liên tục
+6. Hướng dẫn cách đăng ký Airtable dễ dàng
+Các bước đăng ký 
+ không hề khó.
+: Truy cập trang web 
+https://airtable.com/
+ và chọn Sign up. 
+: Điền thông tin đăng ký. Bạn điền tên, địa chỉ email của mình hoặc đơn giản hơn thì đăng ký luôn bằng tài khoản Facebook. 
+Giao diện đăng ký tài khoản 
+: Điền các thông tin về bản thân, nhóm làm việc và nhu cầu sử dụng. Điều này sẽ giúp Airtable có thể phục vụ bạn tốt hơn.
+Ví dụ một câu hỏi mà 
+ đặt ra cho người dùng 
+Chỉ với 3 bước đơn giản, bạn đã có ngay tài khoản Airtable để sẵn sàng sử dụng. Cohost đã có riêng một bài viết về việc đăng ký và sử dụng Airtable, bạn có thể tìm hiểu kỹ hơn tại 
+Bài viết trên đã tổng hợp những thông tin tổng quan nhất về 
+Airtable và ứng dụng của nó trong kinh doanh
+. Nhìn chung, đây là một ứng dụng rất hữu ích, phù hợp cho nhiều loại hình doanh nghiệp và nhiều phòng ban. Nếu có cơ hội, bạn nên thử trải nghiệm Airtable. Cảm ơn bạn đã đón đọc bài viết. 

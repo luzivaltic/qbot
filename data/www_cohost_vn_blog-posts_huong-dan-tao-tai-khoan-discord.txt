@@ -1,0 +1,94 @@
+Hướng dẫn tạo tài khoản Discord | Cohost AI
+Dù đã xuất hiện một số dịch vụ chat voice phổ biến như GameVox, TeamSpeak hay Skype; 
+Discord
+ lại được đánh giá là ứng dụng mang lại đa dạng tính năng hơn. Bạn có thể sử dụng Discord trên cả máy tính lẫn điện thoại thông minh. Thế nhưng, phần mềm này chưa hỗ trợ tiếng Việt, vậy nên sẽ là một rào cản lớn đối với nhiều người dùng. 
+Vậy nên, trong bài viết hôm nay, 
+ sẽ 
+hướng dẫn tạo tài khoản Discord
+Hướng dẫn cài đặt Discord trên máy tính
+Trong khuôn khổ bài viết, 
+ sẽ chỉ bạn cách tải, cài đặt, tạo tài khoản và đăng nhập 
+ trên máy tính Windows. Với các thiết bị khác, bạn chỉ cần làm theo thao tác tương tự.
+Đầu tiên, bạn lựa chọn phiên bản phù hợp với thiết bị đang sử dụng rồi tải phần mềm 
+ về thông qua liên kết dưới đây.
+Tải Discord
+Sau khi tải file xong, bạn nhấp chuột phải và chọn 
+Run As Administrator
+ để chạy file đã cài đặt.
+Run as administrator để cài đặt file Discord
+Lúc này, bạn sẽ thấy xuất hiện một giao diện như ảnh bên dưới, nghĩa là bạn sẽ phải chờ khoảng một vài phút rồi 
+ mới có thể hoàn tất quá trình cài đặt.
+Chờ một vài phút để quá trình cài đặt Discord hoàn tất
+Nếu bạn thấy bảng 
+ trên màn hình mình hiện ra giống như dưới đây thì tức là 
+ đã được cài đặt thành công. Việc tiếp theo là tạo tài khoản 
+. Trường hợp đã có sẵn tài khoản, bạn chỉ cần nhập thông tin và chọn 
+Login
+ để đăng nhập. Ngược lại, nếu chưa có tài khoản thì chọn 
+Register
+ và tạo tài khoản.
+Để đăng ký, bạn chỉ cần đặt tên tài khoản, rồi nhập vào mục 
+Create An Account email
+ và mật khẩu. Chọn 
+ là xong.
+Đăng nhập/đăng ký Discord
+ sẽ đăng nhập tự động tài khoản của bạn vào phần mềm ngay sau khi tài khoản đã được tạo.
+Công việc còn lại của bạn đó là tạo riêng một server, hoặc bạn có thể tham gia cùng những server khác tại màn hình chờ của 
+Nhớ rằng là bạn có thể sử dụng 2 tính năng miễn phí của 
+: chat bằng voice hoặc chat bằng văn bản. Bạn chỉ cần tạo tài khoản và đăng nhập là có thể sử dụng 2 tính năng đó được ngay. Ngoài ra, bạn có thể thoải mái tạo nhiều server mà không bị giới hạn!
+Cách tạo tài khoản discord trên máy tính
+ Truy cập vào đường dẫn 
+discordapp.com
+Mở Discord
+ trên trình duyệt hoặc bạn có thể tải phần mềm về máy tính như hướng dẫn ở phần trước.
+ Ở bước này, bạn có thể  đăng ký như bước 2 hoặc bấm
+ Login (Đăng nhập)
+ ở góc trên bên phải màn hình để đăng ký tài khoản. Nhấp vào 
+Open Discord
+ trong trình duyệt của bạn để chuyển giao diện sang phần đăng ký. Nhập tên tài khoản của bạn và nhấn vào mũi tên bên cạnh. Ngoài ra, bạn có thể bấm vào 
+ để đăng ký tài khoản 
+ như giao diện bên dưới. Sau khi đăng ký theo tên và nhấn vào mũi tên, bước tiếp theo phần mềm sẽ nhập địa chỉ email và mật khẩu để xác thực tài khoản của bạn. Việc xác minh này sẽ giúp bạn có được một tài khoản chính thức. Nếu không, bạn sẽ mất tài khoản của mình.
+Ấn Login rồi điền thông tin cá nhân
+ Sau khi tạo xong tài khoản, ở phía bên trái trang giao diện bạn nhấp vào ký hiệu dấu “+” để tạo kênh, bạn có thể tạo kênh riêng của mình bằng cách tham gia máy chủ khác có sẵn hoặc nhấp tạo máy chủ hoặc.
+Ấn "+" để tạo kênh riêng
+Khi bạn muốn tạo kênh riêng của mình, bạn chỉ cần nhấp vào tạo máy chủ, giao diện sẽ hiện ra mục để bạn đặt tên máy chủ và lựa chọn khu vực máy chủ. Sau đó chọn Tạo.
+Ngoài ra phần mềm cho phép bạn điều chỉnh voice chat, âm thanh, thiết bị đầu ra,...để có được trải nghiệm tốt nhất.
+Cách thêm bot vào Discord? Các loại bot phổ biến trên Discord?
+Cách tạo tài khoản Discord trên điện thoại
+Để sử dụng 
+ trên điện thoại, trước tiên bạn cần phải cài đặt discord app trên máy bằng cách vào 
+App Store
+Play Store
+ để tải ứng dụng về.
+ Sau khi tải, bạn truy cập vào ứng dụng 
+ và sẽ thấy giao diện ứng dụng khá giống với máy tính. Bạn nhấn vào Đăng ký rồi điền thông tin đầy đủ.
+Tạo tài khoản Discord trên điện thoại thông minh
+ Khi đã hoàn thành tạo tài khoản, tại menu bên trái, bạn sẽ thấy dấu ba gạch ngang và mã tag #xxxx, đây chính là mã giúp bạn kết nối với những người chơi khác.
+Hoặc bạn có thể ấn vào biểu tượng “+” góc bên phải màn hình, rồi gõ mã tag và gửi. Khi ấy người bạn gửi kết bạn sẽ nhận được lời mời kết bạn.
+Kết nối bạn bè trên Discord bằng smartphone
+ Trong trường hợp bạn muốn lập một phòng chat, bạn chọn dấu “+” phía bên trái thanh công cụ rồi đặt tên phòng và điều chỉnh kênh theo như ý muốn.
+ Tạo phòng xong, để có thể gửi phòng cho bạn bè, bạn có thể chọn 
+Invite People
+. Tại đây bạn có thể copy đường link của phòng chat rồi share cho bạn bè.
+Ngoài ra, nếu bạn muốn tham gia một kênh sẵn có nào đó, nhấp vào mục 
+Join a server with an Invite link
+. Bạn nhập link server mà muốn tham gia rồi chọn Join. Sau khi vào 
+server
+, bạn nhấp vào Join thêm lần nữa để kết nối.
+Chia sẻ link phòng cho bạn bè trên Discord bằng smartphone
+Đăng nhập bằng mã QR
+Bên cạnh 2 cách đăng truy cập 
+ kể trên, bạn có thể đăng nhập vào ứng dụng an toàn và nhanh chóng hơn bằng việc sử dụng mã 
+QR
+. Để có thể sử dụng tính năng này, trước tiên, bạn cần phải đăng nhập tài khoản Discord trên thiết bị di động.
+Khi đã hoàn tất việc đăng nhập, tiếp đến bạn mở 
+User Settings
+ ở ứng dụng di động rồi chọn tùy chọn 
+Scan QR Code
+. Bạn cần phải mở quyền truy cập camera trên điện thoại di động để có thể quét mã.
+Đăng nhập Discord bằng mã QR
+Khi scan, bạn cần hướng khung ngắm vào thẳng phần mã QR trên màn hình - tại bước này, bạn sẽ được yêu cầu xác minh một số thông tin đăng nhập ứng dụng 
+ trên thiết bị di động của bạn.
+Có một lưu ý quan trọng. Đó là không được phê duyệt bất kỳ thông tin đăng nhập nào bằng mã QR mà không được tạo bởi bạn. Nếu có ai gửi mã QR thì hãy nhấn huỷ xác minh đăng nhập ngay lập tức!
+ hy vọng rằng bài viết 
+ mang đến bạn đọc những thông tin hữu ích và chi tiết nhất. Mình chúc bạn thành công!

@@ -1,0 +1,168 @@
+Discord là gì? Tất tần tật về discord mà bạn cần biết 2022 | Cohost AI
+Với sự phát triển vượt bậc của công nghệ thông tin, đời sống của con người ngày càng được nâng cao với sự hỗ trợ của các phần mềm kỹ thuật. Một trong những ứng dụng phổ biến nhất hiện nay là Discord. Tuy nhiên, không phải ai cũng hiểu được 
+Discord là gì
+ và cách sử dụng nó. Trong bài hôm nay, 
+ sẽ giải đáp tất cả những thắc mắc về Discord có những người mới bắt đầu sử dụng.
+Discord là gì?
+ là một hệ thống trò chuyện bằng giọng nói và văn bản mà tại đây bạn có thể giao tiếp với những người khác đang chơi cùng game với bạn. Bất kỳ ai cũng có thể tạo máy chủ thảo luận tùy thích. 
+2015 là năm 
+ được ra mắt lần đầu tiên. Thông thường, một máy chủ sẽ bao gồm các phòng trò chuyện phân chia theo chủ đề cụ thể, ví dụ như "trò chuyện chung" hay "thảo luận hội hoạ" cũng như các kênh âm thanh dành riêng cho các trò chơi và một số hoạt động cụ thể khác. Độ trễ thấp, khả năng trò chuyện thoại chất lượng cao giúp 
+ trở thành một công cụ phổ biến cho các trình phát trực tuyến và podcast trên Twitch, đồng thời cũng được thiết kế để hỗ trợ các cuộc trò chuyện video quy mô lớn….
+ cũng giải thích rằng, giống như các ứng dụng truyền thông xã hội truyền thống, nền tảng này "không có cách nào để tạo thuật toán, nguồn cấp dữ liệu, lượt thích và bất cứ thứ gì lan truyền"...
+Discord hỗ trợ cuộc trò chuyện video quy mô lớn
+Discord được phát triển bởi đơn vị nào?
+Jason Citron
+ chính là người cha đẻ của khái niệm. Ông cũng là người sáng lập OpenFeint, một nền tảng trò chơi xã hội dành cho các trò chơi di động.  
+Tháng 5 năm 2015, 
+ được phát hành trên miền 
+. Discord thường được sử dụng bởi tại giải đấu LAN và các game thủ eSports. Công ty được hưởng lợi từ mối quan hệ giữa cộng đồng 
+subreddit
+Twitch Streamer
+ cho 
+World of Warcraft
+Diablo
+Jason Citron là cha đẻ của Discord
+Discord khác gì các nền tảng giao tiếp khác?
+Mặc dù rất dễ dàng để tìm thấy một chương trình giao tiếp miễn phí trực tuyến ngày nay, thế nhưng 
+ vẫn là một nền tảng nổi bật bởi nó có vô số tùy chọn trò chuyện. 
+ hoàn toàn có thể tích hợp các tính năng tốt nhất của tất cả các chương trình  phổ biến như 
+Skype
+ với giao diện rất thân thiện với người dùng. 
+Nếu trò chơi của bạn bị chậm lại khi bạn đang sử dụng chương trình trò chuyện thoại, thì chương trình trò chuyện thoại sẽ trở nên kém hữu ích đi rất nhiều. Do đó, nhóm phát triển 
+ đã không ngừng nỗ lực cải tiến chương trình - từ đó giúp 
+ hoạt động hiệu quả nhất có thể. 
+Bạn không cần phải chơi trò chơi. Bởi, 
+ có thể giúp bạn kết nối các nhóm bạn bè trên cùng một máy chủ hoặc thiết lập các buổi trò chuyện cùng chủ đề trên một máy chủ công cộng. 
+Discord giúp kết nối nhóm bạn trên cùng một máy chủ
+Khi bạn tạo máy chủ 
+, bạn có thể định cấu hình nó dựa trên các kiểu khác nhau bằng cách thiết lập vai trò khác nhau cho các thành viên.
+Chẳng hạn như bạn có thể tạo các vai trò quản trị viên và người kiểm duyệt khác nhau hoặc tạo các vai trò đặc biệt cho các thành viên tích cực. Đặt các vai trò thành viên khác nhau sẽ giúp mang lại nhiều lợi ích cho máy chủ (quản lý máy chủ, cung cấp quyền truy cập, thưởng thành viên tích cực, v.v.). 
+ giúp bạn dễ dàng sử dụng ngay cả khi bạn không chơi game. Các ứng dụng và chương trình PC có thể được tải xuống đầy đủ hoặc chạy trên máy tính của bạn. Phiên bản tiện dụng này cực kỳ nhỏ gọn và lý tưởng cho các chế độ nền trong trò chơi. 
+Điều này có nghĩa rằng: Mở rộng khả năng tương tác xã hội của ứng dụng của bạn bằng cách tương tác hoàn toàn với mọi người trên máy chủ trò chuyện 
+ từ mọi nơi.
+Dễ dàng sử dụng Discord bằng việc tải xuống ứng dụng
+Tính năng của discord
+Discord Bots
+Bots của Discord
+ thực chất khi hiển thị trong kênh chat sẽ xuất hiện dưới dạng một người dùng. Bots này cũng chính là những dịch vụ đến từ nhiều website với vai trò chính là hỗ trợ quản lý thành viên hoặc các hoạt động diễn ra ngay trong kênh chat.
+Cụ thể, 
+Discord bots
+ có thể thực hiện một số tác vụ quản lý kênh chat, chat hay phát nhạc tự động. Nhờ đó mà người dùng có thể dựa vào dịch vụ này để có thể sáng tạo nên các hoạt động tương tự.
+Ví dụ như bạn có thể tạo một bot chat - bot này sẽ có nhiệm vụ gửi lời chào kèm một hình ảnh random vào 9h sáng mỗi ngày tới channel được chỉ định. Hoặc bạn có thể yêu cầu bot tìm kiếm và play bài nhạc trong 
+channel voic
+e hoặc yêu cầu bot tổng hợp thông tin bài báo rồi gửi lên channel theo khoảng thời gian nhất định nào đó.
+Tìm hiểu thêm về cách thêm bot vào Discord 
+Tìm hoặc tạo mới server
+Discord hoạt động như thế nào?
+ Câu trả lời đơn giản là "
+". Giống như các ứng dụng khác (ví dụ như 
+), 
+ cho phép người dùng tạo phòng trò chuyện mới và mời bạn bè. Vậy làm cách nào để mời bạn bè của bạn tham gia 
+? Bạn cần gửi cho họ một liên kết phòng trò chuyện. Cuối cùng, trò chuyện nhóm cho phép người dùng tự do gửi tin nhắn cho người dùng trên máy chủ. 
+Mời bạn bè vào phòng chat trên Discord
+Tải xuống 
+ để chia máy chủ của bạn thành nhiều kênh nhỏ hơn để thảo luận về các chủ đề khác nhau. Giao tiếp bằng văn bản hoặc giọng nói thông qua 
+ dễ sử dụng hơn một số ứng dụng tương tự. Ngoài ra, bạn có thể tạo nhiều kênh cá nhân hơn với máy chủ riêng của mình và mời người khác tham gia. Sự tiện lợi ở đây đó là, tùy theo ý muốn của bạn, bạn có thể đặt toàn bộ máy chủ ở chế độ công khai hoặc riêng tư.
+Bạn sẽ là thành viên của nhiều server cùng một lúc và 
+ trở thành kênh tương tác xã hội chính. Mỗi người sở hữu một server riêng và có thể thảo luận với bạn bè trước trận đấu. Điểm khác biệt giữa 
+ với các phần mềm khác là gì? 
+ không giới hạn server người dùng có thể tham gia. Bất cứ khi nào bạn muốn, bạn đều có thể chuyển từ server này sang server khác. Ứng dụng hiển thị danh sách các máy chủ ở bên trái, bạn chỉ cần nhấp vào máy chủ mà bạn lựa chọn. Đơn giản phải không nào?
+Discord không giới hạn người tham gia
+Làm cách nào để tham gia máy chủ 
+? Chỉ cần nhấp vào liên kết bạn muốn truy cập, tuy nhiên với điều kiện là bạn được mời. Ngoài ra, các 
+server riêng
+server công cộng
+ đều có sẵn và hiển thị trên các công cụ tìm kiếm. Server được xác thực bởi Discord là 
+server Discord
+ - được phát hành bởi chính công ty trò chơi của trò chơi, và cùng với những cái tên nổi tiếng khác.
+Quá trình tải xuống 
+ và tạo server diễn ra khá nhanh chóng và dễ dàng. Ở phía bên trái của ứng dụng được kết nối, có nhiều máy chủ được xếp theo chiều dọc để người dùng dễ dàng chuyển đổi. Biểu tượng dấu cộng giúp bạn tạo một server của riêng mình. Bạn có thể đặt tên cho server và chọn ảnh hồ sơ của bạn nếu bạn muốn. Khi server đã được tạo, 
+ sẽ tạo một liên kết mà bạn có thể sử dụng để mời thêm người. 
+Sau khi tham gia server thành công, bạn sẽ thấy các kênh giao tiếp bằng văn bản và giọng nói ở bên trái màn hình. Nhấp vào biểu tượng dấu cộng ở đầu danh sách để đặt tên và thêm kênh mới. Mỗi kênh có bảng điều khiển riêng với tùy chọn được đặt ở chế độ riêng tư chỉ cho những người được mời và người tạo kênh tham gia.
+Kênh giao tiếp bằng văn bản và giọng nói ở bên trái màn hình
+Kết bạn 
+Điểm tương đồng của 
+ với các ứng dụng khác đó chính là 
+ cũng sở hữu tính năng kết bạn và hiển thị danh sách bạn bè có dùng ứng dụng - từ đó, bạn có thể liên hệ trực tiếp ngoài 
+Discord server
+Làm cách nào để kết bạn trên 
+? Đơn giản thôi, rằng bạn chỉ cần tìm kiếm theo tên trong server đã tham gia. Tiếp đến, bạn click chuột phải và tìm nút “
+Add Friend
+” nằm bên dưới màn hình hoặc bạn có thể vào 
+User Profile
+ của họ để tìm nút này. 
+ sẽ gửi lời mời kết bạn sẽ tới họ.
+Nếu bạn đã biết tên người đó và họ cho phép người lạ tìm kiếm thì bạn có thể sử dụng trường 
+Search
+ ở góc bên trái màn hình. Sau đó click vào ảnh đại diện rồi thêm họ vào danh sách bạn bè. 
+Dùng thao tác Search trên Discord để tìm kiếm
+Có cách nhanh nhất là bạn không cần thao tác search, thay vào đó sẽ gửi lời mời trực tiếp qua danh sách bạn bè. Bạn click vào “
+" ở phía bên trái trên cùng trong 
+client Discord
+. Bạn sẽ thấy một hộp thoại mới hiện ra, tại đây bạn có thể thêm tài khoản và “
+Discord Tag
+” 4 con số từ bạn bè; ví dụ: Bomummim#2605
+Sau khi kết bạn thành công, bạn hoàn toàn có thể trò chuyện bằng voice chat, văn bản, hoặc gọi video,...
+Kết nối tài khoản và xây dựng hồ sơ
+Xây dựng hồ sơ trong 
+ là cung cấp những thông tin cơ bản như tên, độ tuổi, sở thích,... Nhờ vậy việc kết nối các tài khoản trở nên dễ dàng và thuận tiện hơn. Sử dụng 
+ giống như bất kỳ mạng xã hội nào khác, các tài khoản của trên các nền tảng có thể kết nối lẫn nhau. 
+ cũng giúp liên kết các phòng trò chuyện riêng tư và cộng đồng. Tại đây, bạn có thể liên kết các tài khoản bên cạnh tìm người để kết nối. Điều này sẽ cung cấp cho bạn nhiều thông tin hơn về đối thủ của bạn trong thế giới thực. 
+Kết nối bạn bè dễ dàng trên Discord
+Với tài khoản mạng xã hội, bạn có thể sử dụng 
+ như một ứng dụng nhắn tin thông thường. Tất cả những gì bạn phải làm là cung cấp thông tin tài khoản cần thiết và hoàn thành yêu cầu trên màn hình. Các tính năng mới của 
+ được thiết kế để giúp "xã hội hóa" phần mềm của bạn. Đối với các máy chủ công cộng, đây là giải pháp rất hữu hiệu giúp bạn kết bạn thêm hiệu quả.
+Thảo luận cộng đồng
+Khi  hoạt động trên kênh hoặc server, bạn có thể sử dụng trường văn bản (text) bên dưới giao diện để gửi tin nhắn. Với 
+, bạn cũng có thể sử dụng nút Tải lên của ảnh hoặc kéo và thả ảnh GIF vào khung trò chuyện để làm cho cuộc trò chuyện của bạn trở nên thú vị hơn. Để chỉnh sửa hoặc xóa tin nhắn, hãy nhấp vào vị trí mong muốn để mở menu thả xuống tùy chọn. 
+Discord Markdown
+ là gì? Đây là một giải pháp dễ dàng và nhanh chóng để thực hiện các thay đổi trong trò chuyện nhóm mà không cần đến các mã đánh dấu hữu ích như in nghiêng và in đậm.
+Kiểm soát người bạn thấy và nghe
+Kiểm soát người bạn thấy và nghe trên Discord
+ sở hữu đầy đủ các tính năng mạng xã hội để bạn có thể chọn tương tác mình cần. Nhấp vào tên của người đó trên máy chủ sẽ xuất hiện menu mới. Các tùy chọn như thêm người vào danh sách bạn bè, tắt hoặc chặn ai đó ... Bạn có thể sử dụng tính năng tắt tiếng (
+mute)
+ để ngừng nghe hoặc hiển thị tin nhắn, nhưng tin nhắn sẽ tiếp tục được theo dõi. Nhấp vào biểu tượng 
+Block
+ để chặn họ nghe thấy giọng nói của bạn hoặc đọc tin nhắn của bạn. 
+Làm cách nào để sử dụng 
+ với tư cách là quản trị viên máy chủ và kiểm soát mọi người? Khi bạn nhấp vào tài khoản của họ, bạn được cung cấp tùy chọn cho phép họ nghe trộm hoặc chặn từ server đó.
+Go Live
+ (phát trực tiếp) là tính năng mới trên 
+, nhưng chỉ chủ sở hữu server mới sử dụng được. Người dùng có thể qua 
+ để stream trực tiếp gameplay cho người xem server. 
+Go Live trên Discord
+Về cách dùng 
+Discord Go Live
+, khi thực hiện 
+chat voice
+, bạn click vào nút mũi tên ở góc trái màn hình. Sau khi click, bạn có thể chơi game và livestream. Thi thoảng, bạn có thể dùng tính năng 
+ này để chia sẻ màn hình. 
+Còn về cách tham gia Go Live trên 
+, thực ra rất đơn giản! Khi bạn hoặc ai đó đang phát trực tiếp, sẽ có chỉ dẫn cạnh tên trong voice chat. Độ phân giải mà 
+ cho phép mọi người stream là 720p với tốc độ lên đến 30 fps, 4k ở mức 60kps và 1080p ở mức 60fps, điều này còn tùy thuộc vào loại tài khoản của bạn. 
+Tải ứng dụng discord ở đâu?
+Dưới đây là link tải ứng dụng 
+Link PC: 
+https://discord.com/download
+Link Mobile: 
+Android
+IOS
+Hướng dẫn đăng ký discord
+Hướng dẫn nhanh
+Vào trang đăng nhập của 
+ và chọn Register.
+Điền đầy đủ các thông tin cá nhân.
+Xác thực tài khoản Discord qua email.
+Hoàn tất đăng ký.
+Hướng dẫn đăng ký Discord
+Hướng dẫn chi tiết
+ Vào trang đăng nhập của Discord và chọn Register.
+ Nhập đầy đủ email, tên người dùng và mật khẩu. Sau đó chọn Continue để tiếp tục.
+ Nếu muốn tạo server của riêng mình, bạn chọn vào Get Started. Ngược lại, chọn Skip. 
+ Truy cập vào email vừa nhập ở trên và chọn Verify Email để xác thực tài khoản Discord.
+ Chỉ mất vài giây để hệ thống hoàn tất việc tạo tài khoản cho bạn. Giờ đây, bạn hãy chọn Continue to Discord và bắt đầu trải nghiệm phần mềm này.
+Sau khi đăng ký tài khoản Discord, bạn có thể tạo tài khoản và sử dụng. Tham khảo hướng dẫn chi tiết tại 
+bài viết sau đây
+Bài viết giải nghĩa 
+ xin kết thúc tại đây. 
+ hy vọng rằng bài viết mang lại những thông tin bổ ích cho bạn đọc. Đừng quên ghé thăm mình để cập nhật thêm những bài viết thú vị khác nhé!

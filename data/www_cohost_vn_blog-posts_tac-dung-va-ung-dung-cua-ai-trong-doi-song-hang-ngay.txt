@@ -1,0 +1,56 @@
+Tác dụng và ứng dụng của AI trong đời sống hàng ngày | Cohost AI
+AI, hay 
+, không còn là những chúng ta chỉ biết đến thông qua những cuốn sách khoa học viễn tưởng. Nó đang được ứng dụng sâu rộng và trở thành một phần của cuộc sống hàng ngày. 
+tác dụng và những ứng dụng của AI trong đời sống hàng ngày
+1. Tác dụng của AI
+Trước hết, hãy cùng điểm qua một vài tác dụng của trí tuệ nhân tạo nhé. 
+: Như nhiều loại máy khác, điểm cộng lớn của 
+là tự động hóa. Tự động hóa đem đến hiệu suất và hiệu quả cao hơn, cải thiện chất lượng sản phẩm. Thời gian dành cho một đơn vị sản phẩm giảm xuống đáng kể. Không chỉ vậy, thay vì để con người làm những công việc nguy hiểm, 
+ có thể hỗ trợ, từ đó đem đến môi trường làm việc an toàn. 
+có thể đem đến môi trường làm việc an toàn hơn nhờ tự động hóa 
+Cải thiện trải nghiệm khách hàng
+: Sự hài lòng là yếu tố quyết định sự thành công của doanh nghiệp. Công nghệ xử lý ngôn ngữ tự nhiên (Natural Language Processing), một nhánh của trí tuệ nhân tạo, có thể phân tích ngôn ngữ, từ đó đưa ra câu trả lời phù hợp cho những thắc mắc của khách hàng. Sự trợ giúp của AI giúp doanh nghiệp phản hồi khách hàng nhanh chóng, hiệu quả, đồng thời giảm bớt gánh nặng cho những nhân viên chăm sóc khách hàng. 
+Phân tích dữ liệu
+: AI có thể tạo ra các mô hình và thuật toán dự đoán để xử lý dữ liệu, hiểu được những kết quả tiềm năng cho các xu hướng, viễn cảnh trên thị trường. Với khả năng tự động hóa, AI đẩy nhanh quá trình phân tích dữ liệu so với con người. 
+Tự động hóa cho phép 
+ phân tích dữ liệu nhanh hơn 
+2. Ứng dụng trong đời sống
+a. Cá nhân hóa trải nghiệm
+Khả năng phân tích dữ liệu nhanh và chính xác cho phép 
+ cung cấp những thông tin bổ ích về từng khách hàng. Từ những thông tin đó, một công ty có thể đưa ra những dịch vụ, sản phẩm thích hợp nhất với từng người. Ví dụ tiêu biểu của việc cá nhân hóa trải nghiệm là các nền tảng streaming như Netflix, Spotify.
+Nhiều công ty lớn đang sử dụng
+ để làm hài lòng khách hàng
+Hãy cùng nhìn vào cách Netflix làm hài lòng người dùng. 
+Thumbnail
+: Tên bộ phim là điều thu hút khán giả, nhưng không phải là tất cả. Một thumbnail hấp dẫn, khơi dậy được sự tò mò của người xem cũng rất quan trọng. Netflix hiểu được điều này và sẽ đưa ra thumbnail nhất định cho một bộ phim với người xem nhất định. Dễ hiểu là cùng là một bộ phim, nhưng người xem A sẽ thấy một thumbnail khác với người xem B. 
+Giới thiệu phim
+: Dựa trên thói quen xem phim như thể loại phim bạn hay xem, bạn xem hết một bộ phim hay bỏ dở giữa chừng, số lần bạn xem một bộ phim mà Netflix sẽ gợi ý cho bạn những bộ phim bạn có thể sẽ yêu thích. Và thực tế chứng minh nền tảng này đã rất thành công trong việc cá nhân hóa trải nghiệm bằng việc sử dụng Big Data và 
+ đóng vai trò rất lớn trong việc giữ chân khách hàng 
+b. Trợ lý ảo
+Trợ lý ảo cá nhân là một “người” giúp bạn hoàn thành những công việc đơn giản hàng ngày. Người trợ lý này có khả năng hiểu được ý định của bạn thông qua lời nói và văn bản. Khi nói đến trợ lý ảo chúng ta không thể nhắc đến Siri của Apple.
+Các trợ lý ảo hỗ trợ con người trong các công việc hàng ngày 
+Bạn có thể yêu cầu Siri thực hiện một công việc chỉ đơn giản bằng cách nói “Hey Siri” vào chiếc iPhone, AirPod hay Apple Watch của mình và nói thêm yêu cầu của mình. Với Siri, bạn có thể
+Gọi điện thoại hoặc FaceTime
+Gửi và đọc tin nhắn
+Đặt báo thức
+Xem lịch trình cá nhân
+Giải các bài toán
+Và rất nhiều việc khác nữa. Bạn không cần phải mở từng ứng dụng và thực hiện các thao tác phức tạp mà chỉ cần triệu hồi Siri, mọi việc sẽ được giải quyết nhanh, gọn, lẹ. 
+Một trợ lý ảo phổ biến với người dùng là Siri của Apple
+Giao diện theo hình thức hội thoại của Siri cho phép nó dịch và hiểu giọng nói của người dùng. Tính năng này được xây dựng dựa trên Xử lý ngôn ngữ tự nhiên, một nhánh AI có khả năng hiểu và phản hồi lại giao tiếp trực tiếp của con người. 
+c. Nhận diện khuôn mặt
+Rất nhiều công ty đã sử dụng 
+ với mục đích nhận diện khuôn mặt. Những phần mềm sinh trắc học đã phát triển rất nhiều so với gì chúng ta thường nghĩ về chúng là thứ giúp chúng ta mở điện thoại, laptop của mình. 
+Nhận diện khuôn mặt không chỉ dừng lại ở việc hỗ trợ mở khóa điện thoại thông minh 
+Công nghệ nhận diện khuôn mặt có thể được tùy chỉnh, vận dụng sáng tạo trong nhiều lĩnh vực khác nhau. 
+Phát hiện tội phạm
+: Tại Mỹ, sử dụng AI để tìm kiếm tội phạm đang dần được áp dụng. Cục Điều tra Liên bang đang xây dựng thuật toán học máy để nhận diện những kẻ tình nghi từ ID, bằng lái xe… Một công ty có tên là Clearview đã thu thập hàng tỷ tấm ảnh từ các mạng xã hội như Facebook, Instagram, Twitter và sử dụng AI để nhận diện người trong các tấm ảnh. Cảnh sát và các cơ quan chính phủ đã và đang sử dụng dữ liệu của công ty này để nhận diện những kẻ tình nghi bằng cách liên kết người xuất hiện trong ảnh với tài khoản mạng xã hội. 
+Hạn chế trộm cắp và thúc đẩy doanh số
+: Tại các cửa hàng, nhận diện khuôn mặt giúp nhận dạng những người với tiền sử trộm cắp, từ đó các nhân viên có thể phản ứng nhanh hơn trong các trường hợp xấu. Đồng thời, các thông tin như độ tuổi, giới tính… từ dữ liệu nhận dạng giúp người bán hàng có thể đưa ra những lời khuyên phù hợp. Điều này đặc biệt hữu ích trong ngành hàng mỹ phẩm. 
+Nhiều ứng dụng đặc biệt của nhận diện khuôn mặt bằng trí tuệ nhân tạo đã xuất hiện 
+Thanh toán
+: Thanh toán bằng tiền mặt, bằng thẻ và giờ là thanh toán bằng khuôn mặt. Bạn không hề đọc nhầm đâu. Thực tế, đã có một số nơi áp dụng việc thanh toán bằng nhận diện khuôn mặt. Tại một căng-tin trường học tại Gateshead, Vương quốc Anh, camera quét khuôn mặt học sinh và tự động thu tiền cho bữa ăn sau khi nhận diện được khuôn mặt. Cách này được cho là tiết kiệm thời gian, công sức, đồng thời giảm những tiếp xúc cơ thể, nhờ đó giảm nguy cơ lây lan COVID-19. 
+3 ứng dụng trên đây chỉ là 3 trong số rất nhiều cách 
+ đang được sử dụng để giúp cuộc sống của chúng ta trở nên thuận tiện hơn. Các bạn có biết 
+còn được ứng dụng trong lĩnh vực nào của đời sống nữa không? Hãy chia sẻ với Cohost những gì bạn biết về
+ ứng dụng của AI

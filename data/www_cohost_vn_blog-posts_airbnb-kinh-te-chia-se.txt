@@ -1,0 +1,67 @@
+Airbnb - Ví dụ điển hình cho mô hình kinh tế chia sẻ | Cohost AI
+Nhắc đến mô hình 
+ mà không nhắc đến Airbnb sẽ là một thiếu sót. Áp dụng mô hình sharing economy, kết hợp với ý tưởng táo bạo, công ty này đã trở thành người dẫn đầu trong lĩnh vực lưu trú.
+Hãy cùng Cohost tìm hiểu về Airbnb qua bài viết dưới đây nhé. 
+1. Câu chuyện của Airbnb
+Xuất phát từ vấn đề của hai nhà sáng lập, 
+ được thành lập vào năm 2007 
+Năm 2007, Brian Chesky và oe Gebbia chuyển tới New York. Không có việc làm, họ gặp khó khăn trong việc trả tiền thuê nhà. Và họ nhận thấy rằng, tất cả các phòng khách sạn trong thành phố đều đã được đặt trước. Tại thời điểm đó, Hội nghị Thiết kế Công nghiệp do Hiệp hội các Nhà thiết kế Công nghiệp Mỹ tổ chức, khiến khách du lịch gặp khó khăn trong việc tìm chỗ ở.
+Và hai người đã nhìn thấy cơ hội. Gebbia gửi một email cho Chesky với nội dung: Nếu như chúng ta biến căn gác xép thành một nơi để ngủ và ăn sáng, với một tấm thảm và bữa sáng. Chúng ta có thể kiếm thêm một chút đó. Sau đó, cả hai đã tạo một website đơn giản, 
+airbedandbreakfast.com
+, đem theo ba tấm nệm hơi và đặt vào gác xép của mình. 
+Ba khách hàng đầu tiên, một người đàn ông Ấn Độ 30 tuổi, một ông bố 45 tuổi đến từ Utah và một người phụ nữ 35 tuổi từ Boston, trả 80 đô một đêm cho dịch vụ này. Cả hai nhận thấy ý tưởng của họ có thể trở thành một ý tưởng kinh doanh, vậy nên họ team up với một người bạn cũ, Nathan Blecharczyk… để phát triển ý tưởng này. 
+Sự đông đúc tại thành phố New York thời điểm đó chính là khởi nguồn cho ý tưởng của 
+Ba người đã thử sức nhiều lần để ra mắt dịch vụ của mình từ năm 2008. Một lần là trong hội nghị SXSW năm 2008, họ chỉ nhận được 2 lượt booking, một trong số đó đến từ Chesky. Lần thứ hai, học hỏi từ những thiếu sót trong quá khứ, họ tiếp tục ra mắt tại hội nghị Democratic National năm 2008, tuy nhiên, kết quả cũng không khá hơn là bao.
+Tuy nhiên, nhà đầu tư Paul Graham đã chú ý đến 
+Airbed and Breakfast
+ và mời họ tham gia Y Combinator, một startup accelerator. Tại đây, họ vẫn bị từ chối bưởi rất nhiều nhà đầu tư. Không bỏ cuộc, họ tiến hành một chiến dịch để khiến các host yêu thích công ty của mình: Ghé thăm các chủ nhà tại New York, ở cùng các chủ nhà, viết review và chụp ảnh các địa điểm đó. 
+Không lâu sau, 
+ được đổi tên thành 
+. Tháng 4 năm 2009, 
+ nhận được khoản đầu tư hạt giống 600,000 đô từ Sequoia Capital. Kể từ giây phút này, số tiền đầu tư 
+ nhận được ngày càng nhiều, công ty ngày càng mở rộng việc kinh doanh. Hiện nay, 
+ đang dẫn đầu trong kinh doanh lưu trú online. 
+2. Mô hình hoạt động
+ đem đến một mô hình kinh doanh mới lạ, xây dựng dựa trên công nghệ internet hiện đại. Lợi thế của 
+ là tiết kiệm chi phí cho khách hàng, những tiện nghi gia dụng và tiềm năng cho những trải nghiệm địa phương gần gũi hơn. 
+Internet là yếu tố đem đến sự thành công to lớn của 
+Khác với công ty cung cấp dịch vụ đặt phòng kết nối doanh nghiệp và khách hàng như Expedia, Bookings.com hay Tripadvisors.com, 
+ kết nối trực tiếp các cá nhân với nhau. Những cá nhân này cung cấp phòng ở với một mức phí (thường là ở mức giá thấp) hoặc miễn phí (hình thức couchsurfing).
+có vai trò là trung gian để host (người cho ở nhờ) và khách kết nối với nhau và sắp xếp việc thuê nhà ngắn hạn thay vì những mô hình cho thuê truyền thống như khách sạn. Nó cung cấp một nền tảng online để tạo điều kiện thuận lợi cho các giao dịch. Mỗi địa điểm sẽ bao gồm thông tin về chủ nhà, cùng với lời giới thiệu của những khách hàng khác, đánh giá của khách hàng trước đó, cũng như đánh giá về phản hồi và hệ thống liên lạc riêng để xây dựng niềm tin. 
+Hệ thống niềm tin tại 
+ rất quan trọng, thể hiện qua lời giới thiệu, đánh giá của khách hàng 
+Hồ sơ về điểm đến với những thông tin trên là nền tảng để khách hàng tìm hiểu về chủ nhà của mình. 
+ cho phép người dùng cung cấp những lời giới thiệu, hình ảnh, tiện nghi về căn nhà hoặc căn phòng của mình cũng như dân cư xung quanh. Thậm chí, họ có thể tạo ra luật lệ riêng cho khách lựa chọn căn nhà của mình. 
+Cả chủ nhà lẫn khách hàng đều là đối tượng đánh giá trên 
+Mô hình môi giới mà 
+ sử dụng sử dụng hệ thống đánh giá dành cho cả chủ nhà và khách trọ. Chính vì vậy, danh tiếng, giao tiếp và sự tôn trọng lẫn nhau rất quan trọng. Những điều này cũng có thể được coi là phần thưởng phi vật chất thường được nhắc đến mô hình sharing economy. 
+3. Thành công của Airbnb
+Hãy cùng nhìn qua một vài số liệu về 
+Giá trị của 
+ bây giờ rơi vào khoảng 100 tỷ đô la
+Hơn 900 triệu lượt đặt phòng
+Hơn 4 triệu chủ nhà cung cấp dịch vụ trên 
+Có hơn 5,6 triệu địa điểm trọ trên 100,000 thành phố tại hơn 200 quốc gia và vùng lãnh thổ
+Dù đại dịch ảnh hưởng xấu các hoạt động của 
+, công ty này dự kiến sẽ hồi phục mạnh mẽ 
+Những con số này đã phần nào nói lên sự bành trướng của 
+trong lĩnh vực kinh doanh lưu trú, nhưng là chưa đủ. Vào năm 2016, công ty này đã mở rộng các dịch vụ của mình bao gồm cả “Trải nghiệm”. Với “Trải nghiệm”, chủ nhà có thể cung cấp tour hoặc vé tham quan địa điểm thông qua ứng dụng. Công ty cũng có dự định thành lập một hãng máy bay, tuy nhiên kế hoạch này đã bị trì hoãn do ảnh hưởng của đại dịch COVID-19. 
+ ngày càng củng cố vững chắc vị trí của mình trên thị trường. Năm 2017, nó mua lại Luxury Retreats với giá 200 triệu đô la, và sau đó vào năm 2019, bỏ ra 400 triệu để mua lại HotelTonight. 
+Đại dịch COVID-19 ảnh hưởng nặng nề đến du lịch, lĩnh vực lưu trú liên quan mật thiết đến du lịch. Lượt đặt phòng trên 
+ đã giảm hơn 70% và giảm gần một nửa giá trị. Tuy nhiên, công ty này đã có những chiến lược đúng đắn, hồi phục ngoạn mục và tiến hành phát hành cổ phiếu ra sàn chứng khoán. Giá trị IPO dự đoán là hơn 30 tỷ, tuy nhiên vào ngày ra mắt, 
+ được định giá hơn 100 tỷ đô la.
+4. Hoạt động tương lai
+Làm việc tại nhà đang trở thành xu hướng mới, sự linh hoạt là tiêu chí hàng đầu. Sống ở đâu, sống như thế nào và dành bao lâu tại nơi đó là câu hỏi nhiều người quan tâm. Khi bạn ở một nơi với thời gian lâu hơn một chuyến du lịch thông thường, đó không chỉ đơn thuần là chuyến du lịch, bạn đang thực sự sống tại đó. 
+ đang hướng đến cung cấp các trải nghiệm sống cho người dùng chứ không dừng lại trải nghiệm du lịch 
+, tương tự, cũng không còn là một công ty về du lịch, khi mà 24% số khách đặt phòng không chỉ tìm một nơi để ở vài ngày, mà tìm một nơi để sống trong vài tuần, vài tháng. Cách công ty vận hành chắc chắn sẽ có sự thay đổi. Điều này có nghĩa là một số người sẽ trở thành dân du mục thời đại số hóa, sống và làm việc ở bất cứ nơi nào mà họ có thể tìm trên 
+ trong tuần đó. 
+Không chỉ vậy, 
+ đã đưa ra nhiều thay đổi lớn trong cách nền tảng của mình hoạt động. Vì điều quan trọng nhất bây giờ là sự linh hoạt. Thay vì tìm kiếm địa điểm trong một thời gian nhất định, người dùng có thể sử dụng 
+ để tìm kiếm ý tưởng và cảm hứng cho những chuyến phiêu lưu, giống như Pinterest. 
+Người dùng có thể sử dụng 
+ để tìm kiếm ý tưởng du lịch, phiêu lưu
+Cách này, 
+có thể cho người dùng xem những địa điểm và căn nhà mà người dùng không có ý định tìm kiếm. Bằng cách hướng nhu cầu của khách hàng đến những nơi công ty này có nhiều nguồn cung cấp, nhờ đó tăng tỷ suất sử dụng phòng. 
+Với bài viết này, Cohost hi vọng bạn đã có đủ những thông tin cần thiết về 
+Airbnb, ví dụ điển hình cho mô hình sharing economy
+. Cảm ơn bạn đã dành thời gian cho bài viết này. Bên cạnh Airbnb, nhiều công ty cũng áp dụng mô hình này, tìm hiểu tại đây nhé: 

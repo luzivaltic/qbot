@@ -1,0 +1,135 @@
+Các loại trí tuệ nhân tạo | Cohost AI
+ đang là từ “trend” dạo gần đây. Dù không phải một chuyên gia trong lĩnh vực này bạn cũng có thể liệt kê một vài cái tên nổi bật, một số sự kiện đáng nhớ về 
+. Nhưng hiểu được cách 
+AI 
+phân loại sẽ giúp bạn thực sự hiểu được thành công đằng sau mỗi công ty sử dụng trí tuệ nhân tạo. 
+1. Cách phân loại AI
+Nếu tìm hiểu về các loại AI, bạn sẽ tìm được khá nhiều kết quả khác nhau: AI được chia làm 4 loại, 5 loại, 7 loại… Thực ra chúng đều đúng cả. Lý do là vì chúng ta có thể phân loại 
+ dựa trên hai yếu tố.
+ là công nghệ mô phỏng trí tuệ của con người. Vậy nên một yếu tố để phân loại AI chính là mức độ thông minh, cụ thể là về sự linh hoạt cũng như độ hiệu quả, mà nó có thể mô phỏng trí tuệ. Tùy từng mức độ mà 
+ sẽ được sử dụng cho những công việc khác nhau, từ đơn giản đến phức tạp. 
+có thể được phân thành 3 loại dựa trên mức độ thông minh 
+Dựa trên yếu tố đầu tiên, ta có thể phân loại
+ AI 
+thành 3 loại dựa trên sự phát triển, thành thạo của chúng:
+Artificial Narrow Intelligence
+ (ANI - Trí tuệ nhân tạo hẹp)
+Artificial General Intelligence
+ (AGI - Trí tuệ nhân tạo chung)
+Artificial Super Intelligence
+ (ASI - Siêu trí tuệ nhân tạo). 
+Trong đó, AGI và ASI đều là 
+Strong AI
+. Vì vậy, cũng có thể nói dựa trên mức độ thông minh, ta có thể chia 
+thành 2 loại là 
+Narrow AI 
+. Ở bài viết này, hãy cùng tìm hiểu về các loại 
+ theo cách phân loại này. 
+Yếu tố còn lại để phân loại 
+ là dựa trên sự tương đồng của AI với trí tuệ con người, khả năng suy nghĩ, hay có cảm nhận như con người thực sự. Tức là 
+có thể mô phỏng những hành động, suy nghĩ hay cảm xúc gì của con người. 
+Dựa trên yếu tố này, người ta chia AI thành 4 loại:
+Reactive Machines
+ - AI phản ứng
+Limited Memory
+ - AI với trí nhớ giới hạn
+Theory of Mind
+ - Lý thuyết về Tâm trí
+Self-Awareness
+ - Tự nhận thức
+2. Phân loại AI dựa trên sự phát triển 
+a. ANI
+ hay còn gọi là 
+Weak AI
+ là một loại 
+được lập trình để thực hiện một hoặc một số lượng giới hạn các công việc, thay vì sở hữu toàn bộ những khả năng nhận thức như não bộ con người. Vì chỉ tập trung vào một công việc nhất định, 
+ có thể thay thế, thậm chí vượt xa con người ở công việc đó.
+Tuy nhiên, vì chỉ được lập trình cho một nhiệm vụ cụ thể, loại
+này chỉ có thể phân tích dữ liệu theo những gì nó đã được “huấn luyện” chứ không thể thực hiện những công việc mà bạn chưa hề dạy cho nó. 
+Cái tên Weak AI có thể khiến chúng ta nghi ngờ, đánh giá thấp khả năng của loại 
+này. Thực chất, cho đến thời điểm này, đây là loại 
+duy nhất được tạo ra và sử dụng trong thực tế. Ứng dụng của nó trong thực tế có rất nhiều: 
+Các trợ lý ảo
+ như Siri: AI phân loại dữ liệu và phản hồi các yêu cầu tìm kiếm rất nhanh.
+Trợ lý ảo như Siri là một ứng dụng của ANI 
+Tính năng gợi ý
+: Nếu bạn từng thắc mắc tại sao Netflix, Spotify lại “hiểu” mình đến vậy, có thể gợi ý cho mình những bộ phim, những bài hát hợp gu mình đến vậy, tất cả là nhờ AI hẹp phân tích những bộ phim, bài hát bạn đã xem trước đó để tìm cho bạn những thứ tương tự.
+: Chatbot mô phỏng các cuộc hội thoại giữa khách hàng và các nhân viên chăm sóc khách hàng bằng cách trả lời những câu hỏi đơn giản một cách tự động thông qua text hay giọng nói. 
+Chatbot cũng là một ứng dụng phổ biến của Weak AI
+Xe tự lái
+: Những sản phẩm xe tự lái như Tesla, thuyền hay các robot trong nhà máy đều sử dụng Weak AI. Tuy nhiên, thách thức của chúng là phải được lập trình để có thể tự lái trên những đoạn đường nguy hiểm 
+Xe tự lái Tesla được xây dựng dựa trên ANI
+Nhận diện khuôn mặt, hình ảnh và giọng nói
+: Ứng dụng này giúp ích trong nhiều lĩnh vực như y tế, giúp bác sĩ chẩn đoán qua việc scan cơ thể bệnh nhân, hay dịch thuật, tiêu biểu như Google Translate cho phép chúng ta dịch từ giọng nói. Tuy nhiên, Clearview AI, sử dụng AI nhận diện khuôn mặt để tìm kiếm, lại nhận về nhiều chỉ trích vì khả năng bị lạm dụng. 
+b. AGI
+AGI nằm trong Strong AI, là một 
+với trí thông minh sánh ngang với con người. Nghĩa là nó có ý thức tự nhận thức để giải quyết các vấn đề, học và lên kế hoạch cho tương lai. Nói khác đi, nó có thể hoàn toàn tự đưa ra các quyết định mà không cần phải được huấn luyện từ trước. 
+AGI có thể đưa ra các quyết định mà không cần huấn luyện
+So với ANI, AGI chắc chắn phức tạp hơn nhiều. Và vì vậy, cho đến bây giờ, dù công nghệ phát triển không ngừng, chúng ta vẫn chưa thể tạo ra cỗ máy nào thực sự là AGI. Có thể nói, AGI vẫn là lý thuyết nằm trên những trang giấy. Tuy nhiên, chúng ta đang có những bước tiến và có thể tạo ra thứ được gọi là Partial AGI - AGI một phần. 
+Hiện tại, chúng ta chưa phát triển được AGI
+c. ASI
+Ngay từ cái tên “Siêu trí tuệ AI”, ta có thể tưởng tượng một chút về khả năng của loại 
+này. 
+Siêu
+vượt xa Weak AI và AGI, nó có khả năng tự nhận thức đủ để vượt qua khả năng của trí não và hành vi của con người. 
+Siêu trí tuệ nhân tạo thông minh hơn cả con người
+Não bộ của chúng ta bị giới hạn bởi con số hàng tỷ neuron, một số lượng nhiều, nhưng chắc chắn không thể bằng ASI. ASI có trí nhớ tốt hơn con người, xử lý và phân tích dữ liệu nhanh hơn con người, nhờ đó có khả năng đưa ra các quyết định tốt hơn con người. 
+Giống như AGI, siêu AI hiện tại vẫn chưa được phát triển 
+Đương nhiên ở thời điểm hiện tại, chúng ta chưa thể tạo ra 
+Siêu trí tuệ AI
+, nó chỉ xuất hiện trong những bộ phim, những cuốn sách viễn tưởng với viễn cảnh cuộc sống con người bị đe dọa bởi những bộ máy siêu thông minh này. Con đường để phát triển ASI còn rất xa, ít nhất trước khi chúng ta có thể tạo ra AGI thì việc này gần như là không thể. 
+2. Phân loại AI dựa trên sự tương đồng với con người 
+a. Reactive Machines - AI phản ứng
+Những từ mà bạn nên nhớ về
+ AI phản ứng 
+là “không có trí nhớ, chỉ phản ứng với hiện tại”. Loại 
+ này là 
+ “cổ xưa” nhất, tuân theo những nguyên lý cơ bản nhất, và đồng thời có khả năng giới hạn nhất. Nó có khả năng phản ứng với các kích thích của môi trường xung quanh, một khả năng giống với trí não con người. 
+Hình ảnh Deep Blue thi đấu với kiện tướng Gary Kasparov
+Tuy nhiên, đây cũng là chức năng duy nhất của 
+AI phản ứng
+. Nó không có khả năng ghi nhớ, vì vậy không thể đưa ra các quyết định đưa ra dựa trên những gì nó đã quan sát được từ trước, hay “học” từ những trải nghiệm. Điều này đồng nghĩa với việc nó không thể cải thiện bản thân qua thời gian mà chỉ có thể phản ứng trong tích tắc. 
+Dù vậy, chúng ta không nên đánh giá thấp những chiếc máy phản ứng này. Deep Blue, một chiếc máy tính có khả năng chơi cờ vua được phát triển bởi IBM vào những năm 1990, là AI phản ứng. Deep Blue đã đánh bại kiện tướng cờ vua Gary Kasparov trong một trận đấu. Tuy không thể ghi nhớ, chiếc máy này có thể nhận biết từng con cờ, vị trí từng con và cách mỗi con di chuyển dựa trên luật chơi, từ đó đưa ra cách di chuyển con cờ của mình. 
+b. Limited Memory - AI với trí nhớ giới hạn
+Như tên gọi của nó, 
+AI với bộ nhớ giới hạn
+ đã “thông minh” hơn so với AI phản ứng. Bên cạnh sở hữu khả năng phản ứng với cách kích thích của môi trường, loại trí tuệ nhân tạo này có thể lưu trữ dữ liệu và các dự đoán từ trước, từ đó phân tích dữ liệu. Nhờ phân tích, nó có thể tiếp thu kiến thức có ích, từ đó đưa ra các quyết định.
+AI trí nhớ ngắn hạn 
+có khả năng phân tích và đưa ra quyết định 
+Tóm lại, Limited Memory là những cỗ máy 
+ có khả năng học hỏi. Chính vì vậy, nó thường được sử dụng trong các mô hình Machine Learning - Học máy như Reinforcement Learning, Long Short-Term Memory (LSTM) và E-GAN. 
+Hiện tại, nó là loại 
+ được áp dụng phổ biến nhất. Các trợ lý giọng nói ảo, chatbot, xe tự lái, nhận diện khuôn mặt đều là sản phẩm của 
+ với bộ nhớ giới hạn. 
+Nhận diện khuôn mặt là một ứng dụng phổ biến của 
+AI trí nhớ ngắn hạn
+c. Theory of Mind - AI Lý thuyết về Tâm trí
+Trí thông minh của con người không chỉ đơn giản là cách chúng ta đưa ra các quyết định, giải quyết vấn đề. Trí thông minh còn thể hiện ở quá trình suy nghĩ, cảm nhận. Suy nghĩ, cảm nhận ảnh hưởng hành vi của con người. 
+AI tâm trí có cảm xúc như con người 
+Con người là sinh vật xã hội, không thể sống đơn độc. Trí tuệ nhân tạo vì vậy cần phải có khả năng mô phỏng được cách con người đưa ra những quyết định xã hội. Đây chính là điều phân biệt con người với những loài sinh vật khác. Chúng ta có khả năng phán đoán tâm trí của người khác, dù không chính xác 100%, để xây dựng và duy trì các mối quan hệ, giao tiếp hiệu quả hay hợp tác để đạt được mục tiêu chung.
+Lý thuyết về tâm trí 
+phát triển hơn so với hai loại AI trên ở chỗ nó làm được những điều trên, hay áp dụng được lý thuyết về tâm trí. Tâm trí thì rất phức tạp, cảm xúc của chúng ta thay đổi không báo trước. Để “hiểu” được tâm trí, 
+còn cần phải nắm được những khái niệm tâm lý học để hiểu một người, cách một người . Nó cần học cách cảm thông với con người, cách con người tự nhìn nhận bản thân.
+Chúng ta vẫn chưa phát triển được loại 
+tâm trí 
+Chính vì sự phức tạp này, 
+Tâm trí 
+về cơ bản vẫn đang là lý thuyết. Tạo ra được AI Tâm trí cần sự phát triển ở nhiều lĩnh vực khác liên quan đến AI. 
+d. Self-Aware - AI tự nhận thức
+AI tự nhận thức
+ là loại 
+tiên tiến nhất 
+AI tự nhận thức 
+là bước phát triển cuối cùng của AI. Nếu AI Tâm trí có thể hiểu được tâm trí của con người thì 
+sẽ phát triển cảm xúc của riêng nó và nhận dạng được những cảm xúc này. Nó sẽ có nhu cầu, niềm tin, cảm xúc, phát triển ý thức, hiểu về sự tồn tại của chính nó trên thế giới này.
+AI Tự nhận thức 
+chính là những phản diện tiềm năng trong các cuốn sách khoa học viễn tưởng. Bởi khi có ý thức của riêng mình, loại
+này có thể sẽ có ý muốn tự bảo vệ bản thân như con người. May mắn là cho đến hiện tại, việc phát minh 
+tự nhận thức 
+còn cách chúng ta rất xa. 
+ thường được xây dựng là phản diện trong các cuốn sách viễn tưởng
+Kết: 
+Qua bài viết trên, Cohost hi vọng bạn đã hiểu về các 
+3 loại AI phân theo mức độ thông minh
+4 cách phân loại AI theo sự tương đồng với trí tuệ con người
+. Nhưng có lẽ sẽ mất một quãng đường dài nữa trước khi trí tuệ nhân tạo thông minh như con người. Cảm ơn các bạn đã đón đọc bài viết.

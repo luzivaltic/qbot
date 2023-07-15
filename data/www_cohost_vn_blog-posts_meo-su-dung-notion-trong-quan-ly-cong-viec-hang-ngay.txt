@@ -1,0 +1,124 @@
+Mẹo sử dụng Notion trong quản lý công việc hàng ngày  | Cohost AI
+ được biết đến như một ứng dụng ghi chú giúp quản lý công việc và học tập. Tuy nhiên,
+ gần đây còn được người dùng sử dụng nhiều trong quản lý những công việc thường ngày. Hãy cùng
+khám phá sự tiện lợi khi ứng dụng trong cuộc sống của ứng dụng này nhé! 
+Lên lịch hàng tuần/ngày
+Giới trẻ hiện nay có xu hướng sử dụng 
+như một 
+trực tuyến. Nhờ vào các tính năng thân thiện với người dùng, 
+ có thể chia lịch theo 7 ngày trong tuần và lên lịch các công việc cần làm mỗi ngày. 
+Ngoài ra, bạn có thể tạo một nút 
+“template tự động”
+ để thêm nội dung mới có cùng định dạng một cách nhanh chóng và dễ dàng hơn. 
+ Nhập và chọn
+ \template
+ button 
+ Thay đổi tên nút và tên kiểu template
+Bước 3: 
+Nhấn nút 
+Close 
+Dễ dàng thiết lập kế hoạch theo lịch hàng tuần/ngày
+Quản lý tài chính cá nhân 
+Data base của 
+ có hỗ trợ định dạng bảng tin nên vô cùng thích hợp để người dùng
+ quản lý tài chính cá nhân
+Tạo một bảng tính bằng cách nhận lệnh
+ /table 
+ở trang mới
+Bước 2: 
+Thay đổi tên cột có sẵn, tạo cột mới và chọn định dạng phù hợp cho từng loại thông tin 
+Đổi tên cột 
+“Khoản chi"
+, tạo nhãn dán cho các khoản chi tiêu hàng ngày như: Ăn Uống, Mua sắm, Đi lại,...
+Chọn định dạng 
+Number
+ cho cột Số tiền và định dạng 
+Date
+ cho cột Ngày tháng 
+ Bên dưới cột Số tiền, chọn 
+Calculate
+Sum
+ để xem tổng số tiền đã tiêu trong tháng 
+Bạn hoàn toàn có thể thực hiện các bước tương tự cho Thu nhập của mình với nhãn dán: Tiền lương, việc làm thêm, thưởng,...
+Nhật ký 
+Nếu bạn là một người có sở thích viết 
+nhật ký
+ là một ứng dụng phù hợp với bạn. Viết 
+nhật ký 
+là một cách vô cùng hiệu quả để lưu giữ những kỷ niệm và trải nghiệm của bạn một cách sống động. Đây cũng là một cách để phát triển bản thân cũng như xem xét những hành động của mình để từ đó rút ra kinh nghiệm. Bên cạnh đó, đây cũng là một phương pháp giảm stress và trị liệu tinh thần hiệu quả khi bạn có thể viết 
+ ngay trên không gian làm việc trực tuyến mọi lúc, mọi nơi. 
+Viết nhật ký là một cách giảm stress vô cùng hiệu quả
+Mẹo sử dụng Notion 
+Sử dụng công cụ Text Editor 
+Với chức năng này, bạn có thể chỉnh sửa văn bản trong 
+ như: tô đen chữ, in nghiêng, in đạm, highlight, đổi màu chữ,...Mặc dù vậy, không giống với các trình soạn thảo văn bản truyền thống trên điện thoại hay các thiết bị máy tính, bạn hầu như sẽ không tìm thấy bất kỳ tuỳ chọn nào ở đầu hoặc cuối trang. 
+Dễ dàng chỉnh sửa văn bản với Text Editor
+Bởi vậy, để có thể tạo ghi chú trong 
+, hãy gõ 
+“/”
+, bạn sẽ thấy ngay các gợi ý chỉnh sửa được hiển thị, liệt kê những công cụ và công dụng của chúng. 
+/Text : 
+Đánh văn bản bình thường.
+/page:
+ Tạo page, bạn có thể vào 1 page có sẵn và gõ 
+“/page”
+ rồi nhấn 
+Enter.
+/Todo:
+To-do list
+, là những 
+checkbox 
+phù hợp với việc theo dõi đã làm việc này hay chưa.
+/H1 /H2 /H3:
+ Đây là những thẻ tiêu đề, bạn có thể ứng dụng vào việc thay đổi kích cỡ chữ, H1 là to nhất, tới H2 và H3, cuối cùng text là nhỏ nhất.
+Làm nổi bật nội dung
+Có rất nhiều cách để 
+làm nổi bật nội dung
+, trích dẫn hay từ khoá bạn mong muốn. Tuy nhiên, cách đơn giản và được nhiều người sử dụng nhất đó là chọn màu nền hoặc lệnh chú thích cho chúng. 
+Đặt con trỏ ở đầu văn bản bạn muốn đánh dấu và gò lệnh 
+ để tìm kiếm các nền màu khác nhau. Gõ 
+“/callout"
+ sẽ ngay lập tức tạo những nền màu, chú thích riêng biệt với biểu tượng bóng đèn ở đầu. 
+Sử dụng các công cụ của Google
+Trên bất kì trang 
+ nào, bạn có thể chọn 
+“/drive"
+ và chọn
+ Google Drive
+. Tiếp đó, hãy kết nối tài khoản
+ của bạn với ứng dụng để có thể nhập tài liệu, trang tính hoặc các tệp lưu trữ của bạn từ 
+Google Drive 
+vào 
+Kết nối tài khoản Google Drive với Notion để nhập Tài liệu
+Quản lý và sắp xếp công việc
+Trong trường hợp cần thiết phải lưu lại những thông tin quan trọng và sắp xếp công việc thì đây sẽ là một chức năng vô cùng hữu ích. Bạn không cần phải gõ hết lệnh 
+“/to-do" 
+mà chỉ cần gõ những chữ đầu tiên, 
+ sẽ ngay lập tức gợi ý chức năng này cho bạn. Sau đó, bạn chỉ cần nhấn 
+Enter
+ để dùng một lần nữa hoặc dùng chuột nhấn chọn chức năng. 
+Nhập mẫu Chương trình hàng tuần từ thư viện Notion
+Sử dụng Reminder
+Chỉ với một vài thao tác đơn giản và dễ thực hiện, 
+ đã có thể triển khai chức năng 
+Reminders 
+trong phần mềm để nhận thông báo cho các nhiệm vụ và khoảng thời gian mà bạn đã định trước. Chức năng nhắc nhở này giúp tối ưu hoá quá trình quản lý và thực hiện công việc của người dùng. 
+Sử dụng chức năng Reminders để nhận thông báo nhiệm vụ
+Tạo thời khóa biểu cho công việc
+Một trong những tính năng được người dùng yêu thích nhất trong 
+tạo thời khóa biểu 
+cho các công việc có sẵn của bạn. Ví dụ, bạn tạo một trang lịch Blog để theo dõi tất cả các bài viết được đăng trên website của mình, bạn có thể tạo bảng bao gồm các mục như: Tên bài viết, ngày đăng, ngày hoàn thành, mô tả, link bài viết, trạng thái. 
+Tạo thời khóa biểu cho danh sách các bài đăng trên mạng xã hội
+Các công cụ tích hợp từ bên thứ ba 
+Để sử dụng các 
+công cụ tích hợp từ bên thứ ba 
+, bạn có thể thêm các thông tin chi tiết về thời tiết, cuộc sống, lịch 
+, danh sách phát 
+Spotify
+, đồng hồ,...vào trang 
+cá nhân của mình 
+Sử dụng các công cụ trong My Widgets
+Trên đây là một vài mục đích và mẹo nhỏ của
+ Notion 
+để bạn có thể áp dụng trực tiếp vào cuộc sống hàng ngày. Tất nhiên, khả năng sáng tạo trên ứng dụng này là vô hạn và bạn hoàn toàn có thể điều chỉnh lại cho phù hợp hơn với mục đích cá nhân của mình. Mong rằng những chia sẻ của
+sẽ giúp ích cho bạn trong quá trình sử dụng ứng dụng trong cuộc sống hàng ngày! 

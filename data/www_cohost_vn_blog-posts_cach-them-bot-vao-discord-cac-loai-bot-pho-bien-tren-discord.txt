@@ -1,0 +1,138 @@
+Cách thêm bot vào Discord? Các loại bot phổ biến trên Discord | Cohost AI
+Bạn đã nhiều lần nghe đến discord bot, thế nhưng không biết 
+Discord bot là gì
+cách thêm bot vào Discord
+. Trong bài viết ngày hôm nay, 
+ sẽ giúp bạn giải đáp thắc mắc trên và giới thiệu thêm các loại bot phổ biến trên 
+ hiện nay nhé!
+ trước tiên sẽ giúp bạn dễ tiếp nhận bài đọc dưới đây hơn!
+Discord bot là gì?
+Discord bot
+, một nền tảng nhắn tin nhóm được nhiều người biết đến, là một sản phẩm trí tuệ nhân tạo tiện dụng có thể tự động thực hiện nhiều tác vụ hữu ích trên máy chủ, chẳng hạn như chào mừng thành viên mới, kiểm duyệt các cuộc thảo luận hay cấm những kẻ quấy rối. Một số bot thậm chí còn thêm nhạc và trò chơi vào máy chủ. 
+Bạn không cần phải là giỏi lập trình để thêm 
+automation
+ vào 
+server (máy chủ)
+ của mình. Chỉ cần tải bot được tạo sẵn và tùy chỉnh chức năng của nó. Các bot có thể được tạo bằng nhiều ngôn ngữ lập trình khác nhau. Hãy coi chúng như những tiện ích bổ sung (
+add-ons
+) cho máy chủ (
+) giúp mở rộng khả năng cốt lõi của 
+Nếu bạn đã sử dụng một trong những 
+máy chủ Discord (Discord server)
+ tốt nhất hiện nay, có thể bạn đã gặp phải một con bot mà bạn không nhận thấy. Các bot được liệt kê ở đây cùng với các thành viên con người, nhưng chúng có huy hiệu "bot" để phân biệt, vì vậy hãy xem danh sách thành viên. 
+Hầu hết các bot được thiết kế để chạy 24/7 trên 
+ và bạn thường có thể giao tiếp với chúng bằng các lệnh văn bản. Các lệnh này sau đó sẽ kích hoạt các phần cụ thể của mã để thực hiện hành động trên máy chủ.  Nếu bạn muốn đến một nơi nào đó trên 
+, có các bot có thể giúp bạn. Bot có thể hoạt động như một người kiểm duyệt tự động cho người dùng, gửi tin nhắn chào mừng tùy chỉnh, phát nhạc trên các kênh thoại và các dịch vụ nguồn cấp dữ liệu như Twitch và Twitter.
+Huy hiệu "bot" của Discord bot
+Tìm bot Discord ở đâu?
+Nếu bạn có kỹ năng coding, bạn có thể tạo 
+bot Discord
+ của riêng mình. Tuy nhiên, công việc này khá phức tạp, vì vậy mình khuyên bạn hãy tập trung vào việc tìm kiếm các bot có sẵn. Có một số trang web liệt kê tất các 
+ đã xuất bản bạn có thể tham khảo như: 
+Discord Bot List
+top.gg
+Bots On Discord
+.  
+Tìm bot Discord ở top.gg, pfp.gg,...
+Trên các trang kể trên, bạn có thể duyệt qua các 
+ dựa trên mức độ phổ biến và chức năng của chúng. Bạn có thể tìm hiểu thêm về bot và sau đó nhấp vào tùy chọn mời/tham gia/thêm để đưa bot vào 
+Cách thêm bot vào Discord server
+Dưới đây là 5 bước bạn cần thực hiện để thêm bot vào 
+Kiểm tra quyền
+Trừ khi bạn sở hữu một 
+máy chủ (server)
+, bạn chỉ có thể thêm bot vào các máy chủ được ủy quyền. Điều này có nghĩa là bạn cần có đặc quyền quản trị trên máy chủ. Nhấp vào tên máy chủ thích hợp để thêm bot vào máy chủ. Nếu bạn thấy cài đặt máy chủ (
+server settings
+) trong menu thả xuống, bạn sẽ có các quyền thích hợp. Nếu không, bạn sẽ cần thêm bot vào quyền của máy chủ hoặc yêu cầu họ cấp cho bạn quyền "
+Quản lý máy chủ
+".
+Kiểm tra quyền máy chủ Discord
+Mời bot
+Tiếp theo, bạn cần mời bot vào máy chủ (
+). Các trang web mà bạn nhận bot yêu cầu phải có nút mời (
+) hoặc tùy chọn tương đương khác. Ví dụ như CarlBot: liên kết này đã hiển thị sẵn trên menu trên cùng. 
+Tiếp đến, bạn chuyển liên kết đến trang 
+. Tại đây, bạn thực hiện thao tác sử dụng menu 
+drop-down Add to server
+ để chọn máy chủ mà bạn muốn thêm bot vào. Rồi nhấp vào Tiếp tục (
+Mời bot trên Discord
+Cấp quyền cho bot
+Một màn hình xuất hiện hiển thị tất cả các quyền mà bot cần trên máy chủ. Đừng lo lắng, các bot nâng cao cần rất nhiều đặc quyền để hoạt động bình thường. Tuy nhiên, hãy đảm bảo chỉ thêm các bot đáng tin cậy vào máy chủ của bạn. Nhấp vào 
+Phê duyệt (Authorize)
+Cấp quyền cho bot trên Discord
+Bạn có thể cần thực hiện xác minh 
+CAPTCHA
+ để chứng minh rằng bạn không phải là bot. Khi điều này được thực hiện, bot sẽ tham gia vào máy chủ. Bạn có thể xem nó trực tuyến tại danh sách thành viên.
+Xác minh CAPTCHA trên Discord
+Điều chỉnh vai trò của bot trên Discord
+Hầu hết các bot sẽ tự động gán một vai trò mới trên máy chủ bằng cách sử dụng các quyền mà bạn đã đồng ý ở bước trước. Nhấp vào tên máy chủ ở phía trên bên trái, sau đó nhấp vào Cài đặt máy chủ (
+Server Settings
+) > Vai trò (
+Roles
+). Bạn có thể thấy vai trò mới của bot trong cột Vai trò (
+). Nhấp chuột trái và kéo tất cả các tùy chọn khác. Điều này cho phép bot dễ dàng quản lý các thành viên khác trên máy chủ.
+Cấu hình và sử dụng bot Discord
+Bây giờ bot đã ở trên máy chủ, đã đến lúc sử dụng nó! Trang web mà bạn đã thêm bot vào phải chứa tài liệu về cách sử dụng bot.  Một số bot nâng cao, chẳng hạn như MEE6 và CarlBot, có thể được quản lý từ trang web. Bạn có thể kiểm soát các khả năng của bot của mình, xem nhật ký được kiểm duyệt và tùy chỉnh mọi thứ từ một vị trí trung tâm. 
+Cấu hình và sử dụng Discord bot
+Tuy nhiên, hầu hết các bot chỉ có thể được quản lý và thao tác thông qua các lệnh  trò chuyện văn bản. Nhập trợ giúp để trợ giúp bot của bạn, nhưng nó có thể khác nhau tùy thuộc vào loại bot bạn đã thêm. Nếu nghi ngờ, hãy liên hệ với nhà phát triển bot để được hỗ trợ. 
+Lưu ý cuối cùng: Các 
+ chạy trên máy chủ của riêng chúng, bot có thể bị tắt và hoạt động độc lập trong khi 
+ đang chạy trực tuyến. Nếu bạn nhận thấy rằng bot của mình đang ngoại tuyến, có thể bạn đang gặp sự cố tạm thời hoặc nó có thể đang cập nhật.
+Tổng hợp các bot tốt nhất cho máy chủ Discord
+Rythm
+Rhythm
+ là bot âm nhạc cung cấp nhạc chất lượng cao từ nhiều nguồn như là 
+SoundCloud
+Youtube
+Twitch
+,... nhằm mang đến trải nghiệm âm nhạc tốt nhất trên 
+ cho người dùng.
+Link truy cập 
+Rythm bot
+YAGPDB
+ với vai trò là người trợ giúp giúp bạn kiểm duyệt thành viên, chỉ định nhiều quyền cùng một lúc hoặc thêm vai trò vào các nhóm kênh cụ thể. Với cài đặt kiểm duyệt quy tắc tự động, 
+ giúp bạn tiết kiệm thời gian trong việc quản lý các tác vụ tự động như kích hoạt tự động, cảnh báo tự động hoặc thậm chí  tự động cấm những người vi phạm.
+Carl Bot 
+Carl Bot
+ là một trong những bot kiểm duyệt tốt nhất trên 
+ với 250 vai trò và sở hữu đầy đủ các tính năng kiểm duyệt khác. Bot cho phép bạn ghi lại sự thay đổi tên giữa những người trên máy chủ, ghi nhật ký, đề xuất thứ tự tùy chỉnh, âm nhạc, thời gian hoạt động cao, tự động tắt, nhúng, tin nhắn lặp lại, lời nhắc, cung cấp tự động và hơn thế nữa.
+Carl bot
+Groovy
+ là bot âm nhạc mà tại đó các thành viên có trong kênh 
+ được phép xếp danh sách phát các bài nhạc từ nhiều nguồn phổ biến trên internet. Ngoài ra, bạn cũng có thể trả tiền cho 
+bot Groovy
+ cao cấp để truy cập nhiều tính năng hơn như điều khiển hiệu ứng âm thanh, âm lượng, hay hàng đợi đã lưu và phát lại 24/7.
+MEE6
+ là một chat-bot giúp quản lý và xây dựng cộng đồng trực tuyến trên 
+. Bot này cung cấp cho 
+Discord serve
+r các tính năng trò chơi có khả năng tương tác và tích hợp với 
+YouTube
+Reddit
+. Bạn hoàn toàn có thể thiết lập quy tắc mod tự động như tự động hóa các hình phạt nếu người dùng thường xuyên làm sai quy tắc.
+MEE6 bot
+RED
+ là một bot mô-đun phụ của 
+, có nghĩa là không có server nào chạy 
+ sẽ giống hệt nhau, nhưng chắc chắn sở hữu một số chức năng cơ bản. Tương tự như 
+ sẽ giúp kiểm duyệt tự động với các lệnh như kích hoặc chặn, tương tự như lọc tin nhắn. Ngoài ra, 
+ còn giúp bạn nghe nhạc, tìm ảnh GIF và tự động trả lời tin nhắn.
+Dyno
+ là một bot có nhiều tính năng cung cấp cho bạn toàn quyền kiểm soát với một bảng điều khiển, bao gồm thông báo, lời nhắc, kiểm duyệt nhật ký tự động, xóa tin nhắn, tắt tiếng và cấm thời gian. Hơn nữa, 
+ còn giúp bạn tìm kiếm trên Google hoặc tìm nhạc trên 
+ một cách tiện lợi và dễ dàng.
+Dyno bot
+Tatsumaki
+ cung cấp các lệnh dựa trên văn bản để kiểm soát người dùng, xóa tin nhắn, thiết lập chào mừng cũng như thông báo hoạt động và nhiều tính năng hơn thế nữa. 
+ có bảng điều khiển chuyên dụng giúp bạn có thể thiết lập và quản lý máy chủ dễ dàng hiệu quả hơn.
+Dựa trên văn bản, 
+ cung cấp các lệnh để kiểm soát người dùng, xóa tin nhắn, thiết lập thông báo chào mừng và một số hoạt động khác, v.v. 
+ có một bảng điều khiển chuyên dụng giúp thiết lập cũng như quản lý server dễ dàng và hiệu quả hơn.
+Pancake
+ dễ sử dụng đa năng với các tính năng như là giúp quản lý vai trò của các thành viên, kiểm soát máy chủ, tìm kiếm hình ảnh, từ trò chuyện bằng giọng nói đến cấm người dùng, tìm kiếm âm nhạc từ nhiều nguồn khác nhau như 
+. Với nhiều lệnh khác nhau và đa dạng tính năng, 
+ sẽ giúp bạn quản lý server thuận tiện hơn.
+Pancake bot
+ cảm ơn bạn đọc đã đồng hành cùng mình đến cuối bài viết “
+Cách thêm bot vào discord? Các loại bot phổ biến trên Discord
+". Hy vọng bài đọc mang lại nhiều thông tin bổ ích cho bạn đọc!

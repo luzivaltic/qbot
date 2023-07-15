@@ -1,0 +1,213 @@
+Các tiện ích có trên Zoom | Cohost AI
+Chắc hẳn bạn đã được nghe nhiều đến ứng dụng học/họp trực tuyến 
+, liệu rằng bạn đã thực sự khám phá hết tiện ích của ứng dụng. Cùng 
+ khám phá với bài viết dưới đây nhé!
+ là là một giải pháp tương tác trực tuyến, hỗ trợ cùng lúc nhiều người tham gia vào một cuộc họp online bất kể dù đang ở bất kỳ đâu. 
+ có sức hút vượt trội so với những phần mềm gọi video khác lí do là bởi ứng dụng này sở hữu rất nhiều tiện ích nổi bật. Cùng mình tìm hiểu cụ thể những tiện ích đó trong phần tiếp theo nhé!
+Các tiện ích trên Zoom
+Để có một buổi họp trên zoom trông chỉn chủ với nền (
+) phù hợp nhất, tính năng virtual background hoặc thay đổi nền chắc chắn sẽ giúp bạn che dấu những thứ không được ngăn nắp cho lắm phía sau.
+Lưu ý: Hướng dẫn dưới đây sẽ áp dụng cho cả máy tính Mac và Windows.
+ Đăng nhập vào Zoom (nếu chưa). Hoặc chỉ cần mở ứng dụng và thực hiện bước tiếp theo nếu ứng dụng đã sẵn đăng nhập tài khoản của bạn.
+ Chọn Settings.
+Chọn biểu tượng Settings
+Background & Effects
+Chọn Background & Effects
+ rồi lựa một nền ảo mà bạn thích.
+Lựa chọn nền ảo phù hợp
+Làm thế nào để thêm nền ảo giữa một cuộc họp?
+Với trường hợp bạn đang trong quá trình họp, và muốn thay đổi 
+virtual background
+, bạn vẫn có thể làm theo các bước đơn giản sau:
+ Trong cuộc gọi, bạn nhấn vào mũi tên hướng lên nằm cạnh Stop Video.
+ Chọn Choose 
+Ngừng video rồi chọn "Choose Virtual Background"
+ Lựa một nền ảo từ danh sách các tùy chọn có sẵn.
+ Đóng 
+ bây giờ sẽ được đặt đúng chỗ và giúp ẩn bất kỳ thứ gì xuất hiện trong nền thực tế của cuộc gọi.
+Cách điều chỉnh nền ảo với hình ảnh của bạn
+Zoom sẽ cung cấp sẵn một số nền ảo. Tuy nhiên, bạn vẫn hoàn toàn có thể thêm hình ảnh bản thân đặc biệt yêu thích.
+ Chọn dấu cộng 
+(+)
+ bên cạnh 
+Choose Virtual Background
+Chọn dấu cộng (+)
+ Lựa chọn hình ảnh bạn muốn.
+Open
+ Giờ bạn đã có hình nền ảo yêu thích.
+Để xóa nền, bạn nhấp vào 
+“x”
+ trên hình thu nhỏ của hình ảnh.
+Hướng dẫn cách sử dụng tính năng giơ tay trên Zoom bằng máy tính
+ Nhấn vào mục 
+Reactions
+ Tại đây sẽ xuất hiện giao diện cảm xúc, bạn nhấn 
+Giơ tay (Raise hand)
+ để phát biểu ý kiến.
+Chọn Raise hand
+ Lúc này bạn sẽ thấy biểu tượng giơ tay xuất hiện trên màn hình. Mọi người từ đó có thể ngừng lại và lắng nghe ý kiến phát biểu của bạn.
+Biểu tượng Raise hand trong Zoom
+Hướng dẫn cách sử dụng tính năng giơ tay trên Zoom bằng điện thoại
+ Nhấn chọn mục 
+Khác
+ trên màn hình.
+ Bấm vào biểu tượng 
+Giơ tay - Raise hand
+ Biểu tượng giơ tay được hiện thị trên màn hình.
+Bên cạnh 2 tính năng tiêu biểu kể trên, phải kể đến 
+remote control - điều khiển từ xa
+ trong cuộc gọi Zoom. Bạn có thể yêu cầu hoặc thậm chị cung cấp quyền điều khiển từ xa. Đối với di động sẽ có những thao tác khác, cùng theo chân mình nhé!
+Yêu cầu quyền điều khiển từ xa
+ Để có thể xin quyền remote control của người khác, hãy đảm bảo rằng tính năng share screen của họ đã được bật.
+View Options
+ tại đầu cửa sổ cuộc họp của bạn.
+Request Remote Control
+, rồi nhấn 
+Request
+ trong cửa sổ bật lên. 
+Ấn Request để yêu cầu quyền remote control
+Người tham gia sẽ nhận được thông báo rằng liệu họ có muốn cung cấp quyền điều khiển từ xa hay không.
+ Người cung cấp quyền sẽ cần nhấp vào 
+Approve
+ để bạn có thể nhận được 
+quyền remote control
+Nhấp 
+Give Up Remote Control
+ nếu bạn muốn dừng điều khiển từ xa.
+Cung cấp quyền điều khiển từ xa
+Trái ngược với thao tác kể trên, nếu bạn đang là người nắm quyền, bạn có thể trao quyền ấy cho người khác. Cụ thể là:
+ Trong khi chia sẻ màn hình, hãy ấn vào 
+Remote Control
+ và đồng thời chọn người mà bạn muốn trao quyền. 
+Người tham gia nhờ đó nhấp vào bất kỳ đâu trên màn hình của họ và bắt đầu điều khiển.
+ Để lấy lại quyền kiểm soát, nhấp vào 
+Remote Controlled
+ hoặc nhấp vào 
+Stop Share
+ và sau đó chọn 
+Abort Control
+Lần lượt thực hiện các bước từ cung cấp đến lấy lại quyền kiểm soát
+Điều khiển từ xa trên thiết bị di động
+Nếu bạn đăng nhập Zoom bằng điện thoại, bạn sẽ không thể yêu cầu hoặc cung cấp quyền điều khiển từ xa. Để có thể yêu cầu, bạn bắt buộc phải mở mic hoặc gửi tin nhắn ở thanh chat. 
+Sau khi được cấp quyền kiểm soát, hãy nhấn chọn biểu tượng điều khiển từ xa để bắt đầu.
+Biểu tượng chuột sẽ hiển thị vị trí của con trỏ chuột. Nhấn và kéo để di chuyển con trỏ. Nhấn một lần để nhấp chuột trái vào chuột. Nhấn và giữ để nhấp chuột phải vào chuột.
+Nhấn vào biểu tượng bàn phím để nhập văn bản.
+Lên lịch một hội thảo trực tuyến trên Zoom Webinar
+ Đăng nhập vào tài khoản 
+ Vào 
+Webinars
+Schedule A Webinar
+Chọn Schedule A Webinar
+ Điền các thông tin dưới đây:
+Topic (Chủ đề)
+: Đặt tên dễ hiểu và đơn giản
+Description (Mô tả)
+: Ghi nội dung ngắn gọn và đẩy đủ nhất (những thông tin này sẽ được hiển thị trên trang đăng ký của bạn).
+Use a Template (Sử dụng mẫu)
+: Lựa chọn mẫu sẵn mà bạn muốn sử dụng.
+When (Thời gian)
+: ngày và giờ diễn ra Webinar.
+Duration (Thời lượng)
+: thời lượng gần đúng của Webinar để người tham gia dễ hình dung, tuy nhiên nếu có lố giờ thì nó sẽ không bị tắt nên bạn đừng lo.
+Time Zone (Múi giờ)
+: Lựa chọn múi giờ phù hợp.
+Recurring webinar (Định kỳ, lặp lại)
+: Xem xét hội thảo có thường xuyên diễn ra không. Recurring sẽ giữ ID và những lần tiếp theo không cần bấm lại mà đã được thiết lập trước đó.
+Điền thông tin cơ bản để lên lịch Webinar trên Zoom
+Registration (Đăng ký)
+: thì có thể chọn nếu muốn người tham gia đăng ký, còn nếu không hãy bỏ qua.
+Webinar Password (Mật khẩu)
+: Khi tham gia phải nhập mật khẩu.
+Video:
+Host:
+ Bật/ tắt video máy chủ khi tham gia. Tuy nhiên, máy chủ sẽ có thể bắt đầu video lại.
+Panelist:
+ Bật/tắt video của Panelists. Nếu đã tắt, họ sẽ không có quyền bật video và chỉ có bạn mới thay đổi được.
+Audio Options (Âm Thanh):
+ Người tham gia được cho phép thì có thể gọi qua Chỉ âm thanh máy tính, Chỉ Điện thoại hay Cả hai.
+Q&A:
+ Hội thảo sử dụng bảng Q&A.
+Enable Practice Session:
+ Phát lại chứ không phát trực tiếp.
+Only authenticated users can join:
+ Nếu muốn tham dự phải đăng nhập tài khoản Zoom.
+Alternative Hosts (Máy chủ lưu trữ thay thế):
+ Bạn cấp cho người khác quyền bắt đầu, nếu không có mặt thì người đó có thể bắt đầu thay cho bạn.
+Record the webinar automatically:
+ Hội thảo sẽ được ghi lại một cách tự động, thường sẽ được lưu ở máy chủ, có thể trên cả đám mây.
+Schedule
+Chọn Schedule
+Bắt đầu buổi hội thảo trực tuyến trên Zoom Webinar
+Để bắt đầu một buổi hội thảo trực tuyến trên 
+, bạn có thể lựa chọn một trong hai cách sau:
+- 
+Cách 1:
+ Đăng nhập trên 
+web Zoom.us
+. Sau đó chọn 
+ rồi 
+Start
+Cách 2: 
+Bấm vào tab 
+Cuộc họp
+ ngay khi vào Zoom. Tìm 
+ rồi chọn 
+Hoặc bạn có thể vào lịch của mình, nhấp vào liên kết rồi bấm 
+Trong quá tình tổ chức 
+, bạn có thể gặp một số sự cố mất tiếng, đừng ngần ngại khám phá 
+cách khắc phục mất tiếng trên Zoom
+Xem báo cáo kết quả về hội thảo trực tuyến đã tổ chức trên Zoom Webinar
+ Đăng nhập vào 
+, sau đó nhấp vào 
+Reports
+, rồi lần lượt chọn 
+Account Management
+: Nhấp 
+Usage Reports
+. Báo cáo sẽ hiển thị để bạn xem xét và rút kinh nghiệm cho những buổi Webinar trong tương lai.
+Báo cáo kết quả Webinar trên Zoom
+ Mở ứng dụng 
+ZOOM Cloud Meetings
+ trên máy tính rồi nhấp vào hình avatar nằm ở góc phải màn hình.
+ Tiếp, chọn 
+Check for Updates
+ Sẽ xuất hiện thông báo yêu cầu cập nhật nếu bạn đang dùng ứng dụng Zoom phiên bản cũ. Zoom sẽ tự động tải về máy phiên bản mới nhất cho bạn.
+ Bạn nhấn vào mục 
+Ứng dụng (Apps)
+ trên thanh menu.
+Chọn Apps
+ Chọn mục 
+Discover (Khám phá)
+. Bạn sẽ thấy kho ứng dụng game phục vụ hoạt động tổ chức trò chơi và tạo câu hỏi đố vui trên Zoom.
+ Chỉ có 
+Host - người chủ phòng Zoom
+ mới có thể tổ chức trò chơi.
+ Chọn một ứng dụng game nhóm bạn muốn chơi trên Zoom. 
+Chọn trò chơi ở mục Games
+Add
+ để thêm trò chơi.
+Chọn Add
+ Bạn sẽ được điều hướng đến trình duyệt web. Tại đây, hãy đăng nhập vào tài khoản Zoom của bạn.
+Điền thông tin đăng nhập chính xác
+Authorize
+ để cấp quyền truy cập Zoom.
+Chọn Authorize
+Bước 10:
+ Nhấn vào 
+Khởi chạy Zoom
+ để mở trò chơi trên Zoom.
+Bước 11:
+Start Meeting
+ để chơi game trên Zoom cùng bạn bè.
+Chọn Khởi chạy Zoom rồi Start Meeting
+Bước 12:
+Play
+ để bắt đầu chơi game. 
+Bên trên là thanh công cụ bao gồm các chức năng như: 
+Send
+ (gửi game, ứng dụng đến bạn bè), 
+Share
+ (chia sẻ màn hình), 
+Expand
+ (phóng to màn hình chơi game).
+ hy vọng bạn đọc có thể khám phá thêm những tiện ích vô cùng thú vị của ứng dụng đang thịnh hành hiện này. Đừng quên ghé thăm mình thường xuyên để cập nhật thêm những bài viết hữu ích khác nhé!

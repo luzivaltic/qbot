@@ -1,0 +1,111 @@
+Automator là gì? Hiểu rõ về automator trên macbook năm 2022 | Cohost AI
+Chắc hẳn rằng trong số chúng ta, những người đã và đang sử dụng 
+Macbook 
+thì đều đã từng nhìn thấy ứng dụng có tên 
+Automator 
+với biểu tượng hình chú robot xuất hiện trong Launchpad của mình. Thế nhưng liệu rằng có bao nhiêu người hiện tại biết cách sử dụng và ứng dụng nó trong các tác vụ hàng ngày ? Hay thậm chí rất nhiều người sử dụng 
+còn không hề quan tâm hay biết đến sự tồn tại của 
+trên chiếc 
+laptop
+Nếu các bạn có cùng thắc mắc, hay chỉ đơn giản là quan tâm đến chủ đề này, hãy tham khảo bài viết này nhé, chắc chắn nó sẽ giúp ích cho bạn rất nhiều đấy!
+Automator là gì ?
+là một công cụ tự động hoá được 
+Apple
+ thiết kế ra nhằm giúp cho những người dùng 
+có được những trải nghiệm tuyệt vời hơn trong quá trình sử dụng. Công cụ này giúp người dùng có thể thực hiện những tác vụ mang tính tương tác với các thành phần khác trên máy tính của mình một cách đơn giản nhất có thể chỉ bằng những thao tác kéo và thả.
+Automator là gì?
+Automator làm được gì?
+Bạn có thể thay đổi hiệu ứng hình ảnh, chuyển đổi định dạng, hay cắt xén, sao chép với một loạt thao tác theo trình tự như vậy với một số lượng lớn thành phần hình ảnh chỉ bằng một vài thao tác kéo thả.
+Chức năng của automator
+Hay nói một cách cực kì đơn giản và dễ hiểu, 
+Automator
+ như một anh chàng trợ lí của bạn vậy, tất cả những gì mà bạn phải làm chỉ là ra lệnh và anh ta sẽ thực hiện hết tất cả những việc đó một cách tự động và gọn gàng, nhanh chóng. 
+Hãy thử tưởng tượng bạn được sếp yêu quý của mình tin tưởng và giao cho nhiệm vụ là phải thay đổi 
+Colorsync 
+và thiết kế khung ảnh cho hơn 500 cái ảnh và 
+deadline
+ là phải làm trong vòng 1 ngày. Thực sự rằng đây sẽ trở thành một cơn ác mộng và gần như là bất khả thi nếu như bạn không biết đến sự tồn tại của 
+Automator có thể giúp bạn được rất nhiều nếu bạn biết cách sử dụng
+Thế nhưng với chú robot thần kì này, nó có thể giúp bạn làm điều đó cực kì dễ dàng chỉ với vài thao tác click chuột, và trong lúc chờ đợi bạn có thể thưởng thức một vài tách trà, nhâm nhi vài ly cafe, đọc một vài cuốn sách hay chìm đắm vào trong những câu chuyện tình yêu lãng mạn từ những bộ phim Hàn sướt mướt.
+Thư giãn bằng một vài bộ phim...
+Mình chỉ đùa chút thôi, thế nhưng có lẽ nói đến đây, các bạn cũng đã thấy được tầm quan trọng cũng như những giá trị mà anh chàng trợ lý 
+này có thể mang lại rồi đúng không nào! Vậy thì hãy tiếp tục cùng mình tìm hiểu kỹ hơn về nguyên lí cũng như cách sử dụng công cụ này nhé!
+Một số khái niệm cơ bản trong Automator 
+Hành động (Action)
+Hành động (
+action
+) là những thao tác đơn lẻ ví dụ như sao chép, đổi tên, thay đổi định dạng file,...
+Những Hành động này có sẵn trong Thư viện của 
+ và có thể được bổ sung thêm
+Đa phần để thực hiện được một hành động thì cần phải có dữ liệu nhập (
+input
+) ví dụ như tệp tin hình ảnh, text, file nhạc,...
+Luồng công việc (Workflow)
+Luồng công việc
+workflow
+) được tạo nên bởi nhiều 
+hành động
+) kết hợp lại với nhau.
+Khi các 
+luồng công việc
+ được khởi chạy, những 
+hành động (action)
+ sẽ được hoạt động một cách tuần tự theo quy trình mà chúng ta tạo ra.
+ hoàn toàn có thể được lưu lại dưới dạng một 
+Ứng dụng
+Application
+) để chia sẻ cho mọi người, hoặc để phục vụ cho những lần sử dụng tiếp theo.
+Hướng dẫn thay đổi hiệu ứng của ảnh bằng Automator
+Mình xin phép được ví dụ, mình đang muốn thay đổi 
+của một số ảnh nhưng vẫn giữ được file ảnh gốc nhé. Vậy những bước mà ta cần làm, hay nói cách khác là những 
+action 
+ta cần tạo đó là:
+Chọn dữ liệu nhập (
+), ở trong trường hợp này chính là những hình ảnh 
+Sao chép những hình ảnh đó để vẫn có thể giữ được file ảnh gốc (optional)
+Tuỳ chỉnh 
+theo ý muốn
+Và bên dưới đây là một số hình ảnh mình đang muốn thay đổi.
+Hướng dẫn tự động đổi màu ảnh bằng automator
+Bước 1
+ : Đầu tiện các bạn khởi động ứng dụng 
+lên bằng cách vào giao diện 
+Launchpad 
+và tìm đến ứng dụng 
+Tìm đến biểu tượng automator trong ứng dụng của bạn
+Bước 2
+ : Sau khi khởi động ứng dụng, giao diện sẽ hiện ra như hình bên dưới đây. Như các bạn có thể thấy, sẽ có rất nhiều tùy chọn như 
+Ứng
+dụng
+Tác
+vụ
+nhanh
+,... Tiếp theo các bạn chọn tùy chọn 
+Luồng
+công
+việc
+ để khởi tạo chuỗi hành động.
+Bước 3
+ : Sau đó, các bạn chỉ việc tìm những hành động phù hợp với mục đích của mình. Ví dụ mình đang cần thay đổi Colorsync cho 3 hình ảnh phía bên dưới.
+Chọn file ảnh cần đổi màu
+Bước 4
+ : Sau khi đã add đầy đủ hành động theo đúng thứ tự, chúng ta được giao diện hiển thị như ảnh dưới đây.
+Các luồng công việc được thiết lập như hình minh hoạ sau
+Bước 5
+ : Các bạn tiến hành chạy luồng công việc bằng cách ấn vào biểu tượng 
+Chạy
+ bên góc trên phải giao diện. Và thế là quá trình đã hoàn thành, quá đơn giản phải không nào
+Các luồng công việc do bạn chỉ định sẽ được thực hiện hoàn toàn tự động
+Sau khi chạy xong 
+, bạn có thể kiểm tra lại kết quả bằng cách ấn vào phần 
+Kết quả
+ như trong hình trên. Nếu kết quả bạn nhận được cũng là dấu tích xanh thì chúc mừng bạn đã thành công.
+Và đây là thành quả của mình sau khi thay đổi Colorsync bằng Automator:
+Jisoo Backpink
+diễn viên Kim Seon Ho
+Suzy
+Lưu ý: 
+Bài viết này chỉ là bài viết giải thích những khái niệm căn bản nhất trong automator, nếu bạn đang quan tâm và muốn tìm hiểu sâu hơn về chủ đề này thì có thể tham khảo 
+Và đó là tất cả những gì mình muốn nói trong bài viết này, hy vọng những kiến thức thú vị này sẽ mang lại thật nhiều giá trị cho bạn. Tất nhiên những gì công cụ Automator này làm được không chỉ là để thay đổi hiệu ứng hình ảnh mà còn làm được rất nhiều tác vụ khác nữa.
+Nếu các bạn quan tâm thì hẹn gặp lại các bạn vào một dịp không xa mình sẽ cùng nhau tìm hiểu kỹ và chuyên sâu hơn về chú robot 
+này nhé, sẽ còn rất nhiều chủ đề hay ho mà chúng ta có thể bàn luận với nhau nữa đấy, ghé thăm  thường xuyên để không bỏ lỡ nhé!

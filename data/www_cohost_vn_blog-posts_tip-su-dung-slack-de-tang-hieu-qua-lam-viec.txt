@@ -1,0 +1,61 @@
+Tip sử dụng Slack để tăng hiệu quả làm việc | Cohost AI
+ là một ứng dụng được sử dụng bởi các công ty để quản lý, tăng hiệu quả làm việc. Nhưng chỉ sử dụng 
+ thôi là chưa đủ, bạn cần biết các tip để tối ưu hóa công cụ này. Bạn có biết đó là những mẹo nào không?
+Nếu chưa, hãy cùng Cohost tìm hiểu xem 
+các tip sử dụng Slack để tăng hiệu quả làm việc
+1. Đặt tên kênh với chủ đích rõ ràng
+Đặt tên cho kênh là một việc vô cùng đơn giản. Nhưng không phải ai cũng làm đúng. Hãy đặt tên cho kênh sao cho chủ đề của kênh được thể hiện rõ và khiến những người trong kênh cảm thấy liên quan. 
+Việc này cũng đảm bảo cho việc làm việc nhóm được tập trung. Bên cạnh việc đặt tên phù hợp, bạn nên đặt tên các kênh sao cho có sự nhất quán. Một cách có thể làm là thêm tiền tố cho các kênh. Ví dụ:
+tiền tố 
+proj 
+cho các kênh bao gồm thành viên từ nhiều phòng ban hợp tác cho một dự án
+team
+ dành riêng cho các kênh
+help
+ cho kênh để mọi người đặt câu hỏi và giải đáp thắc mắc
+Một ví dụ về việc đặt tên kênh có mục đích 
+Việc đặt tên kênh có mục đích và nhất quán sẽ giúp bạn tìm kiếm các kênh dễ hơn và giúp mọi người làm việc tập trung hơn. 
+2. Thiết lập trạng thái 
+Nhiều người dùng 
+ phàn nàn về việc Slack khiến họ phải làm việc 24/7. Làm việc hiệu quả không có nghĩa là lúc nào cũng có mặt sẵn sàng để trả lời các tin nhắn công việc. Quá tải sẽ khiến nhân viên kém hiệu quả. 
+Bấm chọn vào avatar cá nhân tại góc phải màn hình, bạn sẽ thấy mục Update Your Status
+Làm cách nào để nói với đồng nghiệp và cấp trên rằng lúc nào bạn đang có mặt để làm việc? Rất đơn giản, hãy đặt trạng thái. Một số trạng thái mà bạn có thể sử dụng là:
+In a meeting - đang họp
+Vacationing - Đang đi nghỉ
+Working - Đang làm việc
+Một số trạng thái mà Slack cung cấp sẵn
+, bạn có thể tự đặt ra các trạng thái, Vậy nên, hãy tự sáng tạo các trạng thái làm việc mà bạn muốn và sử dụng cho những dịp thích hợp nhé. 
+3. Cài nhắc nhở tin nhắn
+ là công cụ để mọi người trao đổi thông tin, nên chắc chắn là trong vòng 1 ngày, hay 1 tuần bạn sẽ nhận được rất nhiều tin nhắn quan trọng liên quan đến công việc. Rất nhiều trong số đó sẽ là những thông tin quan trọng nhưng chưa thực sự cần thiết. 
+Nếu đọc tất cả cùng một lúc thì sẽ thật khó để sắp xếp thời gian phù hợp để hoàn thành từng đầu việc. Nhưng không đọc thì sẽ không nắm được thông tin. Đó là vì sao 
+ đem đến cho bạn tính năng nhắc nhở tin nhắn. 
+Bạn có thể tùy chọn thời gian để 
+ nhắc nhở 
+Bạn có thể cài đặt nhắc nhở, và thời gian nhắc nhở ví dụ 20 phút hay 1 tiếng sau… Việc này vô cùng đơn giản để thực hiện. Chỉ cần bấm vào dấu 3 chấm bên cạnh bất kỳ tin nhắn nào và chọn “Remind me about this”.
+Tính năng này giúp bạn quản lý thời gian tốt hơn. 
+Top 7 câu lệnh giúp bạn làm việc trên Slack hiệu quả 
+4. Lưu giữ các tin nhắn quan trọng
+Tính năng này có mục tiêu khá giống với tip số 3 ở trên. Tuy nhiên, có những tin nhắn mà bạn sẽ cần xem lại nhiều lần. Khi ấy, đặt nhắc nhở nhiều lần không phải là giải pháp tối ưu. Thay vào đó, bạn có thể sử dụng tính năng lưu tin nhắn. 
+Việc lưu trữ tin nhắn cũng giúp bạn tránh phải tìm kiếm chỉ một tin nhắn giữa hàng nghìn tin nhắn, tiết kiệm thời gian kha khá. Để lưu trữ tin nhắn, chỉ cần lưu tin nhắn vào ‘saved items’ và truy cập những tin nhắn này ngay ở mục phía trên các kênh (như ảnh).
+Xem lại các tin nhắn đã lưu tại Saved Items 
+Một số thông tin mà bạn nên lưu là:
+Những tin nhắn mà bạn cần thường xuyên tham khảo, kiểm tra lại như KPI, deadline
+Những đường link và tài liệu mà bạn cần sử dụng thường xuyên
+Những thông tin đăng nhập hoặc những thông tin bạn cần tái sử dụng
+5. Sử dụng các tổ hợp phím
+Tổ hợp phím hay các lối tắt bàn phím là một công cụ rất tuyệt vời để bạn tiết kiệm thời gian khi làm việc trên 
+. Những tổ hợp phím này sẽ giúp bạn tránh việc tìm kiếm lựa chọn phù hợp trong những drop-down menu dài dằng dặc hoặc chuyển qua lại giữa các đoạn hội thoại nhanh hơn rất nhiều. 
+Chẳng hạn, với hệ điều hành Windows, để lưu một tin nhắn, tip số 4, bạn chỉ cần nhấn phím A. Hay để đăng một file, nhấn tổ hợp phím Ctrl + U.
+Ví dụ một số tổ hợp phím của Slack
+Có rất nhiều tổ hợp phím, và Slack đã tổng hợp danh sách các tổ hợp phím cho bạn. Bạn có thể truy cập
+link
+và tìm kiếm các tổ hợp phím để sử dụng nhé. 
+So sánh Slack với các ứng dụng tương tự? Bạn nên sử dụng ứng dụng nào? 
+6. ‘Đánh dấu sao’ người hoặc kênh quan trọng
+Tính năng ‘đánh dấu sao’ hay ‘Star’ cho phép bạn đánh dấu những người hay những kênh quan trọng. Thường thì đây sẽ là những người mà bạn cần báo cáo, hay cần làm việc cùng nhiều và những kênh mà bạn sẽ trao đổi thông tin chủ yếu. 
+Bấm chuột phải vào tên kênh hoặc người và chọn Star channel là được
+Khi đánh dấu, bạn không cần tốn thời gian kéo tìm người và kênh trong số rất nhiều kênh mà bạn tham gia và những người trong cùng công ty. Dành quá nhiều thời gian vào việc kéo tìm cũng khiến bạn giảm sự tập trung vào công việc khác quan trọng hơn. 
+Cohost hi vọng đã cung cấp cho bạn 
+những tip thú vị để tăng hiệu quả khi làm việc trên nền tảng Slack
+. Với những mẹo trên, chúng mình tin rằng bạn sẽ tận dụng 
+ theo cách tốt nhất. Hãy sử dụng những mẹo trên và chia sẻ trải nghiệm cho Cohost nhé. 

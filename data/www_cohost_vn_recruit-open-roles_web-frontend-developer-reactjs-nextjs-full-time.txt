@@ -1,0 +1,17 @@
+Web/Frontend Developer | Cohost AI
+Đã có kinh nghiệm với các frontend framework NodeJS, React, AngularJS, jQuery, Bootstrap…
+Đã xây dựng sản phẩm web, có >10 người sử dụng.
+Có kinh nghiệm về declarative UI: React Native, Component Kit, Litho, Swift UI.
+Thành thục mô hình SOA, Service Oriented Architecture, code RESTful API trong nháy mắt.
+Sử dụng thành thạo các công cụ quản lý source code, Git/CVS/Mercury, GitHub, GitLab, ...
+Viết Unit Test dễ dàng khi cần. Hiểu biết quy trình Test Driven Development.
+Có kinh nghiệm sử dụng các công cụ thiết kế như Balsamiq, Figma, Sketch... 
+Hiểu biết tốt về hệ thống, quản lý bộ nhớ, tìm và xử lý leak memory.
+Đã có kinh nghiệm về Mobile development  nữa thì càng tốt.
+Read/Write/Speak English.
+Agile Development (Scrum, Standup, Sprint)
+Sự tò mò, ham học hỏi, có ý chí cầu tiến
+Sự linh hoạt và khả năng chịu áp lực
+Cổ phần ESOP (chúng tôi coi bạn là cổ đông, và chia sẻ thành công với bạn).
+Cơ hội đi du lịch miễn phí nhờ sản phẩm của công ty.
+Macbook Pro, Flat screen monitor.

@@ -1,0 +1,114 @@
+Jira là gì? Tìm hiểu về Jira từ A-Z  | Cohost AI
+Quản lý dự án là một công việc không hề dễ dàng, tốn thời gian và phức tạp. Nhưng Jira có thể giải quyết hết những vấn đề trên cho bạn. Đây là công cụ quản lý dự án được nhiều công ty lớn tin dùng. Bạn có biết Jira là gì không? 
+Hãy cùng Cohost tìm hiểu về Jira nhé.
+1. Jira là gì?
+Jira là một công cụ quản lý dự án được phát triển bởi một công ty của Úc - Atlassian. Atlassian chính thức ra mắt Jira vào năm 2002. ‘Jira’ được lấy từ một từ trong tiếng Nhật - Gojira, có nghĩa là Godzilla. Khi phát triển công cụ này, các lập trình viên đã sử dụng một phần mềm tracking bug có tên là Bugzilla. 
+Jira được xây dựng dựa trên nguyên lý Agile. Nó được sử dụng để quản lý dự án, nhưng thực ra nó còn được dùng cho nhiều mục đích khác như theo dõi bug, theo dõi issue.
+Bạn có thể đọc về các 12 nguyên tắc Agile tại 
+Các phiên bản Jira 
+Khi Jira và nguyên lý Agile trở nên phổ biến trong các công ty công nghệ phần mềm, Atlassian đã mở rộng Jira, cung cấp dịch vụ của mình để thích hợp với nhiều tổ chức khác nhau. Hiện nay có 3 phiên bản chính của Jira như sau: 
+Ngoài 3 phiên bản chính, 
+ mới cung cấp thêm JiraOps 
+Jira Core 
+Đây là phiên bản Jira cơ bản nhất, được thiết kế dành riêng cho các team non-tech. Nhưng phòng ban như HR, marketing, tài chính hay operations sử dụng Jira Core để thực hiện các yêu cầu thay đổi, chấp thuận workflow và quản lý task nói chung. 
+Jira Software
+ là phiên bản dành cho các team phát triển phần mềm. Phiên bản này cung cấp mọi tính năng của Jira Core, bên cạnh đó, cũng có những tính năng để thực hiện nguyên lý agile. Các nhóm phát triển phần mềm sử dụng phiên bản này để theo dõi bug, quản lý các đầu việc liên quan đến phát triển phần mềm và quản lý sản phẩm. 
+Jira Software cũng được sử dụng bởi các team dùng các framework agile như Kanban, Scrum… 
+Jira Service Desk
+ thực chất là một phần mở rộng (Add-on) cho các team IT. Quản lý tổng đài CSKH, Helpdesk và những chuyên gia hỗ trợ khác sẽ dùng phiên bản này để dán nhãn issue (issue ticketing), quản lý incident và thay đổi. 
+2. Những tính năng cơ bản của Jira
+Jira là một công cụ hỗ trợ quản lý dự án. Vậy nên, những tính năng nổi bật của Jira là những tính năng giúp người dùng có thể quản lý dự án và theo dõi các Issue hiệu quả hơn. Một số tính năng nổi bật của Jira là:
+Quản lý thời gian
+: Quản lý thời gian dành cho một issue là một khía cạnh quan trọng của việc quản lý vòng đời dự án và vòng đời sản phẩm. Tính năng quản lý thời gian của Jira cung cấp nhiều thông số và cách quan sát, như số giờ làm việc một ngày, một tuần, vân vân. Ngoài ra, nếu tính năng quản lý thời gian sẵn có của Jira vẫn chưa thể thỏa mãn bạn, bạn có thể tích hợp thêm từ Atlassian Market để quản lý nâng cao hơn nữa. 
+Hình ảnh tính năng quản lý thời gian mặc định trên 
+Lộ trình dự án (Project Roadmap)
+: Project Roadmap cung cấp một cấu trúc cho quá trình phát triển sản phẩm của bạn. Nó cho phép bạn phân loại vòng đời phát triển, để từ đó phân việc cho các team liên quan. Lộ trình dự án là cầu nối, kết nối các team với nhau. 
+Hình ảnh một roadmap được xây dựng trên 
+Nhờ có lộ trình này mà bạn có thể tạo timeline, đưa ra những hướng dẫn, định hướng, danh sách các mục tiêu mà bạn muốn đạt được.
+Các thành viên sẽ sử dụng roadmap để lên kế hoạch cho quá trình phát triển và nói chuyện với các bên liên quan (stakeholder). Team Development thì xây dựng bản đồ tiến trình trong dòng đời của dự án. 
+Kết nối với điện thoại:
+ Bên cạnh phiên bản web, Jira cũng có phiên bản dành cho điện thoại. Việc này rất tiện lợi cho những Project Manager - người quản lý dự án cần di chuyển nhiều và khó có thể sử dụng máy tính thường xuyên. Ứng dụng Jira trên điện thoại cho phép bạn quản lý backlog, tạo task, chỉnh sửa issue. Người dùng còn có thể nhận được thông báo cập nhật về dự án. 
+Phiên bản điện thoại của 
+ đặc biệt phù hợp cho các 
+Project Manager
+Dashboard:
+ Dashboard là một console cho phép bạn kiểm soát và quản lý những project đang diễn ra. Bạn có thể theo dõi các assignment, issue của bất cứ project nào. Hơn nữa, việc tạo Dashboard cho từng project cũng hoàn toàn có khả năng, giúp bạn quản lý từng dự án tốt hơn. 
+Bảo mật:
+ Các doanh nghiệp ngày nay rất quan tâm đến vấn đề bảo mật, bảo mật dữ liệu của họ. Jira có những tính năng bảo mật cấp cao, ngăn việc những người không có thẩm quyền, không xác định danh tính truy cập vào roadmap dự án của bạn. Bảo mật hai lớp và chính sách mật khẩu giúp Jira kiểm soát dự án của bạn khỏi những mối nguy bên ngoài. 
+Hệ thống bảo mật mà 
+ cung cấp
+Báo cáo chi tiết:
+ Nếu bạn muốn, Jira có thể tạo những báo cáo giúp bạn theo dõi tiến độ của mình, của cả team trong một dự án. Có rất nhiều hình thức visualization mà Jira sử dụng, giúp bạn hình dung rõ hơn. Một số báo cáo mà Jira tạo là 
+User workload 
+(khối lượng công việc của một thành viên), 
+Average age
+ (số ngày trung bình của những issue hay đầu việc chưa được giải quyết trong backlog), 
+Recently created issue
+ (mức độ những issue mới được tạo ra) 
+Các loại biểu đồ mà 
+ hỗ trợ
+3. Sử dụng Jira để làm gì? 
+Jira vốn được dành cho các team phát triển phần mềm, nhưng được phát triển để thích hợp với nhiều team với tính chất khác nhau. Một số mục đích sử dụng Jira là: 
+Quản lý kiểm thử và các yêu cầu kiểm thử
+Quản lý team agile
+Jira còn được sử dụng để quản lý các team agile bên cạnh quản lý dự án 
+Quản lý dự án
+Phát triển phần mềm
+Quản lý team DevOps
+Quản lý sản phẩm
+Quản lý task 
+Theo dõi bug của tính năng
+Jira hiệu quả là vậy, cung cấp nhiều tính năng, nhưng nếu bạn muốn, có kha khá 
+công cụ khác có thể thay thế Jira
+4. Ưu, nhược điểm của Jira
+Ưu điểm của Jira
+Cá nhân hóa trải nghiệm
+Dù bạn sử dụng Jira vì mục đích gì, Jira đều có thể được tùy chỉnh để đáp ứng được nhu cầu của bạn. Bạn có thể điều chỉnh workflow, báo cáo, Scrum board, timeline… Đối với người dùng, điều này giúp họ làm việc tốt hơn, phù hợp với yêu cầu của mình, từ đó có trải nghiệm sử dụng tốt hơn. 
+Liên tục cập nhật tính năng mới
+Công ty phát triển Jira - Atlassian liên tục đổi mới, cung cấp cho người dùng những tính năng mới, nhờ vậy mà Jira trở nên toàn năng và thân thiện với người dùng hơn. Những người sử dụng Jira có thể đưa ra quyết định dễ dàng hơn và tốt hơn. 
+Ví dụ, Burndown Insight đem thông tin từ báo cáo Burndown biến thành thông tin trên bảng, giúp người xem nhìn ra vấn đề ngay lập tức. Những tính năng khác giúp thực hiện các thao tác nhanh trong backlog, chế độ xem trong các template của project hay roadmap dành cho cho các team và dự án khác nhau. 
+Tích hợp với nhiều công cụ khác 
+Điểm mạnh nhất của jira là khả năng tích hợp với nhiều công cụ khác, cung cấp thêm các tính năng khác cho người dùng. Cụ thể, người dùng có thể tích hợp hơn 3000 công cụ khác vào Jira. 
+Bạn có thể truy cập vào 
+marketplace 
+của Atlassian, tương tự như App Store của Apple hoặc Google Play Store để tìm kiếm và tải các ứng dụng. Có rất nhiều lựa chọn cho bạn, các ứng dụng giúp người dùng giải quyết từng vấn đề cụ từ quản lý chi phí, quản lý thời gian, công cụ để quản lý dự án… 
+Việc tích hợp với các công cụ khác giúp 
+ trở nên hoàn thiện hơn 
+Nếu bạn cảm thấy còn những khía cạnh mà Jira chưa thể đáp ứng được nhu cầu của bạn, hãy tìm kiếm trên 
+ Marketplace, có thể 
+bạn sẽ tìm được giải pháp. Đánh giá của người dùng trước cũng hiển thị, giúp bạn đưa ra lựa chọn đúng đắn. 
+Nhược điểm của Jira 
+Giới hạn dung lượng tài liệu tải lên
+Nhiều người dùng Jira đã phàn nàn về vấn đề này. Jira chỉ cho phép họ tải lên file mặc định có dung lượng 10MB, một con số khá nhỏ. Nếu cần upload những bức ảnh, video lớn hơn 10MB là không thể, gây ra nhiều bất tiện. 
+Bạn có thể tùy chỉnh dung lượng file tải lên trên 
+ cho team của mình 
+Thiết lập khó sử dụng
+Hầu hết những người mới tiếp xúc với Jira lần đầu đều công nhận rằng công cụ này khá khó để sử dụng. Việc setup không dễ dàng, và khi đã setup xong, nó lại yêu cầu người dùng phải học nhiều và nhanh để có thể sử dụng thành thạo. 
+Việc có nhiều cấu hình (configuration) cũng khiến người dùng bối rối, đặc biệt là với những team chỉ thực hiện các project đơn giản. Với các team có yêu cầu đơn giản, chỉ cần công cụ này hoạt động được, nhiều lựa chọn là không cần thiết.
+Tốc độ hoạt động chậm
+Một vấn đề khác với Jira đó là công cụ này thường gặp các vấn đề về server, thường không sử dụng được. Điều này ảnh hưởng đến việc quản lý công việc của các tổ chức. Ngoài ra, Jira còn có thời gian chờ truy vấn khá dài, khiến người dùng phải chờ đợi lâu, tốn thời gian. 
+Tuy nhiên, bạn cùng đừng quá lo lắng về những nhược điểm của Jira, nếu bạn biết được những 
+tip sử dụng Jira hiệu quả
+ thì mọi vấn đề đều được giải quyết
+6. Các thuật ngữ cần biết khi sử dụng Jira 
+Jira vốn được dành cho các nhóm phát triển sản phẩm và phần mềm, dùng để theo dõi bug, nên các thuật ngữ Jira sẽ có thiên hướng liên quan nhiều đến các quy trình công nghệ. Nếu bạn sử dụng Jira để theo dõi các quy trình kinh doanh, có thể bạn sẽ gặp khó khăn khi nhìn thấy các thuật ngữ này. Chúng giống như tiếng nước ngoài vậy. 
+Hãy cùng tìm hiểu một số thuật ngữ cần biết nếu muốn sử dụng Jira nhé:
+Backlog: 
+Backlog là một danh sách các user story, bug và tính năng cho một sản phẩm hay một sprint
+Hình ảnh một backlog trên 
+Sprint:
+ Một sprint hay còn được gọi là một vòng lặp là một khoảng thời gian ngắn (2-4 tuần) mà team phát triển thực hiện công việc và đưa ra kết quả cho sản phẩm, ví dụ như một tính năng hay một phiên bản mới. 
+Epic: 
+Epic là một “công việc lớn” cần được chia nhỏ thành nhiều đầu việc nhỏ hơn. Để hoàn thành một epic sẽ cần vài sprint. Hệ thống các đơn vị công việc trong Jira như sau: 
+Project > Epic/Component > Story > Task > Subtask 
+Scrum:
+ Scrum là một phương pháp phát triển Agile mà trong đó sản phẩm được xây dựng dựa trên những khoảng lặp với thời gian cố định gọi là sprint. Nó cung cấp cho các team một framework làm việc để có thể hoàn thành công việc trong khoảng thời gian nhất định 
+Workflow:
+ Workflow là logic giúp các team hoạt động, di chuyển các story hay subtask theo quy trình phát triển của chúng dựa trên scrum. 
+Workflow mặc định trên Jira sẽ trông như thế này 
+Còn rất nhiều thuật ngữ khác trên Jira, bạn có thể tìm hiểu thêm tại 
+. Nếu bạn là người mới, chưa tự tin, hãy tìm hiểu ngay 
+cách sử dụng Jira cho người mới
+Qua bài viết trên, Cohost hi vọng đã đem đến cho các bạn cái nhìn 
+tổng quan về Jira - công cụ được nhiều người sử dụng để quản lý dự án
+. Jira được sử dụng nhiều là nhờ những tính năng nổi bật mà nó cung cấp, giúp các công ty quản lý dự án hiệu quả hơn gấp nhiều lần. Cảm ơn bạn đã đón đọc bài viết. 

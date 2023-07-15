@@ -1,0 +1,138 @@
+Hướng dẫn sử dụng Jira cho người mới | Cohost AI
+Quản lý dự án không phải là một việc đơn giản. Chính vì thế, đã có nhiều công cụ, ứng dụng được phát triển để giúp các tổ chức, công ty quản lý dự án hiệu quả hơn. Một trong số đó là Jira. Bạn đã từng nghe nói đến 
+bao giờ chưa? 
+cách sử dụng Jira - công cụ để quản lý dự án
+1. Jira Scheme là gì? 
+Jira Scheme
+ là kế hoạch thực hiện một dự án. 
+Jira Scheme 
+bao gồm: 
+Workflow 
+Issue Type
+Custom Field
+Screens
+Field Configuration
+Notification 
+Permission
+Hình ảnh một 
+scheme
+ mặc định
+2. Hướng dẫn vận hành issue
+a. Thiết lập Issue
+Khó khăn đầu tiên mà nhiều người gặp phải là tạo issue. Các bước tạo issue như sau:
+Bấm chọn
+ ‘Create’ 
+ở thanh trên cùng của màn hình (hoặc bạn cũng có thể nhấn phím C trên bàn phím)
+Thiết lập các 
+thông tin cho issue
+. Các thông tin phải điền là những thông tin có dấu sao bên cạnh: 
+Project, Issue Type, Summary và Reporter
+. Ở phần summary, hãy điền ngắn gọn 1-2 câu về dự án, cung cấp những chi tiết quan trọng nhất
+Ngoài những phần bắt buộc, bạn nên điền thêm càng nhiều thông tin càng tốt. Ví dụ: 
+Đính kèm các file tài liệu, link ở phần 
+Description
+Sử dụng thêm các 
+label 
+để giới thiệu giúp mọi người nhanh chóng hiểu được issue là về gì và dễ tìm kiếm hơn trên Jira
+Tương tự với label, mục 
+component 
+cũng giúp tìm kiếm issue dễ hơn
+Điền tên người 
+Reporter
+Liên kết 
+với một issue khác nếu các issue có cùng nằm trong một dự án với nhau 
+Hình ảnh khi bạn tạo một 
+Jira issue
+Khi issue đã được tạo, nó sẽ được thêm vào dự án, admin và các người dùng khác (tùy theo cài đặt) cũng sẽ thấy được issue trong dự án. Ngoài ra, bạn có thể đặt trạng thái, độ phân giải và mức độ ưu tiên.
+Trạng thái
+: Cho phép bạn mô tả tiến độ hoàn thành: 
+To Do 
+(cần làm), 
+In Progress 
+(đang làm), 
+Open 
+(mở), 
+ReOpened 
+(mở lại) và 
+Resolved 
+(đã được giải quyết) 
+Mức độ chuyển đổi (Resolution)
+: Tương tự với trạng thái, resolution cũng mô tả tiến độ: 
+Fixed 
+(đã sửa), 
+Won’t Fix 
+(không sửa), 
+Duplicate 
+(tạo bản sao), 
+Incomplete 
+(chưa hoàn thành), 
+Cannot reproduce 
+(không thể sao chép), 
+Done 
+(hoàn thành)
+Mức độ ưu tiên (priority)
+: Bạn có thể sẽ thiết lập mức độ ưu tiên từ cao đến thấp: 
+Critical -> Major -> Minor -> Blocker -> Trivial 
+b. Di chuyển Issue 
+Để di chuyển issue, hay nói cách khác là gắn issue vào một dự án khác: 
+Bấm chọn 
+More
+Nhấn chọn 
+Move 
+Chỉ với hai click chuột, bạn đã có thể di chuyển issue 
+c. Tạo sub-task 
+Một issue đôi khi cũng sẽ có nhiều đầu việc nhỏ mới có thể hoàn thành được. Khi này, bạn sẽ cần tạo các 
+sub-task
+. Để tạo 
+ trong một issue có sẵn
+Chọn 
+‘More’
+‘Create Sub-Task’
+Các subtask cũng có thể được chuyển đổi thành một issue mới
+Sub-Task
+ có thể được tạo mới, được đồng lại, được nhân bản hoặc xóa đi. Các sub-task cũng có thể được chuyển thành issue và issue cũng có thể được chuyển thành sub-task.
+d. Quan sát, nhận thông báo về issue 
+Thông thường, người báo cáo và người chịu trách nhiệm cho một issue sẽ nhận được thông báo liên quan đến issue đó. Nhưng đôi khi, không chỉ những người có liên quan trực tiếp mới cần cập nhật về issue. Những người khác ví dụ những người đang giải quyết các issue liên quan hay cần issue này hoàn thành mới có thể bắt đầu công việc của mình cũng cần cập nhật về issue. 
+Hình ảnh ví dụ khi bạn nhận được thông báo về một issue
+Những người này có thể trở thành 
+‘watcher’
+ hay người xem. Khi trở thành watcher, họ sẽ nhận được mọi cập nhật về một issue, giống như khi bạn cc một ngày khi gửi email. 
+Bạn có thể chọn các watcher bằng cách đi đến mục Watcher trong một issue, chọn số lượng và chọn người dùng từ menu 
+‘Add User
+’. 
+e. Tìm kiếm issue 
+Tìm kiếm issue giúp bạn tránh việc tạo lại một issue mà người khác đã tạo. Khi tìm issue, bạn còn thấy được những thông tin hoạt động như lịch sử, nhận xét… Mỗi issue đều có một issue 
+key
+ riêng hay 
+mã issue
+. Nếu bạn biết issue key, chỉ cần gõ vào thanh tìm kiếm là được. 
+Hình ảnh khi bạn tiến hành 
+Basic Search
+ trên Jira
+Nếu bạn không biết issue key, bạn có thể tìm kiếm issue bằng những cách sau: 
+Sử dụng thanh tìm kiếm
+: Thanh tìm kiếm của Jira cho phép bạn tìm kiếm các issue, dự án và các từ khóa. Bạn có thể sử dụng ‘Basic Search’ hoặc ‘Advanced Search’ tùy thuộc vào mức độ phức tạp. Lưu ý rằng khi sử dụng ‘Advanced Search’ bạn cần hiểu về Jira Query Language. 
+Sử dụng phần Issue ở thanh ngang phía trên
+: Nếu bạn sử dụng phiên bản Jira Server hoặc Jira Data Center, bạn sẽ nhìn thấy mục ‘Issue’ ở thanh ngang trên. Mục này cho phép bạn tìm các issue mà bạn đã tạo, những issue đang mở, đóng…
+Sử dụng ô vuông ở bên trái
+: Nếu bạn dùng Jira Cloud, ô vuông ở bên trái cũng sẽ giúp bạn tìm issue. Tùy theo loại dự án, bạn sẽ tìm thấy issue trong mục backlog hoặc board hoặc trong phần ‘Issue’ 
+3. Hướng dẫn sử dụng Jira Dashboard
+Jira Dashboard
+ sẽ cho bạn cái nhìn tổng quan về các dự án và đầu việc mà bạn tham gia vào. Dashboard sẽ bao gồm các gadget - hay các bảng khác nhau để hiển thị dự án, đầu việc, hoạt động và những việc đã thực hiện được. 
+Các loại biểu đồ mà Jira hỗ trợ
+Bạn cũng có thể tự điều chỉnh dashboard để có được thông tin mình muốn về các dự án hay đầu việc nhất định. Để tạo dashboard:
+Bấm chọn Dashboard và chọn 
+‘Create dashboard’
+Điền các thông tin cho dashboard bao gồm tên, phần giới thiệu và các yêu cầu truy cập 
+‘Add gadget’
+ để điều chỉnh các thông tin bạn muốn thấy trong dashboard. Có rất nhiều loại biểu đồ mà bạn có thể thêm vào. 
+Điền vào những mục bắt buộc cho từng gadget. 
+4. Hướng dẫn tạo báo cáo
+Khi nhìn vào một dự án, bạn sẽ thấy ở bên trái có mục báo cáo. Bấm vào 
+‘Report’,
+ bạn sẽ thấy các báo cáo. Báo cáo sẽ sẽ cho phép bạn phân tích mức độ chuyển đổi của các issue, thời gian, tiến độ của Sprint và khối lượng công việc chung của cả team. 
+Các báo cáo sẽ chỉ là các báo cáo theo từng project chứ không phải báo cáo cho toàn hệ thống. 
+Hình ảnh một số loại báo cáo trên Jira
+Qua bài viết trên, Cohost hi vọng rằng bạn đã nắm được 
+cách sử dụng Jira
+. Jira không phải một ứng dụng dễ dàng sử dụng cho người mới. Tuy nhiên, đây là ứng dụng rất hữu ích để quản lý công việc. Nếu được, bạn nên sử dụng Jira. Cảm ơn bạn đã đón đọc bài viết. 

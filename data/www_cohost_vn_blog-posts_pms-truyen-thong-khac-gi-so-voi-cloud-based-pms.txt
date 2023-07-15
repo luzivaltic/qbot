@@ -1,0 +1,91 @@
+PMS truyền thống khác gì so với Cloud-based PMS? | Cohost AI
+PMS truyền thống
+Cloud-based PMS
+: Đâu là giải pháp tối ưu cho khách sạn? Đây có thể được coi là một trong số những chủ đề ở lĩnh vực phần mềm khách sạn mà được đề cập và thảo luận nhiều nhất.
+Rằng tốt hơn nên chuyển đổi sang giải pháp điện toán đám mây - Cloud, hay chỉ nên giữ vững lập trường là tiếp tục sử dụng phần mềm 
+. Thông thương, những người chủ khách sạn có am hiểu công nghệ sẽ thiên về giải pháp sử dụng công nghệ đám mây. Vậy sự khác nhau chính giữa 2 giải pháp trên này là gì?
+Giải pháp tương thích nhất trong kinh doanh lưu trú ở thời đại công nghệ 4.0 sẽ là gì?
+PMS Là Gì?
+ là từ viết tắt của 
+Property Managmement System
+ - được biết đến như một phần mềm quản lý thông tin, quản lý hệ thống giúp người quản lý tối ưu hóa các hoạt động kinh doanh trong khách sạn. Để biết rõ hơn về tầm quan  của PMS trong quản lý - vận hành lưu trú, tìm hiểu 
+PMS là gì?
+Cơ hội để ngành du lịch chuyển đổi số
+Tổng Quan Về PMS Truyền Thống Và Cloud-Based PMS
+Khái niệm PMS truyền thống
+ là loại phần mềm quản lý bao gồm một lượng lớn đòi hỏi về kỹ thuật như trung tâm dữ liệu, máy trạm, card mạng, hệ điều hành và thiết bị lưu trữ dự phòng bên ngoài.
+PMS truyền thống có những ưu và nhược điểm nào?
+Nhược điểm
+Không sử dụng đến đường truyền internet – hình thức offline
+Hệ thống phần cứng không những cồng kềnh, phức tạp mà vô cùng tốn kém
+Giảm thiểu rủi ro trong hoạt động bảo mật dữ liệu
+Chỉ truy cập được với các nguồn máy tính có kết nối trong khuôn viên của khách sạn
+Tốc độ & khả năng xử lý nguồn dữ liệu lớn nhanh
+Tốn chi phí cho việc bảo trì và chi phí cho đội ngũ nhân viên IT
+Khái niệm cloud-based PMS
+ là mô hình điện toán có sự hỗ trợ của công nghệ máy tính kèm internet. Mọi dữ liệu đều được lưu trữ trên Cloud, vậy nên người dùng có thể truy cập thông tin từ bất cứ nơi đâu tại bất kỳ thiết bị nào.
+Cloud-based PMS có những ưu và nhược điểm nào?
+Hình thức online – sử dụng công nghệ điện toán đám mây, truy cập được từ bất cứ đâu
+Vấn đề bảo mật dữ liệu online
+Tự động sao lưu và bảo mật thông tin, dữ liệu
+Yêu cầu đường truyền kết nối phải ổn định - 24/7
+Cập nhật tự động và miễn phí, từ đó dễ dàng nâng cấp & mở rộng
+Sự khác biệt giữa PMS truyền thống với Cloud-based PMS
+Khác biệt kỹ thuật
+Hệ thống 
+ yêu cầu một số lượng lớn máy chủ và thiết bị phần cứng nhất định so với một hệ thống sử dụng đám mây - Cloud. Lợi ích nổi bật đó là chủ khách sạn có toàn quyền quyết định trong: cài đặt hệ thống, chức năng, lưu trữ dữ liệu, nâng cấp và thay đổi hệ thống tuỳ chỉnh. 
+Điều đồng nghĩa với sự yêu cầu bắt buộc phải có một hệ thống máy chủ cố định do chủ khách sạn quản lý. Bên cạnh đó cũng cần đến những hệ thống khá cồng kềnh đi kèm, cùng một đội ngũ kỹ thuật (IT) luôn túc trực để đảm bảo vận hành trong trường hợp gặp sự cố.  
+ không yêu cầu lượng lớn máy chủ và phần cứng như 
+Trong trường hợp này, việc sao lưu hay di chuyển dữ liệu sẽ là một bài toán khó đối với chủ khách sạn. Và về lâu dài, khách sạn sẽ cần huy động một nguồn lực tài nguyên và nhân lực vô cùng lớn, trong khi hiệu quả đêm lại sẽ thấp.
+Tuy nhiên, những công việc cần nhiều sức lực và thời gian kể trên sẽ dược bên nhà cung cấp hệ thống sử dụng Cloud quán xuyến và chịu trách nhiệm. Lợi ích nổi bật khi sử dụng phần mềm nay đó là hệ thống luôn được cập nhật, server ổn định, công nghệ luôn được cải tiến, và lịch trình cũng được bảo trì thường xuyên.
+Khác biệt chi phí 
+Đối với hệ thống 
+ thì yêu cầu chi phí bỏ ra ban đầu khá là lớn. Bên cạnh chi phí giấy phép để có thể sử dụng hệ thống thì chủ khách sạn cần phải tính đến các khoản kinh phí ngầm bao gồm: nhân sự IT, máy chủ máy trạm thiết bị phần cứng, cơ sở hạ tầng, phí bảo trì hệ thống… 
+Chi phí của 
+ thấp hơn nhiều so với 
+Tổng các chi phí này có thể sẽ tăng dần tuỳ thuộc vào quy mô khách sạn mà bạn đang sở hữu. Nếu làm một phép toán nhỏ, có thể dễ dàng thấy rằng những chi phí đầu tư kể trên là quá tầm đối với những khách sạn có quy mô vừa và nhỏ.
+Trái ngược lại, với hệ thống Cloud thì chi phí đầu vào sẽ thấp hơn nhiều so với 
+. Đây là một sự khẳng định! Bởi, nhà cung cấp sẽ chỉ thu phí giấy phép và dịch vụ kèm theo một khoản chi phí cho việc thiết lập cấu hình ban đầu của phần mềm. Chủ khách sạn không phải mất phí server, phí bảo trì, hay phí nhân lực. Quả thực, đây là một giải pháp tối ưu cho khách sạn vừa và nhỏ.
+Khác biệt về khả năng linh hoạt & mở rộng  
+Nếu bạn là chủ sở hữu khách sạn và đề cao tính tiện lợi trong việc truy cập hệ thống bất kể đâu hay bất kỳ thời gian nào trên bất cứ thiết bị nào đi chăng nữa thì câu trả lời duy nhất là sử dụng 
+. Bởi, tất cả dữ liệu lớn đều được lưu trữ trên internet, và kèm theo thiết kế thân thiện cho thiết bị di động, việc truy cập của bạn hứa hẹn trở nên vô cùng dễ dàng.
+Linh hoạt sử dụng 
+ ở bất kỳ đâu
+, có thể hệ thống cho phép truy cập từ máy ngoài bạn được thiết lập, tuy nhiên rủi ro tương đối cao bởi hệ thống này không thể đảm bảo hoạt động truy cập từ xa mà không gặp bất kể một sự cố nào. Hơn nữa, bạn không thể theo dõi dữ liệu theo thời gian thực khi sử dụng phần mềm 
+. Và đây quả thực là một nhược điểm lớn so với hệ thống lưu trữ trên Cloud.
+Giải pháp điện toán đám mây (cloud) có khả năng cho phép mở rộng tuyệt đối trong trường hợp bạn tăng hay giảm quy mô khách sạn.
+Khác biệt về tính năng tích hợp 
+Hệ thống quản lý khách sạn 
+ đã xuất hiện trên thị trường từ rất lâu. Hiện tại, phầm mềm này đã được phát triển cùng với một hệ sinh thái khác phong phú hơn từ máy bán hàng, phần mềm kế toán, hoặc từ hệ thống nhà hàng đến hệ thống quản lý phòng,... Tuy nhiên, quá trình tích hợp những hệ thống kể trên thường phức tạp cũng như mất khá nhiều thời gian.
+ tích hợp tốt hơn 
+, hệ sinh thái Cloud tuy ra đời sau nhưng đang ngày một phát triển mãnh mẽ hơn. Các công ty hiện nay đều trong cuộc đua cập nhật và nâng cân công nghệ điện toán đám mây để đáp ứng yêu cầu khó tính của người sử dụng hiện nay. 
+Nhờ có phương thức giao tiếp mở (open API) mà hoạt động tích hợp của loại phần mềm này vô cùng đơn giản và nhanh gọn. tuy nhiên, chúng ta vẫn không thể phủ nhận rằng 
+ vẫn đang đi sau 
+ về khả năng tích hợp cũng như số lượng và tính năng.
+Khác biệt về tính bảo mật 
+Nếu dữ liệu không được lưu trữ trên máy chủ nội bộ thì số đông chủ khách sạn đều mang tâm lý rằng họ sẽ mất quyền kiểm soát. Và thực đây là cách nghĩ truyền thống còn phổ biến trong ngành kinh doanh khách sạn tại Việt Nam.
+Tuy nhiên trên thực tế, chủ sở hữu khách sạn thường quên đi những tiêu chuẩn về việc bảo mật an ninh được áp dụng trong lưu trữ dữ liệu cục bộ. Cụ thể là, hạn chế quyền ra - vào phòng máy chủ, hay hạn chế việc sao lưu dữ liệu thường xuyên và có giám sát 24/7. Trong một số trường hợp nhất định,  việc bị ăn cắp dữ liệu hay tấn công an ninh là điều có thể xảy ra.
+Tất cả hệ thống sử dụng điện toán Cloud đều tuân thủ theo những tiêu chuẩn an ninh
+Hiện nay, tất cả hệ thống sử dụng điện toán Cloud đều tuân thủ theo những tiêu chuẩn an ninh, nguyên tắc bảo mật khắt khe nhất phải kể đến có ISO 27001 hay PCI DSS an ninh thông tin. 
+Tùy thuộc vào nhu cầu sử dụng, chủ khách sạn có thể lựa chọn giữa điện toán Cloud bao gồm 
+Private Cloud (đám mây riêng)
+Public Cloud (đám mây công cộng)
+ hoặc lai giữa hai loại trên 
+(Hybrid Cloud)
+. Với điện toán đám mây, người quản lý khách sạn sẽ không phải lo lắng về vấn đề nguy cơ bị tấn công hệ thống, bảo mật, sao lưu dữ liệu, hay kết nối hệ thống.
+Mở cửa du lịch thị trường khách sạn TP.HCM và Đà Nẵng tăng công suất 
+PMS truyền thống vs Cloud-based PMS - Giải pháp nào tối ưu hơn?
+ là giải pháp mang nhiều lợi ích hơn
+Sau quá trình phân tích những ưu thế, nhược điểm giữa 2 giải pháp 
+PMS truyền thông
+, chúng ta không thể phủ nhận rằng giải pháp điện toán đám mây đem lại nhiều lợi ích cũng như tối ưu tốt hơn so với phần mềm truyền thống. Cụ thể, giải pháp sử dụng Cloud:
+Yêu cầu chi phí thấp về mặt máy chủ, hạ tầng, nhân lực IT
+Chi phí đầu tư khi trả cho nhà cung cấp là cố định
+Truy cập thông tin dữ liệu dựa trên thời gian thực
+Tính năng tích hợp hợp dễ dàng, nhanh chóng
+Hoạt động ổn định và có tính bảo mật cao
+Tổng Kết 
+Với những lợi thế kể trên thì quả thực không ngạc nhiên khi thấy xu hướng chuyển đổi từ 
+ sang 
+ đang thịnh hành. Với hệ thống điện toán đám mây, điều mà khách sạn thực sự cần và ưu tiên hàng đầu đó là một đường truyền internet mạnh và ổn định. Và thực tế cho thấy rằng việc chuyển đổi từ giải pháp truyền thống sang Cloud là hoàn toàn khả thi. Vậy nên, hãy cân nhắc việc thay đổi nào bạn nhé.
+Hướng dẫn chọn phần mềm phù hợp với bạn

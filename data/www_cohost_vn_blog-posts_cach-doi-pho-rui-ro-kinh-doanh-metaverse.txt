@@ -1,0 +1,38 @@
+Cách đối phó với những rủi ro kinh doanh trong Metaverse | Cohost AI
+ không thiếu rủi ro bên cạnh những cơ hội. Doanh nghiệp cần làm gì để bảo vệ việc kinh doanh của mình trong vũ trụ ảo? Hãy cùng Cohost tìm hiểu về 
+cách đối phó với những rủi ro kinh doanh trong Metaverse
+Rủi ro về phần cứng 
+Vũ trụ ảo cần nhiều thiết bị phần cứng để có thể hoạt động tốt, từ headset cho đến những con chip dành cho máy tính hoạt động với công suất cao. Chính những thiết bị này cũng chứa đựng rủi ro. 
+Càng nhiều thiết bị, càng nhiều lỗ hổng, tạo cơ hội cho các cuộc tấn công 
+Khi mọi người kiến tạo, mở rộng và tham gia vào 
+, tiềm năng của 
+ tạo ra những bề mặt mới cho các thành phần xấu tấn công vào các lỗ hổng. Để có thể thành công tham gia vào các thế giới ảo cần tập trung các thiết bị phần cứng từ nhiều nguồn khác nhau. Điều này có nghĩa là có nhiều mối nguy như những cuộc tấn công vào trung gian (
+MITM
+) tại các ATM hay trên các ứng dụng điện thoại. 
+Minh họa cuộc tấn công trung gian
+Để đảm bảo an toàn, các công ty cần phải chú trọng hơn đến việc giám sát các thiết bị phần cứng, coi đây là một phần quan trọng trong quản lý rủi ro. Bên cạnh đó, các công ty cũng cần tạo ra những hệ thống kiểm soát bảo mật phần cứng hơn cũng như các cổng kỹ thuật số tiên tiến, toàn diện hơn.
+Chiến lược quản trị rủi ro nên bao gồm việc giám sát phần cứng 
+Rủi ro về NFT
+Giao dịch crypto là một nguồn rủi ro lớn trong vũ trụ ảo. Dù khởi đầu là một công cụ với tính bảo mật cao nhưng sự phát triển của crypto lại xuất hiện nhiều rủi ro. 
+Tiền điện tử đã và đang trở thành mục tiêu của nhiều hacker
+Càng nhiều người giao dịch, nhiều công ty mới thì cũng xuất hiện thêm nhiều tin tặc. Đương nhiên, khi có nhiều hacker, rủi ro lại càng cao. Tiền điện tử đã trở thành mục tiêu của các mã độc, vì vậy những cuộc tấn công nhằm vào tiền điện tử cũng tăng lên gấp nhiều lần. Các công nghệ 
+ tiên tiến sẽ tiếp tục gây ra nhiều rủi ro cho cho bảo mật NFT. Nếu các công ty không bắt kịp và dành nguồn lực để đối phó rủi ro, nguy hiểm sẽ chỉ tăng lên chứ không hề giảm đi. 
+Lưu trữ dữ liệu cục bộ là giải pháp cuối cùng cho những cuộc tấn công crypto
+Các doanh nghiệp có thể tránh những rủi ro về NFT bằng cách hướng dẫn, cung cấp thông tin và đào tạo người dùng để họ biết cách xác thực trước khi bấm vào bất cứ đường link hay tải bất cứ file gì. Các giải pháp bảo mật vành đai mạng như tường lửa, hệ thống phát hiện xâm nhập (IDS/IPS) và cổng truy cập web an toàn (SWG) nên được sử dụng. Chúng sẽ xác định những website, server lừa đảo và chặn quyền truy cập. 
+Hệ thống phát hiện xâm nhập IDS/IPS là một giải pháp bảo mật hiệu quả
+Vi phân khúc dựa trên mạng máy tính cũng giúp hạn chế ảnh hưởng của mã độc, giảm phạm vi lan truyền của nó. Đầu tư vào các giải pháp Identity Aware Access sẽ giúp ngăn chặn việc những tài sản được lưu trữ trên đám mây bị đánh cắp. Bên cạnh việc sử dụng mật khẩu, các công ty nên bảo mật nhiều lớp. 
+Trong trường hợp tất cả những giải pháp trên không thành công, lưu trữ cục bộ là giải pháp cuối cùng để một công ty khôi phục lại những gì đã mất.
+Rủi ro về nhận dạng 
+ được phát triển dựa trên tính ẩn danh và sự linh hoạt, dễ dàng thay đổi. Nó là một thế giới ảo cho phép người dùng che đậy danh tính thật của mình, tạo ra nhân vật mới trong thế giới mới. Người dùng tự chọn danh tính cho mình và những danh tính này không hề được quản lý chặt chẽ, và cũng có thể thay đổi được nếu muốn. 
+Thật khó để phân biệt người tốt và người xấu trong vũ trụ ảo vì mọi người đều ẩn danh
+Khi mà sự đổi mới được quan tâm còn bảo mật không phải là ưu tiên hàng đầu, sẽ rất khó để chính người dùng và những nhà phát triển 
+ phân biệt được người tốt và người xấu trong vũ trụ ảo. 
+Những yêu cầu về việc kiểm soát rủi ro nhận dạng trong 
+ xuất hiện không chỉ vì xảy ra những vụ việc rò rỉ dữ liệu giữa người dùng và bot mà còn là vì những vụ việc lăng mạ và quấy rối tính dục. 
+, việc đánh cắp thông tin cũng trở nên dễ dàng hơn nếu như không có các biện pháp bảo mật an toàn. Đánh cắp thông tin là một ngành công nghiệp hàng tỷ đô la. Giá trị của những vụ đánh cắp nhận dạng là khoảng 20 tỷ đô la, số người bị đánh cắp nhận dạng cũng gia tăng theo cấp số nhân.
+Một trong nhiều giải pháp để giảm rủi ro danh tính trong metaverse là sử dụng sinh trắc học
+Bảo mật sinh trắc học là một cách để các công ty bảo vệ danh tính cho người dùng. Sinh trắc học sử dụng những đặc điểm cá nhân của một người như là dấu vân tay, mống mắt để xác nhận danh tính khi người dùng đăng nhập. Sinh trắc học đã và đang được sử dụng trong hệ sinh thái bảo mật, nhưng tiềm năng của nó trong vũ trụ ảo còn lớn hơn khi được sử dụng cùng các công nghệ 3D khác. 
+Bảo mật bằng sinh trắc học là quy trình nhanh gọn và trơn tru hơn so với token và mật khẩu. Người dùng luôn có sẵn các đặc điểm nhận dạng bên mình như dấu vân tay, và những đặc điểm này sẽ không thể bị mất đi hay quên lãng. 
+Qua bài viết trên, Cohost đã tổng hợp 
+ba rủi ro kinh doanh chính trong Metaverse và cách đối phó với chúng
+. Theo bạn, những cách trên đã đủ để đối phó với những rủi ro của vũ trụ ảo chưa, hãy chia sẻ với Cohost nhé. Cảm ơn các bạn đã đón đọc bài viết. 

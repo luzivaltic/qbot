@@ -1,0 +1,100 @@
+Top 7 câu lệnh giúp bạn làm việc trên Slack hiệu quả | Cohost AI
+Những câu lệnh trên 
+, thường là bắt đầu với gạch chéo /, cho phép người dùng thực hiện các thao tác mà không cần phải di chuyển các ngón tay ra khỏi bàn phím hay tìm đến con chuột. Vì vậy, các câu lệnh giúp tiết kiệm rất nhiều thời gian. 
+top 7 câu lệnh trên Slack giúp bạn làm việc hiệu quả
+Các câu lệnh 
+ sẽ giúp người dùng tiết kiệm được nhiều thời gian
+1. /dm hoặc /msg 
+Bạn có thể sử dụng lệnh 
+/dm 
+hoặc 
+/msg 
+để gửi nhắn trực tiếp cho một người đồng nghiệp một cách nhanh chóng. Không quan trọng bạn đang ở channel hay màn hình nào. Khi sử dụng câu lệnh này, bạn cũng không cần phải tìm tên người cần gửi tin nhắn bằng tay khi tìm trong danh sách. Tất cả những gì cần làm là gõ 
+/msg @người bạn cần gửi tin nhắn <nội dung tin nhắn> và nhấn Enter
+Lệnh 
+giúp bạn nhắn tin nhanh với một người
+2. /search
+Một tính năng nổi bật của 
+ chính là bạn có thể tìm kiếm lại các tin nhắn từ quá khứ. Và vì thế, câu lệnh 
+/search
+ cũng rất phổ biến và hữu ích. Nếu bạn chưa biết đến câu lệnh này, hãy đọc tiếp và nhanh chóng áp dụng ngay nhé.
+Để sử dụng, cũng rất đơn giản, chỉ cần gõ 
+ và sau đó là nội dung mà bạn cần tìm kiếm. Đây là cách đơn giản nhất, nhưng khá khó để giúp bạn tìm được thông tin cần tìm trong thời gian quan trọng. 
+Có nhiều bộ lọc tìm kiếm để câu lệnh 
+/search 
+hiệu quả hơn
+Để tối ưu câu lệnh này, bạn nên sử dụng thêm các bộ điều chỉnh nâng cao hơn. Cụ thể: 
+from: @tên 
+để tìm thông tin được chia sẻ bởi một người nhất định
+to: @tên bạn hoặc to:me
+ để tìm thông tin được gửi trực tiếp cho bạn
+in: #kênh
+ để tìm thông tin được chia sẻ trong một kênh cụ thể
+in: @tên
+ để tìm thông tin được chia sẻ trong tin nhắn của bạn và một người khác 
+before:date; after:date; on:date hay during:month/year
+ để tìm kiếm tin nhắn trong những khoảng thời gian nhất định
+has:link
+ để tìm kiếm những tin nhắn có chứa các đường lin
+has:emoji-code
+ để tìm kiếm những tin nhắn nhận được các phản ứng emoji nhất định 
+3. /remind 
+Tính năng nhắc nhở là một tính năng khá hữu ích của 
+, giúp bạn không quên những nhiệm vụ quan trọng cần làm trong tương lai mà chưa có thời gian để làm ngay lúc bạn đọc tin nhắn.
+Tính năng này cho phép bạn nhắc nhở bản thân, nhắc nhở người khác hoặc nhắc nhở cả một kênh. Bạn cũng có thể cài đặt nhắc nhở cho chính mình cho một tin nhắn mà bạn cần quay lại xem sau. 
+Để nhắc nhở khi sử dụng phiên bản desktop, bạn cần thực hiện các bước sau:
+Nhấn vào biểu tượng dấu cộng trong khu vực tin nhắn
+Tìm và chọn 
+/remind
+ từ menu
+Trong phần tin nhắn, hãy gõ các thông tin cần nhắc nhở theo cú pháp sau:
+/remind [@tên người cần nhắc nhở hoặc #channel] [nội dung] [thời gian] 
+Ví dụ: /remind @jane Submit Report May 30/In 20 minutes 
+Gửi tin nhắn để lên lịch lời nhắc nhở. 
+Slackbot
+ sẽ gửi người được nhắc nhở một tin nhắn với nội dung cần nhắc, hoặc gửi tin nhắn vào channel cần được nhắc nhở. 
+Với lệnh 
+, bạn có thể nhắc nhở người khác cũng như gửi nhắc nhở cho bản thân mình
+Một câu lệnh khác cũng liên quan đến tính năng remind là 
+/remind list
+. Câu lệnh này sẽ giúp bạn xem tất cả những lời nhắc nhở mà bạn đã thiết lập. Bạn có thể xóa hay đánh dấu đã hoàn thành nếu muốn.
+4. /invite 
+Với câu lệnh này, bạn có thể mời một người tham gia vào workspace 
+ của công ty. 
+Nếu đó là người chưa sử dụng Slack, dùng cú pháp 
+/invite_email
+. Email sẽ là email của người mà bạn muốn mời. 
+Nếu đó là người đã sử dụng Slack nhưng chưa tham gia kênh của bạn, dùng cú pháp: 
+/invite @tên hoặc /invite @tên #channel 
+Thay vì gửi link đến workspace, bạn có thể mời với lệnh
+ /invite
+5. /star 
+‘Đánh dấu sao’ là một trong những tính năng của 
+, cho phép bạn đánh dấu những người hoặc kênh quan trọng. Câu lệnh 
+/star 
+sẽ giúp việc đánh dấu diễn ra nhanh chóng hơn. Bạn có thể sử dụng linh hoạt giữa câu lệnh 
+/star
+ hoặc lối tắt cho tính năng này.
+Gửi 
+ vào một cuộc hội thoại hoặc kênh để đánh dấu sao
+Tuy nhiên, không có câu lệnh để bỏ đánh dấu một người hoặc kênh. Để làm điều này, bạn sẽ cần thực hiện các thao tác bằng cách nhấp vào biểu tượng ngôi sao bên cạnh tên kênh hoặc người và chọn bỏ đánh dấu. 
+6. /archive 
+Nếu một kênh không còn cần thiết, bạn có thể lưu trữ với câu lệnh
+ /archive
+. Thay vì xóa bỏ toàn bộ, câu lệnh này vẫn sẽ lưu trữ các tin nhắn đã được trao đổi nhưng mọi người sẽ không thể gửi tin nhắn nữa. 
+Để lưu trữ, bạn chỉ cần gõ 
+/archive
+ vào kênh. Tuy nhiên, các thành viên khác trong kênh có thể tìm kiếm tin nhắn trong này và bỏ lưu trữ kênh (trừ khi họ là khách).
+Bạn có thể sử dụng lệnh /archive để lưu trữ tin nhắn nhé
+7. /shortcuts
+Tên câu lệnh này đã nói lên tất cả. Đây là câu lệnh để bạn tìm kiếm các shortcut hay lối tắt. Bạn có thể tìm hiểu các lối tắt tại đây. Những lối tắt sẽ giúp bạn tiết kiệm rất nhiều thời gian khi sử dụng 
+. Nhưng để nhớ tất cả các shortcut không phải là chuyện dễ dàng.
+Slack cung cấp câu lệnh
+ /shortcuts 
+ giúp bạn xem tất cả những lối tắt có sẵn trên 
+, một lần nữa giúp bạn tiết kiệm thời gian và không phải ghi nhớ quá nhiều. 
+Với lệnh /shortcuts bạn có thể tìm tất cả các câu lệnh
+Với bài viết trên, Cohost hi vọng đã đem đến cho bạn 
+7 câu lệnh để giúp tăng hiệu quả làm việc của bạn trên Slack
+. Nếu muốn 
+ trở thành một cánh tay đắc lực, bạn nên bắt đầu sử dụng những câu lệnh trên. Bắt đầu với những câu lệnh này, dần dần bạn sẽ trở nên hiệu quả hơn và thành công trong công việc. Cảm ơn bạn đọc bài viết. 

@@ -1,0 +1,154 @@
+Web3 là gì?  | Cohost AI
+Internet đã phát triển tới một thời điểm mà chúng ta có thể chia sẻ và truyền tải hầu hết mọi thứ mình muốn thông qua không gian và thời gian. 
+ tin rằng giống như bất kỳ dạng thức từng tồn tại nào, nó vẫn sẽ không ngừng tồn tại và phát triển hoàn thiện hơn mỗi ngày. Sự phổ biến của 
+cũng như 
+Web3
+ được coi là đỉnh cao của Internet với các khả năng vô biên về công nghệ và thực tế ảo tăng cường. Hãy cùng 
+Web3 là gì
+, nó sẽ phát triển và thay đổi cuộc sống của chúng ta như thế nào nhé! 
+Web3 là gì?
+Web 3.0 được tối ưu hoá nữa các tiện ích với công nghệ AI, blockchain và tiến tới Metaverse
+Web 3 
+( hay còn được biết tới là 
+) được coi là thế hệ thứ 3 của Internet. Đây được coi là một cuộc dịch chuyển lớn về lớp nhận dạng của Internet và trong nhiều trường hợp là sự chuyển đổi từ dịch vụ tập trung sang các hệ thống phi tập trung. 
+ được xây dựng dựa trên 
+Trí tuệ nhân tạo (AI) 
+Máy học (ML)
+Web ngữ nghĩa (Semantic Web)
+, đồng thời là hệ thống bảo mật 
+ để giữ an toàn và bảo mật thông tin. 
+ được coi như một phiên bản nâng cấp của 
+Web 2.0
+, mang đến cho người dùng sự linh động với tính tương tác cao hơn. 
+ mang lại trải nghiệm web với những thay đổi về cấu trúc nhằm nâng cao trải nghiệm người dùng bằng cách triển khai 
+Trí tuệ nhân tạo
+ và công nghệ tiên tiến 
+. Các 
+ đảm bảo dữ liệu được lưu trữ an toàn và phân phối trên nhiều thiết bị khác nhau. Điều này loại bỏ nhu cầu về các máy chủ tập trung và loại bỏ nguy cơ rò rỉ dữ liệu. 
+Sự phát triển các thế hệ web
+Sự phát triển của Internet được chia thành ba giai đoạn khác nhau: Web 1.0, Web 2.0 và Web 3.0
+Web 1.0 - Hiển thị thông tin
+ là “Kỷ Nguyên Đọc", nơi hầu hết mọi người dùng Internet đều có thể duyệt và tìm đọc thông tin trên Internet. Tuy nhiên việc xuất bản bất cứ thứ gì lại đòi hỏi một bộ kỹ năng chuyên sâu hơn. 
+ có giai đoạn từ 1989 - 2005 được coi là Internet đầu tiên và đáng tin cậy nhất trong những năm 1990 mặc dù quyền truy cập vào các luồng thông tin còn bị hạn chế đối với người dùng. Bên cạnh đó, 
+ không có các thuật toán để sàng lọc các trang Internet, điều này gây khó khăn cho người dùng trong quá trình tìm kiếm thông tin. Nó được ví như đường cao tốc một chiều với lối đi nhỏ hẹp, nơi một số ít người được chọn có thể tạo các nội dung và thông tin chủ yếu đến từ các thư mục. 
+Web 2.0 - Chuyển giao thông tin
+ được coi là “Kỷ Nguyên Đọc, Viết" khi nó mang lại cho chúng ta các nền tảng truyền thông xã hội như Facebook, Instagram, Tumblr. Từ các trang mạng xã hội phát triển với tốc độ nhanh chóng, 
+ cung cấp một phương tiện vô cùng đơn giản để người dùng đóng góp ý kiến và thông tin của riêng họ cho Internet. 
+Từ 2005 cho tới nay, mạng xã hội trở nên có tính tương tác mạnh mẽ hơn nhiều nhờ vào những tiến bộ trong công nghệ. Điều này cho phép các doanh nghiệp khởi nghiệp xây dựng các nền tảng web có tính tương tác cao với khách hàng như Youtube, Facebook, Wikipedia và nhiều nền tảng phổ biến khác. 
+Đây được coi là một con đường rộng mở cho các nhà sản xuất nội dung thoả sức cho người dùng sáng tạo bởi các dữ liệu và thông tin có thể được phân phối trên nhiều nền tảng và ứng dụng khác nhau. 
+Web 3.0 - Chuyển giao giá trị
+ sẽ được coi là “Kỷ Nguyên Đọc, Viết, Sở Hữu" khi Internet cung cấp cho người dùng phương tiện để sở hữu dữ liệu của họ. 
+được coi là giai đoạn chuyển giao giá trị khi làm cho Internet trở nên thông minh hơn hoặc xử lý thông tin với trí thông minh gần giống như con người thông qua sức mạnh của trí tuệ nhân tạo cũng như các chương trình thông minh hỗ trợ người dùng. Chúng ta có thể tìm kiếm tình yêu nhờ vào các ứng dụng. 
+Chúng ta tin tưởng những người hàng xóm kỹ thuật số của mình khi họ đưa các gợi ý tốt nhất về thực phẩm hay nhà ở. Chúng ta cũng đặt những bức ảnh kỷ niệm quý giá nhất của mình vào tay những gã khổng lồ kỹ thuật số để được lưu giữ vĩnh viễn. Tuy nhiên, 
+ mang tới một cuộc cách mạng hoàn toàn khác khi con người có thể “tương tác một cách tự động" với các hệ thống. Quá trình tạo nội dung và đưa ra quyết định sẽ có sự tham gia của cả con người và máy móc, cho phép phân phối nội dung phù hợp nhất một cách thông minh đến thẳng với người dùng.  
+Sự khác biệt giữa các Web 
+Hầu như chỉ có thể dùng để đọc
+Có thể đọc và viết
+Truy cập linh động, có thể đọc và viết
+Tập trung vào công ty
+Tập chung vào cộng đồng
+Tập chung chủ yếu vào cá nhân
+Trang chủ
+Live Streams/ sóng
+Sở hữu nội dung
+Chia sẻ nội dung
+Hợp nhất nội dung
+Biểu mẫu web
+Ứng dụng web
+Ứng dụng thông minh
+Thư mục
+Gắn thẻ
+Hành vi người dùng
+Lướt xem trang
+Chi phí cho mỗi lần nhấp chuột
+Cam kết của người dùng
+Biểu ngữ quảng cáo
+Quảng cáo tương tác
+Quảng cáo hành vi
+Britannica trực tuyến
+Wikipedia
+Mạng ngữ nghĩa
+HTML/ Cổng thông tin
+XML/RSS
+RDF/RDFS/OWL
+Web 3.0 có thật sự là tương lai của Internet 
+Phương thức hoạt động của Web3
+Cách thức hoạt động của các Web 3.0 là gì?
+Cốt lõi của
+ Web 3.0
+ chính là 
+ - một mạng lưới ngang hàng, tự quản, tính bảo mật được phát triển dựa trên sự phân bố của các nhà phát triển và người dùng trên mạng lưới. Xây dựng các dịch vụ 
+( được gọi là dApps hay các ứng dụng phi tập trung) có liên quan tới sự tưởng thưởng cho những người đóng góp vào quá tình phát triển dịch vụ. 
+Toàn bộ mọi thông tin hay dữ liệu của khách hàng sẽ được ghi lại trong 
+ giúp người dùng truy cập và sử dụng được tất cả dữ liệu của mình trên hệ thống các website chỉ bằng một tài khoản duy nhất. 
+ hoạt động chủ yếu thông qua hình thức phi tập trung - các khối sáng lập của 
+blockchain 
+và công nghệ tiền điện tử. Chính vì thế, 
+ có tính bảo mật nâng cao, quyền riêng tư cũng như tính minh bạch, tạo điều kiện cho nhận dạng bằng kỹ thuật số. 
+Người truy cập có thể tìm kiếm toàn bộ các thông tin được cập nhật trên kho dữ liệu khổng lồ và khách hàng hoàn toàn có thể tìm kiếm tất cả thông tin, kiến thức trên 
+. Bên cạnh đó, người dùng thực hiện rất nhiều giao dịch một cách dễ dàng mà không cần đến sự hỗ trợ của máy chủ trung gian hay các dịch vụ như hiện nay. 
+Các tính năng chính của Web3
+Web 3.0 hiện nay được phát triển với nhiều tính năng ưu việt
+Ubiquity (Tính phổ biến) 
+ cung cấp Internet cho chúng ta ở bất kỳ nơi đâu và bất kỳ vị trí nào. Chúng ta đang bước vào một cuộc dịch chuyển lớn khi đến một lúc nào đó, Internet sẽ không còn bị giới hạn kết nối ở máy tính và điện thoại thông minh như 
+Internet Vạn Vật ( Internet of Things)
+ cùng công nghệ tiên tiến sẽ cho phép phát triển vô số loại tiện ích thông minh mới. 
+Semantic Web (Web ngữ nghĩa) 
+Đây được coi là một loại web nâng cao mà trong đó tất cả nội dung sẽ được phân tích theo ý nghĩa của từ ngữ. Berners-Lee cho biết, 
+Semantic Web
+ cho phép máy tính phân tích vô số dữ liệu web bao gồm nội dung, giao dịch và liên kết giữa con người với con người. 
+Việc áp dụng ngữ nghĩa trong Web sẽ cho phép máy tính giải mã ý nghĩa và cảm xúc con người bằng phương pháp phân tích dữ liệu. Từ đó người dùng Internet sẽ có một trải nghiệm tối ưu hơn nhờ vào kết nối dữ liệu nâng cao. 
+Trí tuệ nhân tạo (AI)
+ chính là tiền đề xây dựng 
+ với khả năng đọc và giải mã ý nghĩa hay cảm xúc được truyền tải thông qua một tập hợp dữ liệu, từ đó tạo ra những máy móc thông minh. Mặc dù 
+ trong quá khứ cũng có khả năng tương tự, tuy nhiên nó vẫn chủ yếu dựa vào con người. Điều này tạo ra sự thiếu minh bạch trong cách hành vi sai trái như đánh giá thiên vị sản phẩm, gian lận xếp hạng, v.v.
+phân tích và xử lý những thông tin được tiếp nhận một cách chính xác, độ thấu hiểu của công nghệ như con người để mang lại những kết quả chính xác nhất. 
+Spatial Web (Web không gian) và Đồ họa 3D
+ còn được biết đến là 
+Web không gian (Spatial Web)
+ vì nó đã xoá mờ đi ranh giới giữa vật lý và kỹ thuật số bằng cách mạng hóa công nghệ đồ hoạ, đưa vào thế giới ảo 3D một sự tập trung rõ ràng. Không giống như các đối tác 2D, Đồ hoạ 3D được ứng dụng nhiều hơn không chỉ trong các ứng dụng trò chơi mà còn trong nhiều lĩnh vực khác như bất động sản, y tế, thương mại điện tử, v.v. 
+Ưu và nhược điểm của Web 3.0
+Ưu điểm của Web 3.0
+ có khả năng lưu trữ dữ liệu vĩnh viễn
+Sử dụng
+ Web3 
+sẽ không cần làm việc qua cách bên trung gian, thay vào đó là sự kết nối trực tiếp với nhau. 
+Quyền riêng tư và kiểm soát dữ liệu được đảm bảo 
+Dịch vụ liền mạch nhờ vào lưu trữ dữ liệu phi tập trung 
+Tính minh bạch 
+Một hồ sơ duy nhất hoạt động trên tất cả các nền tảng 
+Xử lý dữ liệu nâng cao nhờ vào 
+Nhược điểm của Web3
+Yêu cầu thiết bị nâng cao 
+Tốc độ xử lý chậm trong nhiều trường hợp 
+Chưa được áp dụng rộng rãi dẫn đến nhiều người dùng còn lạ lẫm với 
+Dữ liệu trên 
+ khó xoá bỏ dẫn đến tình trạng dữ liệu rác tồn đọng
+Chức năng phức tạp đối với người dùng mới
+Ứng dụng của Web3
+Web 3.0 được ứng dụng rộng rãi trong cuộc sống hiện đại
+Siri
+Trong nhiều năm qua, nhờ vào sự phát triển của công nghệ, trợ lý AI điều khiển bằng giọng nói của Apple ngày càng trở nên thông minh hơn và mở rộng khả năng tìm kiếm của mình. Siri sử dụng tính năng nhận diện giọng nói để thực hiện các lệnh phức tạp với tính cá nhân hoá cao. 
+Hiện nay,
+ Siri 
+cùng với các trợ lý ảo AI khác như Alexa của Amazon hay Bixby của Samsung có thể hiểu được nhiều yêu cầu phức tạp như “Bưu điện gần nhất ở đâu” hay “Đặt lịch hẹn lúc 8 giờ sáng mai".
+Wolfram Alpha
+ được coi là một “công cụ tìm kiếm kiến thức có tính toán” sẵn sàng trả lời câu hỏi của bạn mà không chỉ cung cấp thông tin các web liên quan như các công cụ tìm kiếm thông thường. Bạn có thể làm mọi thứ một cách trực quan, tương tác, phân tích, mô phỏng, tạo ứng dụng, chương trình website và nhiều hơn nữa. 
+DAOs
+DAO (Decentralized Autonomous Organization)
+ đại diện cho tương lai của việc tổ chức con người thông qua Internet. Các 
+ được thiết lập để có khả năng trở thành thực thể tổ chức cho các dịch vụ 
+, cung cấp cấu trúc và quản trị theo hướng phi tập trung. 
+Cách hoạt động của 
+ dựa trên nguyên tắc rằng bất kỳ ai cũng có thể tham gia và gia nhập, nhưng bạn sẽ được thưởng cho sự tham gia ấy bằng Token. Nó sẽ đại diện cho sự đóng góp của bạn vào sứ mệnh của
+ DAO
+ và cho phép bạn bỏ phiếu về hướng đi và những quyết định mà nó đưa ra. 
+Filecoin
+ là một mạng lưu trữ phi tập trung được dùng để lưu trữ các nguồn thông tin quan trọng của người dùng. Nó cho phép bất kỳ ai thuê những nguồn dữ liệu trên máy tính và người thuê sẽ sẽ trả một số tiền tương ứng để có thể lưu trữ dữ liệu của họ. 
+FIlecoin 
+sử dụng công nghệ 
+ để điều phối mạng lưới với những dữ liệu ngang hàng, giải quyết các vấn đề quá tải và lưu trữ gây ra các cuộc tấn công mạng.
+Hy vọng rằng với tất cả những thông tin 
+đã cung cấp ở trên, bạn đã có được cái nhìn rõ nét hơn về định nghĩa, ưu điểm, nhược điểm của 
+ cũng như cách chúng thay đổi cuộc sống của chúng ta trong tương lai. Con người đang ở trong thời đại mà mọi ngành nghề đều khao khát sự đổi mới và thế hệ 
+ này có thể chính là câu trả lời cho sự phát triển này. 

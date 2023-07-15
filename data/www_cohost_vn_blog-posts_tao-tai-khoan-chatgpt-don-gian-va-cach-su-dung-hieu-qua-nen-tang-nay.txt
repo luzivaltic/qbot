@@ -1,0 +1,113 @@
+Tạo tài khoản ChatGPT đơn giản và cách sử dụng hiệu quả nền tảng này | Cohost AI
+Gần đây, 
+ đã trở thành một hiện tượng mới và là một đề tài được bàn luận sôi nổi trên các trang mạng xã hội. Thật vậy, có rất nhiều người trầm trồ trước sự tiên tiến vượt bậc của 
+ so với những nền tảng tương tự trước đó và cũng có phần lớn người dùng tỏ ra quan ngại trước sự thông minh của 
+ ở thời điểm hiện tại. Thế nhưng, phần lớn mọi người sẽ tò mò muốn sử dụng nền tảng thông minh này. Vậy thì hãy cùng 
+ tìm hiểu các bước tạo tài khoản 
+ đơn giản sau đây nhé!
+ là một mô hình ngôn ngữ lớn được huấn luyện bởi 
+, có thể trả lời các câu hỏi và thực hiện các tác vụ liên quan đến ngôn ngữ. Nó sử dụng công nghệ 
+transformer
+ để học và trả lời các câu hỏi của người dùng một cách chính xác và tự nhiên nhất.
+Các bước tạo tài khoản ChatGPT
+Một điều khá buồn là hiện tại công cụ 
+ chưa có mặt ở thị trường Việt Nam, nên để đăng ký tài khoản 
+ bạn cần phải sử dụng các phần mềm hỗ trợ cũng như đăng ký khá mất thời gian hơn so với các nền tảng khác. Dưới đây là các bước cụ thể giúp bạn tạo tài khoản 
+ChatGPT đang cực kỳ hot ở Việt Nam
+1. Đăng ký số điện thoại ảo
+Để tạo tài khoản 
+ thì việc mua một số điện thoại ảo ở nước khác là điều bắt buộc vì 
+ hiện chưa có mặt tại Việt Nam. Vì vậy, trước hết bạn cần đăng ký tài khoản 
+SMSPool
+ theo link 
+https://www.smspool.net/
+. Ở trang web này bạn chỉ cần đăng ký tài khoản theo hướng dẫn và thanh toán 1$ để mua số điện thoại ảo.
+Giao diện trang chủ 
+Khi đăng ký xong bạn quay về giao diện chính của 
+ và chọn 
+Quick Order
+ dưới tên tài khoản của bạn và số tiền mà bạn đã nạp sau đó chọn 
+OpenAI/ChatGPT.
+Chọn tiếp các mục sau:
+Pricing Option: 
+Select highest success rate
+Chọn quốc gia: 
+United States (hoặc các nước khác tùy thích)
+Sau đó kéo xuống dưới và chọn 
+Purchase
+ để thực hiện mua số điện thoại ảo. Vậy là bạn đã có cho mình số điện thoại ảo để đăng ký rồi!
+2. Cách tạo tài khoản ChatGPT, cách đăng ký ChatGPT
+Sau khi đã tạo được số điện thoại ảo trên 
+SMSPool,
+ bạn hãy mở một cửa sổ trình duyệt mới và kích hoạt 
+VPN
+ trên trình duyệt của bạn bằng
+HOLA VPN
+Giao diện để thêm tiện ích Hola VPN
+Kế đến bạn hãy chọn biểu tượng 
+ và bật nó lên và truy cập vào link dưới đây để vào trang web
+để tạo tài khoản.
+ khi bạn vào website
+Tại đây bạn nhấn 
+Sign up
+ để tạo tài khoản. Tại giao diện tạo tài khoản, bạn điền tên tài khoản gmail của bạn vào. Kế đến 
+ sẽ gửi một thư xác nhận đến tài khoản gmail của bạn.
+Email xác nhận danh tính từ OpenAI
+Sau bước điền tên sẽ là xác nhận số điện thoại. Bạn hãy chọn lại 
+United States (+1)
+  và điền số điện thoại mà bạn đã mua trước đó vào.
+Cửa sổ tạo tài khoản 
+ tiếp theo sẽ hiển thị một trình nhập mã xác nhận 6 số, quay lại 
+ và nhập mã xác nhận 6 số đã được gửi đến số điện thoại mà bạn đã thuê vào là xong.
+Để thực hiện vào cửa sổ 
+, bạn hãy vào 
+Playground
+Try it now.
+ Như vậy là xong, giờ bạn có thể sử dụng 
+ dù đang ở 
+Việt Nam
+ rồi.
+Cách sử dụng ChatGPT hiệu quả
+ là một công cụ khủng mà cách sử dụng lại rất đơn giản, bạn chỉ cần kết nối 
+API Key
+ của mình với mô hình và gửi câu hỏi cho nó. 
+ sẽ trả lời câu hỏi của bạn bằng cách sử dụng kiến thức được chọn lọc và trình bày tốt nhất có thể.
+Tuy nhiên, phần trò chuyện với 
+ChatGPT bằng tiếng Việt
+ đôi khi sẽ có một số hạn chế vì 
+ không hiểu rõ ý mình. Lúc này, bạn chỉ việc mô tả cụ thể và giải thích rõ hơn, ngay lập tức 
+ sẽ sửa đổi và trả lời bạn với mức chính xác cao hơn. Thật thông minh đúng không!
+Dưới đây là một ví dụ minh họa cho việc 
+ nhanh chóng học được cách trả lời để đáp ứng yêu cầu của bạn cũng như các đặt câu hỏi để sử dụng 
+ hiệu quả hơn.
+Đầu tiên, bạn có thể thấy rằng 
+trả lời rất chung chung vì câu hỏi được đặt ra chưa rõ ràng.
+Tiếp theo, tôi thử thêm chủ đề cụ thể cho câu hỏi nhưng 
+ vẫn chỉ trả lời bao quát nhất và chưa đúng với ý muốn của mình.
+Do đó, tôi bắt đầu khai thác chủ đề này từng bước một và khởi đầu với việc xác định đối tượng chính quan tâm đến clip review.
+Tôi tiếp tục với việc hỏi về khó khăn của đối tượng chính khi lựa chọn sản phẩm.
+Ngoài ra, bạn sẽ có cảm giác như đang trò chuyện với một trợ lý đắc lực vì khi có gián đoạn, bạn có thể gõ “tiếp tục” và 
+ sẽ hiểu ý cũng như tiếp tục phần đang gõ dang dở.
+Tôi tiếp tục hỏi 
+về cảm xúc của đối tượng chính.
+Kế đến là hỏi về lợi ích mà họ có thể đạt được khi xem clip của tôi nhằm mục đích để 
+làm quen với việc phân tích sâu hơn.
+Ở phần này, tôi hỏi 
+về công thức viết content 
+BAB (Before-After-Bridge)
+. Tuy nhiên, 
+ đã hiểu sai ý tôi.
+Ngay lập tức, tôi giải thích ngắn gọn cho 
+và nó đã hiểu ý tôi để trả lời đúng với mong muốn của tôi.
+Cuối cùng tôi đặt lại câu hỏi một lần nữa và bảo 
+ viết lại kết hợp với lượng thông tin vừa trao đổi phía trên. Và thật tuyệt vời, 
+ đã có thể trả lời câu hỏi của tôi với đúng những gì tôi cần.
+Như vậy, qua bài viết này 
+ tin rằng bạn đã nắm rõ được các bước tạo tài khoản 
+ dễ dàng cũng như các đặt câu hỏi sao cho hiệu quả nhất. Dù nhiều người ngờ vực về khả năng của 
+, song, đây là một trợ thủ đắc lực sẽ giúp ích rất nhiều cho công việc cũng như đời sống thường ngày của bạn. Một người giỏi là khi họ áp dụng 
+ thành công và bắt 
+ làm việc chứ không phải là lo sợ bị thay thế bởi 
+ vì chính 
+ phải phục vụ con người. Chúc bạn có trải nghiệm tuyệt vời với công cụ thông minh 
+ này.

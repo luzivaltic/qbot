@@ -1,0 +1,30 @@
+Data & Machine Learning Engineer | Cohost AI
+Love to analyze data and devise insight from it? We have gather millions data points every day about the world of home sharers and real estate industry around the world. Jupiter Notebook, Tensorflow, pyTorch, Airflow, Superset, d3js sounds familiar? Shoot us an email NOW!!!
+Do ad-hoc analysis and present results in a clear manner. Jupyter Notebook is a plus.
+Convert valuable ad-hoc analysis into standard customer reports. Google Data Studio is a plus.
+Selecting and integrating any big data tools and frameworks necessary to: 
+Apply state-of-the-art machine learning techniques 
+Visualize data from our customers in real time
+Extending cohost.ai’s data with third party sources of information when needed
+Processing, cleansing, and verifying the integrity of data used for analysis
+Challenges
+Analyze 1M conversations in minutes.
+Predict pricing for thousands listings per day.  
+Turn data into products.
+Collaborate effectively during Covid19.
+Share everything you do with smart colleagues.
+Have fun even when a crisis happens.
+Good understanding of data structures, algorithms and design patterns. 
+Good command of source code management such as Github/Gitlab Good.
+English writing skill is a plus.
+Understand SOA - Service Oriented Architecture, RESTful API. 
+Passionate about the latest developments in technology 
+Fast learner and open to constructive criticism.
+What's great about the job?
+Join a small but quickly growing team with international backgrounds. 
+Opportunity to work and learn with an experienced founders team and state-of-the-art technologies. 
+Enjoy various perks and benefits from a wide network of merchants 
+Grow your professional skills at one of the most exciting prop-tech companies in Vietnam and...
+Experience the fun & excitement of working in a fast-paced environment 
+Flexible hours and locations. 
+Travel benefits such as free accommodation and our own experiences.

@@ -1,0 +1,73 @@
+Hướng dẫn đăng nhập và sử dụng Airtable hiệu quả | Cohost AI
+ là một công cụ quản lý dữ liệu được rất nhiều công ty lớn sử dụng như BuzzFeed hay Shopify. Nếu bạn cũng đang tìm hiểu về ứng dụng này, hãy cùng Cohost tìm hiểu về 
+cách đăng ký và sử dụng Airtable hiệu quả
+Đăng ký tài khoản Airtable
+Bước 1: Truy cập vào website Airtable và chọn “Sing Up”
+Một điểm thuận tiện đầu tiên khi sử dụng 
+ đó là bạn không cần tải ứng dụng nào về máy của mình. Để sử dụng 
+, bạn chỉ cần truy cập vào website 
+https://www.airtable.com/
+Bạn có thể chọn đăng nhập bằng Google
+Khi đã truy cập vào website, bạn hãy bấm vào “Sign up” nếu chưa có tài khoản và chọn Sign in” nếu đã có tài khoản. Khi đăng ký, bạn có thể liên kết với tài khoản Google, Apple hoặc tạo tài khoản mới bằng cách sử dụng email công việc của mình. 
+Bước 2: Điền thông tin cá nhân
+Sau khi đã đăng nhập xong, bạn sẽ thấy màn hình hiện ra giao diện hỏi bạn các thông tin về bạn như team làm việc và những người mà bạn làm việc cùng. Bạn có thể điền hoặc bỏ qua những thông tin này.
+Sau đó bạn sẽ cần trả lời một số câu hỏi của Airtable
+Các thông tin này bao gồm team làm việc của bạn (Marketing, Engineering…), thông tin đồng nghiệp và mục đích sử dụng. 
+Cách sử dụng Airtable
+Đăng ký 
+ khá đơn giản, tiếp theo, chúng ta hãy tìm hiểu cách sử dụng ứng dụng này. Để sử dụng 
+, bạn cần thực hiện 2 bước cần thiết sau
+1. Tạo cơ sở dữ liệu 
+Cơ sở dữ liệu là nơi bạn chứa tất cả những dữ liệu cần thiết để bạn làm việc. Có 5 khái niệm mà bạn cần nắm bắt được về một cơ sở dữ liệu:
+Base: cơ sở dữ liệu
+Table: Bảng
+Field: Trường
+Record: Hồ sơ
+View: Lượt xem 
+Bước 1: Tạo base và table
+Bước đầu tiên là tạo một base - cơ sở dữ liệu
+Bước đầu tiên trong việc tạo cơ sở dữ liệu là thêm một cơ sở dữ liệu mới vào workspace của mình. Khi bạn tạo một base mới thì hệ thống sẽ xuất hiện luôn một table trống, mặc định gọi là Table 1, bao gồm các trường Names, Notes, Attachments và Status. Để đổi tên table, bạn bấm đúp vào tên table và đặt tên mới. Để thêm table mới, hãy bấm vào nút “
+Add or Import
+” ở phía trên của base.
+Cách tạo table mới
+Bước 2: Thêm dữ liệu bao gồm các record
+Record là những đơn vị độc lập trong một table, đi cùng với những chi tiết liên quan của nó. Ví dụ table của bạn là về một bộ phim dài tập thì mỗi record sẽ là một tập phim. 
+Để thêm record, bạn có thể chọn biểu tượng dấu cộng ở phía cuối của table hoặc sử dụng tổ hợp phím 
+shift + return
+Thêm record bằng cách bấm vào biểu tượng dấu cộng
+Bước 3: Tổ chức dữ liệu trong các field
+Mỗi field là một chi tiết liên quan đến record. Trong table, record là các hàng còn field là các cột, mỗi field sẽ chỉ chứa một loại thông tin. Có 5 loại dữ liệu chính trong các field: chọn lọc, ngày tháng, checkbox, hình ảnh hoặc tệp đính kèm và cuối cùng là dữ liệu dạng chữ.
+Để điều chỉnh các field thì bạn chỉ cần thực hiện thao tác kéo và thả đến vị trí mong muốn trong table.  
+Kéo và thả để di chuyển thứ tự các field
+Tự động hóa trên Airtable
+Bước 4: Điều chỉnh cách hiển thị
+Có 4 cách hiển thị dữ liệu chính trong Airtable
+Grid (lưới)
+: Đây là cách hiển thị mặc định cho một table, và cũng sẽ là cách thân thuộc nhất nếu bạn đã quen với việc sử dụng bảng tính. Dữ liệu sẽ được hiển thị theo các hàng và các cột, mỗi hàng là một record, mỗi cột là một field. 
+Kanban
+: Kanban là cách hiển thị mà các record sẽ được nhóm vào các “ngăn xếp”. Cách hiển thị này giúp một người nhìn ngay được những người khác đang và sẽ làm gì, hoặc có bao nhiêu nhiệm vụ đã hoàn thành. 
+Dòng thời gian
+: Với dòng thời gian, bạn có thể theo dõi các record theo dòng thời gian mà mình tùy chỉnh. Nó cho phép bạn nhóm các record theo bất cứ field nào mà bạn muốn thành dạng giống như những làn bơi.
+: Bạn có thể nhìn được các record trên lịch. Miễn là có một field về ngày tháng liên quan đến record thì bạn có thể xem record theo lịch hàng tuần, cách tuần hoặc 3 ngày 1. 
+Để chọn cách hiển thị, hãy click vào 
+menu sidebar
+, bấm nút 
+Create 
+ở phía dưới, rồi chọn các cách hiển thị mà bạn muốn. Lưu ý rằng có thể bạn sẽ cần phải lọc dữ liệu cho một số cách hiển thị như Dòng thời gian. 
+Đổi cách hiển thị tại sidebar menu
+Bước 5: Kết nối các table
+Ví dụ bạn có một base về các công việc của một toà soạn với hai table Nhà báo và Bài báo. Bạn sẽ cần thông tin về tác giả bài báo cho cột Bài báo. Đó là khi bạn cần kết nối hai table này lại với nhau.
+Để kết nối hai table, bạn hãy thêm một field mới vào table, chọn “
+linked record
+” là kiểu của field. Sau đó chọn table và chọn field mà bạn muốn liên kết đến. Sau đó tại mỗi record, bạn có thể chọn record từ table và field mà bạn vừa chọn liên kết đến để điền vào.
+Tạo liên kết đến table khác để xây dựng cơ sở dữ liệu quan hệ
+2. Tự động hóa 
+, bạn có thể tự động hóa các công việc mang tính lặp lại, tiết kiệm thời gian để có thể tập trung vào những việc khác. 
+Để tự động hóa, bạn có thể sử dụng 3 cách sau: 
+Sử dụng tính năng tự động hóa của Airtable với mô hình trigger-and-action 
+Sử dụng các field computed. Những field này sẽ tự động cập nhật khi các record record được tạo mới hay cập nhật
+Tận dụng các hàm trong Airtable để tạo các ra các output được tính toán dựa trên các field khác trong table 
+Như vậy, bạn đã có thể sử dụng Airtable ở mức cơ bản rồi. Cohost hy vọng đã đem đến cho bạn những thông tin hữu ích về 
+cách đăng ký và sử dụng Airtable
+. Theo mình đánh giá, đây không phải một công cụ quá khó để sử dụng. Nếu bạn gặp bất cứ khó khăn gì thì trang web của 
+cũng có những hướng dẫn khá cụ thể.

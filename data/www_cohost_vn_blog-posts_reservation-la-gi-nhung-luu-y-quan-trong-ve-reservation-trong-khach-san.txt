@@ -1,0 +1,132 @@
+Reservation là gì? Những lưu ý quan trọng về reservation trong khách sạn | Cohost AI
+Reservation là một thuật ngữ phổ biến trong ngành khách sạn. Tuy nhiên, không phải ai cũng thực sự hiểu về reservation. Nếu bạn định hướng gắn bó với ngành nghề này, 
+CoHost AI
+ sẽ giúp bạn giải đáp 
+Reservation là gì
+ cũng như làm rõ hơn về những lưu ý quan trọng về bộ phận này.
+Reservation là gì?
+Reservation
+ trong tiếng việt là sự đặt phòng, sự đặt chỗ - đây là một 
+thuật ngữ chuyên ngành khách sạn
+ dùng để chỉ bộ phận đặt phòng trong khách sạn. Bộ phận này sẽ tiếp nhận thông tin đặt phòng từ phía khách hàng rồi phối hợp với các bộ phận liên quan để hỗ trợ kịp thời những nguyện vọng, mong muốn của khách hàng.
+Reservation trong khách sạn là bộ phận đặt phòng
+Cụ thể, bộ phận 
+reservation
+ có mối quan hệ chặt chẽ và mật thiết đối với một số bộ phận như buồng phòng, lễ tân,... Thông qua sự kết nối này, các thông tin quan trọng như số lượng khách đặt phòng, loại phòng, yêu cầu cá nhân đến từ khách,... có thể được nắm bắt một cách chính xác - từ đó giúp đảm bảo trải nghiệm của khách hàng tại khách sạn.
+Đối với cơ sở khách sạn có quy mô lớn, bộ phận 
+ sẽ được chia nhỏ và cấu thành bởi các bộ phận nhỏ kể sau:
+Quản lý/Tổ trưởng đặt phòng
+: Đây là người chịu trách nhiệm chính trong quản lý cũng như điều phối các hoạt động diễn ra trong tại bộ phận.
+Giám sát đặt phòng
+: Đây là người hỗ trợ quản lý bộ phận giám sát các hoạt động đặt phòng trong khách sạn.
+Nhân viên đặt phòng
+: Đây là người trực tiếp tiếp nhận thông tin từ khách hàng và xử lý những yêu cầu liên quan.
+Bộ phận reservation có các cấp bậc như các bộ phận khác trong khách sạn
+Bên cạnh thuật ngữ reservation, tìm hiểu thêm về 
+occupancy rate
+,
+room rate
+rack rate
+RevPar
+amenities
+ sẽ giúp bạn chốt booking thêm hiệu quả hơn đó!
+Các hình thức của reservation
+Hiện nay, các hình thức đặt phòng là vô cùng đa dạng. Tuy nhiên, có hai hình thức phổ biến hơn cả, đó là: 
+Guaranteed Reservation
+Non-guaranteed Reservation
+1. Guaranteed reservation
+ hay 
+Đặt phòng có đảm bảo
+: Đây là hình thức đặt phòng thể hiện sự thoả thuận giữa khách hàng và bộ phận reservation trong khách sạn. Cụ thể, khách sạn cần phải giữ phòng cho đến thời điểm khách check-out như khách dự định khi quyết định đặt phòng. Trong trường hợp khách không check-in hay không sử dụng phòng, đồng thời cũng không báo huỷ thì khách sẽ phải đền bù một tiền cho khách sạn.
+Guaranteed reservation
+ trong khách sạn
+Đối với hình thức đặt phòng này, khách hàng sẽ phải thực hiện một số yêu cầu đặt phòng kể sau:
+Đặt cọc một khoản tiền phòng trước cho khách sạn
+Thanh toán qua các đại lý trung gian liên kết với cơ sở khách sạn
+Thanh toán qua thẻ tín dụng   
+2. Non-guaranteed reservation
+Đặt phòng không đảm bảo
+: Đây là hình thức đặt phòng trước mà tại đó khách sạn sẽ giữ chỗ đến một thời điểm nhất định (tuy nhiên vẫn sẽ tùy thuộc vào quy định của khách sạn). Nếu khách hàng không đến thì họ sẽ huỷ bỏ yêu cầu đặt phòng trước đó. Khách hàng cũng sẽ không đặt cọc trước đối với hình thức đặt phòng không đảm bảo. 
+Non-guaranteed reservation
+Vai trò của reservation
+Nếu bộ phận đặt phòng làm việc khéo léo và phối hợp ăn ý cùng các bộ phận khác sẽ giúp tăng trải nghiệm cũng như hài lòng của khách hàng cho dù họ chưa thực sự đến sử dụng dịch vụ tại khách sạn. Qua đây mà hoạt động kinh doanh của cơ sở lưu trú được đẩy lên mức tốt nhất. 
+Nói một cách khác, 
+bộ phận reservation
+ đóng vai trò trực tiếp trong việc mang về doanh thu và lợi nhuận cho khách sạn. Sự chuyên nghiệp của nhóm nhân viên trong bộ phận này góp phần tạo nên uy tín và danh tiếng cho khách sạn. Nhờ đó, thương hiệu của cơ sở thêm củng cố và phát triển. Nguồn lợi nhuận cũng vì vậy mà đổ về!
+Bộ phận reservation góp phần thúc đẩy doanh thu cho khách sạn
+Các trạng thái booking trong đặt phòng khách ѕạn
+– 
+Confirmed:
+ Booking đã được хác nhận trước khi khách lưu trú đến.
+Operational:
+ Booking đã được хác nhận - khách đang lưu trú trong khách ѕạn. 
+Completed:
+ Booking đã được хác nhận - ѕau khi khách check-out.
+Cancelled:
+ Booking đã bị hủу.
+Huỷ booking
+Cancelled With Penaltу:
+ Booking đã bị hủу - khách bị phạt dựa trên quу định đặt phòng của khách ѕạn.
+No Shoᴡ:
+ Khách đã thực hiện booking nhưng không đến nhận phòng.
+No Shoᴡ With Penaltу:
+ Khách đã thực hiện booking nhưng không đến nhận phòng - khách bị phạt dựa trên quу định đặt phòng của khách ѕạn.
+On Requeѕt:
+ Nhận booking nhưng khách ѕạn hiện tại không còn phòng trống.
+Unѕucceѕѕful:
+ Booking diễn ra ᴠượt quá khoảng thời gian check-in ᴠà check-out.
+Một số thuật ngữ quan trọng khác trong khách sạn: 
+blackout date
+allotment
+service charge
+,...
+Các công việc cơ bản của bộ phận reservation
+Một nhân viên trong 
+ sẽ phải thực hiện bài bản quy trình gồm các bước sau đây:
+Tiếp nhận thông tin booking
+Thông qua các nguồn gián tiếp hoặc trực tiếp, nhân viên đặt phòng sẽ cần phải tiếp nhận đầy đủ thông tin booking của khách hàng bằng việc ghi/lưu lại chính xác:
+Tên (đoàn) khách/tên người đăng ký.
+Số điện thoại, địa chỉ, email của khách.
+Số khách trong một đoàn.
+Ngày giờ khách check-in và số khách lưu trú.
+Loại phòng.
+Số lượng phòng
+Đặt phòng loại đảm bảo hay không đảm bảo.
+Giá phòng và hình thức thanh toán.
+Các yêu cầu đặc biệt của khách.
+Nhân viên reservation tiếp nhận thông tin booking từ khách hàng
+Xác nhận, sửa đổi, hủy booking
+Xác nhận booking với khách. 
+Thông thường, hệ thống sẽ tự động gửi email xác nhận booking kèm theo đầy đủ thông tin booking cho khách hàng ngay sau khi khách hoàn thành booking. 
+Cẩn thận hơn, nhân viên khách sạn có thể chủ động xác nhận lại lần nữa bằng cách gọi điện cho khách. Quy định về khung thời gian gọi điện xác nhận ở mỗi khách sạn là khác nhau. Tuy nhiên, thường là 3 ngày trước khi khách lẻ check-in và 15 ngày trước khi khách đoàn check-in.
+Tiếp nhận những yêu cầu từ khách và sửa đổi, tiến hành hủy đặt phòng theo đúng quy định của khách sạn.
+Đảm bảo nhập một cách chính xác các thông tin xác nhận - sửa đổi - hủy booking lên phần mềm quản lý nhằm tránh ảnh hưởng đến hoạt động kinh doanh chung của cơ sở lưu trú.
+Xác nhận - sửa đổi thông tin booking
+Tổng hợp tình hình booking trong ngày
+Tổng hợp một list khách dự kiến check-in/check-out trong ngày rồi chuyển đến bộ phận lễ tân phục vụ công tác chuẩn bị và tiếp đón. Bên cạnh đó cũng cần gửi danh sách đó đến bộ phận buồng phòng để lên kế hoạch dọn phòng hợp lý.
+Với các yêu cầu booking của khách VIP, nhân viên reservation cần thông báo sớm hơn cho bộ phận buồng phòng và lễ tân để việc tiếp đón khách hàng thêm chu đáo.
+Cập nhật hồ sơ booking
+Cẩn thận lưu trữ các hồ sơ booking của khách nhằm phục vụ việc gửi các chương trình khuyến mãi lần sau.
+Thường xuyên cập nhật và lưu trữ hồ sơ booking.
+Các công việc khác
+Phối hợp với một số bộ phận liên quan để xử lý các yêu cầu booking.
+Báo cáo với quản lý về phản hồi (khen - phàn nàn) của khách hàng về chất lượng dịch vụ tại khách sạn.
+Training (đào tạo) cho nhân viên mới khi được yêu cầu.
+Ghi chép vào sổ Logbook những thông tin công việc trong ca và bàn giao việc vào cuối ca.
+Tham gia đầy đủ các buổi họp trong bộ phận hay những khóa bồi dưỡng khi được tạo điều kiện bởi khách sạn.
+Thực hiện các công việc khác khi được yêu cầu bởi cấp trên.
+Các công việc kể trên đây cũng chính là quy trình bài bản của bộ phận reservation tại khách sạn.
+Cơ hội việc làm bộ phận reservation trong khách sạn
+Nhu cầu tuyển dụng ngày càng cao
+Xã hội bình thường hoá trở lại sau đại dịch Covid-19, chính vì vậy mà nhu cầu du lịch - lưu trú được cho là sẽ dần tăng trở lại. Chính vì vậy mà cơ hội việc làm tại các khách sạn. Song, ngành nhà hàng - khách sạn cũng được xem là một trong những ngành có tiềm năng và điều kiện phát triển hơn bao giờ hết. 
+Theo Google, có tới 
+64.000
+ kết quả hiển thị tuyển dụng việc làm trong “ngành" chỉ trong 0,73 giây. Có thể nói, nhu cầu tuyển dụng các bộ phận, đặc biệt là bộ phận reservation trong khách sạn là vô cùng cao. Những bạn sinh viên đang theo học chuyên ngành này có thể yên tâm về cơ hội việc làm và tương lai nghề nghiệp rộng mở sau khi ra trường.
+Nhu cầu du lịch tăng dần sau đại dịch Covid-19
+Môi trường làm việc năng động
+Khách sạn là ngành gắn liền và song hành với sự phát triển của du lịch. Chính vì vậy mà ngành này rất năng động và môi trường làm việc vô cùng chuyên nghiệp. Chính vì vậy mà rất phù hợp với những bạn trẻ nhiệt huyệt, có tính cách hướng ngoại và giao tiếp tốt.
+Đặc biệt khi làm trong bộ phận reservation, bạn sẽ có cơ hội trau dồi và phát triển toàn diện với các kỹ năng: chăm sóc khách hàng, ngôn ngữ, xử lý các vấn đề ngoài ý muốn khi trao đổi với khách,...
+Mức thu nhập hấp dẫn
+Như đã đề cập phía trên, ngành khách sạn liên quan mật thiết đến một số ngành khác (du lịch, nhà hàng, spa,...), chính vì vậy nhu cầu khách hàng cho ngành là vô cùng lớn. Điều này đồng nghĩa với thu nhập hấp dẫn khi tham gia phát triển trong “ngành".
+ hy vọng bài đọc mang lại những thông tin hữu ích và giúp bạn giải đáp 
+ và những lưu ý quan trọng về bộ phận này trong khách sạn. Ghé thăm mình thường xuyên để cập nhật thêm những bài viết thú vị khác nhé!

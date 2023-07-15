@@ -1,0 +1,193 @@
+Trello là gì? Tất tần tật về Trello năm 2022  | Cohost AI
+Nếu bạn là người yêu thích sự đơn giản, 
+ là giải pháp quản lý dự án thân thiện với người dùng nhất — đó cũng là ứng dụng chúng tôi sử dụng hàng ngày giúp quản lý thời gian và sắp xếp công việc. Trong bài viết này, 
+ sẽ giúp bạn có một vài định nghĩa cơ bản về 
+ cũng như cách sử dụng nó. 
+Trello là gì? 
+ là một bảng 
+kanban
+ miễn phí với công dụng quản lý dự án và cộng tác nhóm. 
+ có bề ngoài tương tự như một bảng với các ghi chú dính - các dự án và nhiệm vụ có thể được sắp xếp thành các cột và di chuyển xung quanh dễ dàng để chỉ ra quy trình làm việc, quyền sở hữu dự án và trạng thái. 
+Sự phổ biến của 
+ có lẽ nhờ vào chính sự đơn giản của nó. Trong khi các công cụ quản lý dự án truyền thống được thiết kế cho các nhà quản lý dự án chuyên nghiệp và sử dụng các kỹ thuật phức tạp không thân thiện với người dùng, 
+ nhấn mạnh tính dễ ứng dụng - hầu hết mọi người có thể nắm bắt các kiến thức cơ bản về 
+ trong vài phút và thành công khi sử dụng nó cho cá nhân hay nhóm làm việc của mình rất nhanh chóng. 
+ không chỉ mạnh ở khả năng tổ chức và quản lý, mà nó còn hỗ trợ tích hợp với hàng trăm ứng dụng và dịch vụ của bên thứ ba, chẳng hạn như: 
+Google Drive, GitHub, OneDrive, 
+, Jira,
+ và nhiều hơn thế nữa. Không chỉ vậy, 
+ còn có thể chứa nhiều thông tin bao gồm hình ảnh và tệp đính kèm. Ngoài ra, chúng có thể được ấn định thời hạn và những dữ liệu theo dõi trạng thái khác. Nhiệm vụ cũng có thể chứa ghi chú, cho phép các thành viên trong nhóm theo dõi tiến trình và những người cụ thể có thể được gắn cờ để tiến hành công việc và theo dõi. 
+Bắt nguồn của Trello
+Tháng 9 năm 2011, 
+ chính thức ra đời tại 
+TechCrunch Disrupt
+ sau rất nhiều cuộc thử nghiệm nội bộ. 
+Tháng 07 năm 2014, 
+ chính thức tách ra khỏi 
+Fog Creek
+ để trở thành 
+Trello, Inc.
+Michael Pryor
+ - nhà đồng sáng lập của 
+Fog Creek 
+- đã trở thành CEO của công ty. 
+Trello,Inc.
+ ngay sau đó đã thành công gọi được 10,3 triệu USD trong vòng gọi vốn 
+Series A 
+do 
+Spark Capital
+ Index Ventures
+ dẫn dắt. Tính tới thời điểm đó, 
+ đã có hơn 4,75 triệu người dùng.
+Tính năng nổi bật của Trello
+Một tài khoản
+ Trello 
+hỗ trợ nhiều bảng khác nhau. Bạn có thể dễ dàng quản lý và phân chia công việc cho một dự án tổng thể mà một hoặc nhiều người đang tiến hành làm nó. Dưới đây sẽ là một số các 
+tính năng nổi bật của Trello
+ sẽ rất hữu ích trong quản lý dự án: 
+ là công cụ là việc nhóm, cho phép các thành viên nhóm dễ dàng kết nối cũng như yêu cầu sự trợ giúp khi thực hiện nhiệm vụ. 
+ giúp phân chia và quản lý các đầu việc một cách rõ ràng, theo từng vị trí đảm nhiệm, cập nhật trạng thái công việc: đang làm, đã xong, huỷ bỏ,...
+ tổng hợp, phân chia đầu việc tới từng cá nhân trong nhóm, bao gồm phần mô tả cụ thể công việc, thời gian, tình trạng hoàn thành công việc. 
+ với ưu điểm lớn nhất hướng tới sự đơn giản, linh hoạt và miễn phí, giúp người dùng có thể trải nghiệm trọn vẹn nhất khi quản lý dự án. Với một số tính năng cao cấp hơn, phần mềm sẽ yêu cầu trả phí. 
+Các thành phần cơ bản của Trello  
+Bởi là một ứng dụng thân thiện với người sử dụng, 
+ chỉ bao gồm bốn thành phần chính đơn giản, nhưng với tiềm năng vô hạn. 
+Đây là một không gian làm việc tổng thể, sắp xếp công việc của bạn từ chi tiết nhỏ cho tới những đầu mục lớn,
+ table 
+(bảng)
+ có thể chứa bất kỳ số lượng danh sách và thẻ nào.
+ Bảng
+ được coi là một nơi để theo dõi thông tin dành cho nhóm hoặc dự án lớn, giúp dễ dàng theo dõi quy trình làm việc cũng như tiết kiệm thời gian cho người dùng. 
+Trello Table
+List 
+List (danh sách)
+là một cột chứa các thẻ. Công dụng và cách sử 
+dụng danh
+ này hoàn toàn phụ thuộc vào mục đích của người sử dụng và nhu cầu riêng của từng dự án. 
+Danh sách
+ dùng để lưu trữ thẻ, thông tin hoặc các tác vụ cụ thể một cách khoa học nhất theo từng giai đoạn khác nhau. Không có một giới hạn cụ thể nào về số lượng 
+ có thể được thêm vào 
+bảng
+, tiêu đề và thời gian có thể được sắp xếp hoàn toàn theo mục đích của người dùng. 
+Ví dụ: mỗi 
+ có thể là một người trong nhóm và hội đồng quản trị theo dõi nhiệm vụ của mọi người. Hoặc bạn có thể dễ dàng tổ chức danh sách dưới dạng quy trình làm việc, trong đó mỗi thẻ được chuyển từ danh sách này sang danh sách khác khi các tác vụ được xử lý và hoàn thành.
+Trello List
+Tag
+Tag ( thẻ) 
+là đơn vị nhỏ nhất của 
+ và thường được sử dụng để xác định các nhiệm vụ phải hoàn thành. 
+Thẻ
+ không chỉ được gắn tên theo từng nhiệm vụ riêng mà còn chứa ghi chú, hình ảnh, tệp đính kèm,...
+Nếu cần thiết, bạn cũng có thể tạo mẫu cho 
+ để chúng chứa thông tin tiêu chuẩn, chẳng hạn như danh sách công việc của công ty. Có thể mở và chỉnh sửa 
+ chỉ bằng một cú nhấp chuột và việc di chuyển
+ thẻ
+ giữa các 
+ cũng đơn giản như kéo và thả, cho phép người dùng mới sử dụng được nhanh chóng.
+Trello Tag
+Table Menu 
+Trung tâm điều chỉnh nhiệm vụ - 
+Table Menu
+ ( 
+Menu bảng)
+ nằm ở bên phải bảng 
+ của bạn. Bạn có thể quản lý quyền của thành viên trong nhóm đối với từng 
+ trong từng nhiệm vụ cụ thể, cài đặt kiểm soát, thẻ tìm kiếm, bật 
+Power-Up 
+và tạo tự động hóa từ 
+menu
+. Trong thông báo hoạt động của
+ menu
+, bạn cũng có thể xem tất cả các hoạt động đã diễn ra trên một 
+Trong thời đại công nghệ, số hoá 
+(
+digitalization
+ đã giải phóng con người khỏi những công việc nhàm chán, lặp đi lặp lại. Theo 
+sẽ mang tự động hóa lên bảng 
+ với các quy tắc, lệnh và nút tùy chỉnh mới. Với sự phát triển của trí tuệ nhân tạo, sự ra đời của các trợ lý ảo thông minh như 
+ đã không còn xa lạ gì với người dùng. Vậy nên, việc 
+Tạo nút để thực hiện một hành động trên một thẻ hoặc toàn bộ bảng chỉ với một cú nhấp chuột. 
+Tạo lệnh liên quan tới việc sắp hoặc đã quá thời hạn làm nhiệm vụ 
+Tạo lệnh theo các khoảng thời gian đã đặt trên lịch 
+Bước 1: Vào 
+Hướng dẫn đăng ký Trello 
+Đăng ký Trello đơn giản và nhanh chóng
+Làm thế nào để đăng ký một tài khoản Trello? 
+ sẽ hướng dẫn bạn làm điều đó qua một vài thao tác đơn giản 
+Bước 1: Truy cập vào trang đăng nhập của 
+Bước 2: Nhập địa chỉ email của bạn và chọn 
+Bước 3: Nhập tên Không gian làm việc của bạn và bấm Tiếp tục 
+Bước 4: Kiểm tra email và xác nhận email của bạn 
+Bước 5: Nhập Mật khẩu của bạn và nhấn chọn
+ “Đăng ký” 
+để hoàn thành quy trình
+Ưu và Nhược điểm của Trello 
+Mặc dù
+ rất được ưa chuộng, nhưng bất cứ phần mềm nào cũng sẽ có 
+ưu điểm
+nhược điểm
+ của nó. Trong phần này,
+ sẽ cùng bạn khám phá những tính năng được yêu thích cũng như ít được yêu thích mà 
+cung cấp. 
+Trello có nhiều ưu điểm giúp tối ưu hoá quản lý công việc
+Tính khả dụng:
+ Ưu điểm lớn nhất khiến 
+ nằm trong danh sách các công cụ quản lý dự án tốt nhất chính dễ sử dụng. 
+ tạo ra một giải pháp tuyệt vời cho những nhóm nhỏ hơn dễ dàng quản lý các nhiệm vụ với tính trực quan cao. Ngay cả những người dùng có ít chuyên môn về kỹ thuật cũng có thể dễ dàng điều hướng nền tảng mà không gặp bất cứ rắc rối nào. 
+mang tới trải nghiệm đơn giản, quen thuộc nhưng đủ mạnh mẽ để hợp lý hoá các quy trình quản lý dự án của bạn chỉ bằng một cú nhấp chuột 
+Tính tự động hoá: 
+Mặc dù đơn giản nhưng các công cụ tự động hoá của 
+ lại hết sứ hào phóng và dễ thiết lập. 
+ - bot tự động hoá của 
+ - giúp tạo các lệnh dựa trên quy tắc và mong muốn của người dùng dễ dàng hơn bao giờ hết. Đây là một giải pháp tối ưu cho doanh nghiệp khi có thể dễ dàng hoàn thành các tác vụ một cách tự động như: gửi thông báo cho các thành viên trong dự án, di chuyển thẻ tự động, tự động đánh dấu hoàn tất cho thẻ,.. 
+Tùy chọn chức năng mở rộng: 
+Một trong những lý do quan trọng nhất khiến 
+ được yêu thích là bởi tính đơn giản. Ngoài ra, 
+rất dễ sử dụng mà hầu như không cần phải dành thời gian làm quen nhiều. Tuy nhiên, vẫn có rất nhiều tính năng bạn có thể mở rộng để tối ưu hóa chức năng của nền tảng. Từ tự động hoá 
+ cho tới 
+Power - Up
+ và Tích hợp, bạn có thể dễ dàng sử dụng các công cụ như 
+Slack, Google Drive, Zoom,..
+xuyên suốt quá trình làm việc. Những tính năng mở rộng này giúp đưa bảng 
+ cơ bản lên cấp độ nâng cao hơn. 
+Ứng dụng di động: 
+Hầu hết các giải pháp quản lý dự án tốt đều đi kèm với một số phiên bản dành cho thiết bị di động. Đặc biệt hơn hết, ứng dụng 
+ được người dùng đánh giá khá cao với các tính năng tiên tiến, dễ dàng tiếp cận, tất cả các thao tác chiết xuất quản lý dự án đều có thể vận hành trơn tru như phiên bản dành cho máy tính. 
+Tính năng hợp tác nhóm: 
+Trọng tâm nhất của quản lý dự án chính là cộng tác nhóm, 
+đã rất thành công trong việc tối ưu hoá tính năng này. 
+ đi kèm với một loạt các công cụ cộng tác, bao gồm nhận xét, chia sẻ tài liệu, @ đề cập tới đồng đội và cả tính năng thông báo. Người quản lý có thể dễ dàng chỉ định những thành viên trong nhóm bằng các thẻ tích hợp để người dùng luôn biết nội dung trong nhiệm vụ của họ. Người dùng có thể chỉ định cấu hình thông báo qua email, màn hình để có được trải nghiệm tốt nhất tùy theo sở thích của họ. Bên cạnh đó, 
+ tích hợp với 
+ giúp giao tiếp và cộng tác nhóm trở nên đơn giản hơn bao giờ hết. 
+Giá trị của ứng dụng: 
+Trên thị trường có nhiều công cụ quản lý dự án với chi phí cao nhưng không mang lại nhiều hiệu quả, nhưng 
+ lại có cách tiếp cận đi ngược lại với số đông. 
+ có giá cả phải chăng, ngay cả khi bạn chưa có ngân sách, vẫn có gói miễn phí sử dụng đi kèm với nhiều tính năng bổ ích. Nhiều doanh nghiệp lớn sẵn sàng đầu tư chi phí để nâng cấp các tính năng giúp tối ưu hoá quản lý công việc, các gói trả phí chỉ bắt đầu từ 5$/một người dùng với bộ nhớ không giới hạn.
+Một số nhược điểm khi sử dụng Trello
+Hạn chế lượt xem:  
+Ngoài
+ Kanban
+, các lượt xem dự án khác của 
+ bị hạn chế so với một vài công cụ quản lý dự án miễn phí khác trên thị trường. 
+ sẽ hoạt động tối ưu hơn với các dự án nhỏ, tuyến tính không có quá nhiều bộ phận hoạt động. Các dự án lớn hơn với nhiều thành viên với tính chuyên môn cao sẽ gặp một vài khó khăn đối với bảng 
+. Đó là lý do
+ luôn khuyến khích người dùng nâng cấp lên gói cao cấp để có thể tận dụng tối đa tính năng của ứng dụng. 
+Không có báo cáo: Trello
+ hiện chưa có tính năng báo cáo và phân tích độc lập. Vì vậy, người quản lý sẽ không thể thể sử dụng phần mềm này để theo dõi xem nhóm của họ hoạt động tốt như thế nào, cũng như nhận thông tin chi tiết cho các dự án ở cấp cao hơn.
+Không lý tưởng cho các dự án phức tạp: 
+Một lần nữa,
+sẽ là sự lựa chọn tuyệt vời cho các dự án nhỏ với độ đơn giản và tính khả dụng cao. Tuy nhiên, nếu dự án hay nhóm của bạn có nhu cầu nâng cao ở các dự án phức tạp hơn, 
+ sẽ không thể giúp bạn đính kèm các nhiệm vụ chính với nhiệm vụ phụ, khiến nhà quản lý khó có cái nhìn tổng quan về công việc đó. Đối với những thứ nâng cao như quản lý dự án nhanh cho các nhà phát triển phần mềm hay statistics, 
+có lẽ không phải là lựa chọn tốt nhất. 
+Bạn có thể dễ dàng sử dụng 
+ chỉ với một vài 
+mẹo và thủ thuật 
+dành cho người mới bắt đầu : 
+Đọc lướt qua phần 
+Help 
+tại 
+ để có cái nhìn tổng quát về tính năng của ứng dụng cũng như khám phá các nút tắt nâng cao. 
+Tạo mẫu/sử dụng mẫu để áp dụng nhanh hơn trong quá trình quản lý công việc. 
+Sử dụng phím tắt và 
+Power Up
+ là một giải pháp quản lý dự án hàng đầu cho các dự án nhỏ. Nó không hoàn toàn giàu tính năng như một số công cụ khác trên thị trường hiện nay, nhưng nó phù hợp nhất đối với các dự án mang tính đơn giản và dành cho những người mới sử dụng các phần mềm quản lý dự án. 

@@ -1,0 +1,175 @@
+Tự động hoá trong Trello  | Cohost AI
+ - giải pháp ứng dụng quản lý dự án của 
+ - đã đưa 
+ vào không gian làm việc với 
+Butler
+. Việc 
+ này giúp tránh được những sai sót trong quy trình thủ công truyền thống, giúp người dùng có được trải nghiệm tối ưu nhất khi sử dụng ứng dụng. 
+Tự động hoá trong Trello
+Tự động hoá là gì? 
+Đối với người dùng, không có gì nhàm chán và tẻ nhạt hơn các công việc thủ công như nhập dữ liệu, hay phải thực hiện hàng loạt các thao tác lập lại. Tất cả các công việc này có thể gây ra những rủi ro đáng kể ảnh hưởng tới năng suất và quy trình làm việc của bạn. 
+Hiểu được nhu cầu thiết yếu của khách hàng, 
+ đã bổ sung 
+ vào công cụ của mình bằng cách mua lại 
+Butler 
+có nhiệm vụ tự động hóa quy trình trên các bảng 
+ bằng các lệnh, quy tắc và nút tùy chỉnh mới.  
+Tự động hoá trong thời đại số
+Trong thời đại số hoá 
+(digitalization)
+ đang phát triển mạnh mẽ, trí tuệ nhân tạo đã không còn là một thứ gì quá xa lạ với con người. Các trợ lý ảo thông minh như 
+Siri, Alexa
+ cùng với các công cụ như 
+iOS Shortcuts, Zapier
+ đã giúp giải phóng con người khỏi những nhiệm vụ lặp đi lặp lại nhàm chán trong cuộc sống hàng ngày. Vậy nên, việc 
+ sẽ giúp tăng đối đa trải nghiệm người dùng, nâng cao hiệu quả trong công việc. 
+ quy trình làm việc sẽ giúp tiết kiệm thời gian hơn, gia tăng đáng kể hiệu quả và tạo ra nhiều thời gian cũng như không gian trong quá trình thực hiện dự án. 
+Tự động hoá trong Trello là gì? 
+Trước đây, 
+ được biết tới trong bảng 
+ chỉ với tư cách là một 
+, một tính năng sơ khai để bổ sung các tính năng và tích hợp bổ sung cho ứng dụng. Hiện nay, 
+ đã được tối ưu các chức năng giúp các thành viên mã hoá các quy tắc và quy trình, 
+tự động hoá 
+tất cả các công việc thủ công trước đây chỉ với một cú nhấp chuột. 
+Chế độ tự động hoá của 
+ sẽ cho phép: 
+Tạo quy tắc 
+Nút hành động trên các thẻ hoặc bảng bằng những thao tác đơn giản
+Lệnh ngày đến hạn
+Lệnh theo lịch 
+Butler Automation, công cụ tự động hóa tích hợp của Trello
+ Đọc thêm:
+Mẹo và thủ thuật khi sử dụng Trello
+Automation trong Trello 
+“Automation”
+( tự động hoá)
+ trên Menu Bảng để mở cửa sổ lệnh, sau đó tạo và quản lý chế độ 
+ riêng cho không gian làm việc của bạn. Chế độ 
+ sẽ bao gồm: 
+Mẹo sử dụng
+ Automation
+: Hệ thống sẽ tự động phát hiện một số thao tác lập lại trong quá trình bạn xử lý công việc, từ đó đề xuất thành chế độ 
+Quy tắc, nút, thẻ, nút bảng, lịch và ngày hết hạn: Chọn một mục bất kỳ để tạo, sửa, chia sẻ, loại bỏ, chỉnh sửa tất cả các thao tác trên bảng. 
+Nhận trợ giúp: Khả năng của chế độ 
+ gần như là vô tận. Đó là lý do tại sao 
+ cung cấp tài liệu chuyên sâu kèm các thủ thuật hỗ trợ người dùng có thể khám phá tối ưu tính năng này. 
+Kết nối ứng dụng: Không chỉ tạo các thao tác
+ tự động hoá
+, người dùng hoàn toàn có thể tạo một số thao tác trong các ứng dụng khác được kết nối với 
+Slack, Jira. 
+Automation trong Trello
+Tự động hoá dựa trên quy tắc 
+quy tắc
+ này là cách để xây dựng các quy trình trong quá trình quản lý dự án, bởi bất kỳ người dùng nào ở trên bảng kích hoạt 
+ sẽ chạy các thao tác đã được thiết lập từ trước đó. Điều đó có nghĩa là không một nội dung nào sẽ bị bót sót trong quá trình triển khai công việc. Các 
+ sẽ chỉ chạy khi điều kiện thiết lập đã được đáp ứng. 
+Tự động hoá dựa trên quy tắc
+Các bước xây dựng 
+Nhấp vào 
+“Tạo quy tắc”
+ từ Menu quy tắc.
+Thêm 
+“kích hoạt”
+ giúp kích hoạt toàn bộ các thao tác đã đặt sẵn. 
+“thao tác”
+. Tại bước này, bạn có thể thêm bao nhiêu thao tác tuỳ vào mục đích làm việc của bạn. 
+Nhấn 
+“Lưu”. 
+Các bước xây dựng quy tắc
+Nút thẻ và bảng
+Chỉ với một vài thao tác đơn giản, người dùng hoàn toàn có thể kích hoạt một loạt các thao tác ở cấp độ 
+thẻ
+bảng. 
+Các bước tạo nút thẻ và bảng
+Các bước thêm nút và 
+thẻ và bảng
+“Tạo nút”
+ từ 
+Menu nút thẻ/nút bảng.
+Đặt tên cho
+nút
+và chọn một biểu tượng giúp bạn dễ dàng nhận diện hơn.
+Thêm thao tác mà bạn muốn thực hiện mỗi khi nhấp vào 
+nút. 
+Một vài ví dụ hữu ích về các 
+Tạo 
+nút thẻ
+, khi nhấp vào 
+, di chuyển công việc tới bước tiếp theo:
+Di chuyển công việc vào 
+danh sách
+ tiếp theo
+Thêm người phụ trách bước tiếp theo
+ngày hết hạn 
+ kiểm tra các nhiệm vụ 
+nút bảng 
+để nhận thông tin chuyên sâu về công việc 
+Sắp xếp 
+ theo điểm câu chuyện, 
+ngày hết hạn
+, lượt bình chọn và các tính năng khác 
+Lệnh lịch và ngày hết hạn 
+Người dùng có thể 
+ thiết lập hoạt động dựa theo lịch trình phù hợp bằng
+ lệnh lịch
+. Thao tác này phụ thuộc vào các ngày trong lịch hoặc ngày hết hạn của 
+thẻ 
+Lên lịch và ngày hết hạn
+Lệnh lịch 
+rất phù hợp với các tác vụ định kỳ lặp lại như di chuyển và lưu trữ 
+, sắp xếp 
+, thêm danh sách mới. Công việc 
+ này cho phép người dùng đặt cái lệnh chạy vào thời gian cụ thể hàng ngày, hàng tuần, hàng tháng, tuỳ vào nhu cầu của dự án. 
+Ví dụ về 
+lệnh lịch:
+Thứ 6 hàng tuần, sau 9h sáng 
+Lưu trữ tất cả các 
+thẻ 
+thuộc danh sách 
+“Đã xong” 
+Sắp xếp tất cả các 
+ trong danh sách 
+“Đang làm”
+ theo thứ tự các ngày hết hạn
+Lệnh lịch
+Lệnh ngày hết hạn
+ sử dụng ngày hết hạn của một thẻ làm bộ kích hoạt và hoàn toàn có thể được lập trình để thực hiện nhiều thao tác. Đây là một phương án hữu ích để quản lý tiến độ dự án. Người dùng có thể chắc chắn rằng họ không bỏ lỡ bất kỳ nội dung hay nhiệm vụ quan trọng nào bằng cách gắn cờ cho thẻ 
+“Quá hạn”
+“Chưa hoàn thành”.
+Vào thời điểm 
+hết hạn
+Di chuyển 
+tới đầu danh sách
+Thêm nhãn đỏ/gắn cờ cho 
+Đăng trạng thái hoặc nhận xét 
+Lên lịch ngày hết hạ
+Tự động hoá cho email và tích hợp nội dung 
+Chế độ 
+này áp dụng cho các đối tượng nằm ngoài bảng của người sử dụng bằng cách sử dụng 
+email
+ và các ứng dụng được tích hợp như 
+Slack và Jira
+. Việc tự động chia sẻ thông tin và cập nhật nội dung với các bên liên quan hay khách hàng bên ngoài giúp việc quản lý công việc trở nên vô cùng thuận tiện 
+Thiết lập thao tác gửi 
+Khi tạo 
+quy tắc, nút thẻ, lệnh ngày hết hạn
+, nhấp chọn 
+“Nội dung”
+, hoặc khi tạo nút bảng hoặc lệnh lịch, nhấp chọn 
+“Khác”
+  từ 
+Menu tác vụ.
+Điền tiêu đề và nội dung email muốn gửi 
+Tự động hoá tích hợp nội dung
+Tích hợp tự động hoá của 
+ và Jira: 
+Từ 
+Menu thao tác
+Jira hoặc Slack 
+Cho phép tự động hoá của 
+ sử dụng ứng dụng 
+Chọn thao tác 
+Đưa tự động hoá và 
+ giúp tối ưu hóa trải nghiệm người dùng, cũng như 
+quy trình giúp quản lý các quy trình làm việc phức tạp một cách dễ dàng hơn. 

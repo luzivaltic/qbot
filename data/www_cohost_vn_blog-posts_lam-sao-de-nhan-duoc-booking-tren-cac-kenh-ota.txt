@@ -1,0 +1,40 @@
+Làm sao để nhận được booking trên các kênh OTA | Cohost AI
+Các nền tảng OTA đang trở nên rất phổ biến. OTA là những công ty du lịch trực tuyến, là bên thứ ba kết nối khách sạn và khách du lịch, giúp khách du lịch đặt phòng dễ dàng hơn. Nhưng bạn đã biết làm sao để nhận được booking từ các kênh này chưa? 
+Ở bài viết này, Cohost sẽ cung cấp cho bạn những cách mà bạn có thể sử dụng để 
+nhận được booking trên OTA
+Nếu bạn chưa biết OTA là gì, đọc ngay bài viết sau:
+ OTA là gì? Những điều cần biết về OTA trong kinh doanh lưu trú năm 2022 
+1. Cách hệ thống quản lý khách sạn tiếp nhận booking
+Trước hết, hãy cùng tìm hiểu cách các khách sạn tiếp nhận đơn đặt phòng từ các kênh OTA nhé. Sau đây là những điều sẽ xảy ra khi khách hàng tìm kiếm các địa điểm lưu trú và đưa ra quyết định booking.
+Hiểu được cách hệ thống quản lý khách sạn hoạt động sẽ giúp ích cho kênh OTA của bạn.
+Kiểm tra phòng có sẵn: Hệ thống booking nhận được yêu cầu kiểm tra các phòng đang trống và thực hiện kiểm tra từ các nhà cung cấp khác nhau thông qua API.
+Thông báo ngược lại cho khách hàng: Khách sạn sau đó đưa thông tin này trở lại với khách hàng. Việc này được thực hiện thông qua quy trình và bộ lọc của các kênh OTA, dựa theo sở thích của khách hàng và quy định kinh doanh của khách sạn. 
+Gửi yêu cầu đặt phòng tới nhà cung cấp: Khi khách hàng xác nhận booking và trả tiền thông qua cổng thanh toán, thông tin booking sẽ được gửi tới các bên cung cấp dịch vụ như khách sạn, các hãng máy bay…
+Xác nhận: Các nhà cung cấp dịch vụ sau đó sẽ phát hành vé (nếu là chuyến bay) hay gửi thông tin đặt phòng (nếu là các dịch vụ lưu trú). Hệ thống booking của các kênh OTA sau đó tiếp nhận xác nhận và chuyển tiếp cho khách du lịch thông qua email hoặc hiển thị thông tin trên website hoặc ứng dụng để người dùng có thể tải về.
+Việc xác nhận thông tin booking là không thể thiếu
+Ghi chép dữ liệu khách hàng: Tất cả những thông tin mà khách hàng để lại trên website như tên, email, địa điểm sẽ được lưu trữ trong hệ thống CRM,
+Quản lý các khách hàng hậu sảnh (back office): Hệ thống CRM cũng ghi và lưu lại dữ liệu về các agent làm việc với bộ phận hậu sảnh.
+Phân tích dữ liệu booking: Cả dữ liệu về khách hàng và nhân viên sau đó sẽ được sử dụng bởi bộ phận Business Intelligence để đưa ra những báo cáo chi tiết, hiệu quả.
+Hệ thống OTA lưu giữ dữ liệu khách hàng để phân tích
+Giao tiếp với khách hàng: Nếu có vấn đề hay thắc mắc, khách hàng sẽ liên lạc với nhân viên chăm sóc khách hàng thông qua các kênh như email, gọi điện…
+2. Làm sao để nhận booking trên các kênh OTA?
+Các kênh OTA chính là một chiến lược marketing cho các khách sạn. Chính vì vậy, để nhận được booking, các khách sạn cần xây dựng một chiến lược marketing đúng đắn trên các kênh OTA.
+a. Tăng số review của khách
+Review của những khách hàng trước đem đến sự chân thật mà quảng cáo khó có thể làm được.
+Khách hàng giờ đây không còn quá tin vào quảng cáo, vào người nổi tiếng. Thay vào đó, họ quan tâm nhất đến sự chân thật, vì vậy, họ tìm đến review của những người giống như họ, những khách du lịch đã từng trải nghiệm dịch vụ.
+Chúng ta đã nghe quá nhiều về những review tiêu cực và cách phản hồi. Nhưng nếu khách sạn của bạn nhận được quá ít review thì sao? Trong trường hợp này, bạn cần tạo động lực cho khách hàng để họ viết review về dịch vụ của bạn. 
+Khách sạn cần tạo động lực để khách viết review trên các kênh OTA
+Bạn có thể đưa ra một vài ưu đãi như voucher hoặc tặng thêm các dịch vụ như bữa sáng miễn phí để giúp khách hàng hứng thú hơn với việc để lại review. Bằng cách này, bạn không chỉ giúp gia tăng số lượng review mà còn có thể cải thiện chất lượng các review nhờ những ưu đãi thú vị. 
+b. Xây dựng ấn tượng đầu tiên
+Ấn tượng đầu tốt cũng sẽ để lại cảm nhận tích cực lâu dài cho khách hàng.
+Ấn tượng đầu tiên là rất quan trọng. Khi số lượng các khách sạn, địa điểm lưu trú xuất hiện trên các kênh OTA lên đến hàng trăm nghìn, hàng triệu, quá nhiều lựa chọn sẽ khiến người dùng bối rối. Điều này có thể khiến tỷ lệ chuyển đổi của các khách sạn thấp.
+Các kênh OTA giống như thư viện của những ấn phẩm quảng cáo về khách sạn của bạn. Thứ đầu tiên mà khách hàng thấy trên ấn phẩm đó sẽ hình thành cảm nhận của họ về khách sạn của bạn. Hơn nữa, con người ta ghi nhớ tốt hơn với hình ảnh thay vì quá nhiều chữ. 
+Thống kê cho thấy những khách sạn với hình ảnh đầu tư nhận được nhiều lượt booking hơn trên các kênh OTA
+Vì vậy, điều cần thiết là có những tấm ảnh bắt mắt. Đừng chỉ đơn giản chụp khách sạn của bạn từ 4 góc, hãy sáng tạo hơn thế nữa, cho khách hàng những tấm ảnh khiến họ cảm thấy như chính họ đang ở khách sạn của bạn. Thống kê cho thấy các khách sạn với hình ảnh chất lượng nhận được nhiều hơn 1.9% lượt booking. 
+c. Tận dụng dữ liệu
+Tận dụng tốt dữ liệu giúp khách sạn hiểu hơn về các vị khách.
+Các kênh OTA sẽ cung cấp dữ liệu cho khách sạn về khách du lịch thường xuyên. Những dữ liệu này sẽ giúp bạn hiểu rõ hơn về khách hàng của mình. Những thông tin đó bao gồm việc khách hàng của bạn đến từ đâu, độ tuổi của họ là gì, họ sẽ đặt phòng bao lâu trước khi chuyến du lịch diễn ra…
+Tất cả những thông tin này sẽ giúp bạn đưa ra các quyết định kinh doanh đúng đắn. Chẳng hạn, thay đổi cách thiết kế phòng phù hợp với khách du lịch độ tuổi 40-50, hay đưa ra những ưu đãi hấp dẫn cho khách book phòng sớm. 
+Bài viết trên đã cung cấp cho bạn 
+cách để nhận được booking khi sử dụng các kênh OTA
+. Đừng chần chừ, hãy nhanh chóng sử dụng những cách trên, bạn sẽ thấy lượt booking cho khách sạn của bạn tăng đáng kể. Cảm ơn bạn đã đón đọc bài viết. 

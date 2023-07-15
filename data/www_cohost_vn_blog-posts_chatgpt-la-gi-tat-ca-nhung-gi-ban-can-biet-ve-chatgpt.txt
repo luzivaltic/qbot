@@ -1,0 +1,127 @@
+ChatGPT là gì? Tất cả những gì bạn cần biết về ChatGPT  | Cohost AI
+ChatGPT là gì? Tất cả những gì bạn cần biết về ChatGPT 
+Yen Tran
+Hiện nay, 
+ đang là một từ khóa gây bão với nhiều lời đồn thổi như “Sự ra đời của 
+ sẽ khiến hàng triệu người có thể bị mất việc”, “
+ có thể thay thế rất nhiều ngành nghề như giáo viên, content creator”,... Vậy 
+ChatGPT là gì
+ và nó hoạt động như thế nào? Liệu những tin đồn về chatGPT là thật hay giả? Hãy cùng 
+Cohost AI
+ tìm hiểu nhé!
+Giới thiệu về ChatGPT
+ được viết tắt từ 
+Generative Pre-training Transformer
+. Đây là một chatbot AI hoạt động dựa trên 
+mô hình GPT - 3.5
+ được phát triển bởi công ty công nghệ 
+Trang chủ của ChatGPT
+ có khả năng 
+tương tác
+ với người dùng thông qua việc trả lời các câu hỏi và hoàn thành các tác vụ 
+liên quan đến ngôn ngữ
+ như viết kịch bản, lời thoại, dịch thuật, tìm kiếm thông tin,... mà không giới hạn về chủ đề.
+Dùng ChatGPT viết kịch bản quay Tiktok
+Người tạo ra “siêu phẩm” 
+ là 
+Sam Altman,
+ người đồng sáng lập và là CEO của 
+ khi chỉ mới 38 tuổi. Ngoài ra, công ty 
+ còn có sự góp vốn của một số nhà đồng sáng lập khác phải kể đến như tỷ phú Elon Musk
+, Microsoft
+, Reid Hoffman, Jessica Livingston, Ilya Sutskever, Peter Thiel,...
+Chân dung Sam Altman
+Có thể nói 
+ ra đời như một bước ngoặt lớn trong ngành công nghệ nói riêng và sự phát triển của nhân loại trên thế giới nói chung.
+Đọc thêm: 
+Tạo tài khoản ChatGPT đơn giản và cách sử dụng hiệu quả nền tảng này
+Chat GPT hoạt động như thế nào?
+ là một chatbot được áp dụng 
+trí tuệ nhân tạo AI
+ với lượng 
+dữ liệu siêu khổng lồ
+. Bằng việc đưa ra một câu hỏi hoặc một câu lệnh (
+prompt
+), bạn sẽ nhận lại kết quả chỉ trong vài giây.
+Trò chuyện cùng ChatGPT
+Bạn vẫn có thể tiếp tục cuộc trò chuyện bằng cách hỏi những câu hỏi liên quan đến chủ đề đang nói đến, 
+ hoàn toàn hiểu và sẽ đưa ra câu trả lời hoặc hoàn thành tác vụ tương ứng. 
+Tiếp tục cuộc trò chuyện còn dang dở với ChatGPT.
+ có rất nhiều tính năng như 
+sáng tạo nội dung
+ (bao gồm viết blog, lên kịch bản, viết mail, làm thơ, viết nhạc,...), sửa code, tính toán,... mà không giới hạn về ngôn ngữ cũng như chủ đề.
+Cùng ChatGPT làm thơ.
+Nếu 
+ ngày càng được cải thiện về khả năng tiếp cận và việc cập nhật kiến thức cũng như xu hướng mới hàng ngày, đây sẽ là một đối thủ “
+đáng gờm
+” với những “ông lớn” trong ngành công nghệ thông tin như 
+Google, Bing,...
+ChatGPT thông minh đến mức độ nào?
+Tốc độ trả lời nhanh và chính xác
+Được xây dựng bởi khối dữ liệu khổng lồ, 
+có thể nói là rất thông minh khi hiểu gần như chính xác câu hỏi của người dùng và đưa ra câu trả lời có độ chính xác cao và đầy đủ thông tin chỉ trong vài giây.
+Giải quyết câu hỏi nhanh và chính xác
+Tính linh hoạt
+ có thể hiểu và đưa ra những câu trả lời với độ chính xác cao nhất ở mọi ngôn ngữ. Tuy nhiên sẽ có một số trường hợp 
+ vẫn chưa hiểu rõ được nghĩa của từ, ngữ cảnh và nền văn hóa của một nước, chỉ cần bạn giải thích rõ thì chatbot có thể tự học và điều chỉnh lại, từ đó sẽ đưa ra những câu trả lời có độ chính xác cao.
+Thay đổi linh hoạt về ngôn ngữ
+Tự học bằng chatGPT
+Ngoài những đặc điểm nêu trên, bạn vẫn có thể tự học thêm các ngôn ngữ và kỹ năng từ 
+. Ví dụ như bạn muốn học TOEIC và cần người giải thích đáp án, 
+ hoàn toàn có thể giúp bạn được việc này. Ngoài ra, 
+ còn có thể giúp bạn học thêm kỹ năng như 
+SEO, DA,
+… hoặc giúp bạn lên các 
+chiến lược kinh doanh
+,…
+Học DA cùng ChatGPT
+3. Những hạn chế của chatGPT
+ là một chatbot AI vô cùng thông minh, tuy nhiên khi trải nghiệm sử dụng mới thấy 
+ cũng còn nhiều hạn chế.
+Không thể hiện cảm xúc
+Dù có thể trò chuyện với 
+ như đang chuyện trò với một con người thật, nhưng 
+ cũng chỉ là một sản phẩm trí tuệ nhân tạo. Nó sẽ bị hạn chế khả năng hiểu được cảm xúc của người dùng, vì thế khi phản hồi lại, có thể câu trả lời của nó sẽ không phù hợp trong một số trường hợp nhất định.
+Chưa cập nhật xu hướng/kiến thức
+Giống như bất kỳ 
+hệ thống AI 
+nào, 
+ có thể thiếu đi những kiến thức đậm chất văn hóa dân tộc ở mỗi quốc gia có trong dữ liệu mà nó được đào tạo, điều này có thể dẫn đến câu trả lời không chính xác hoặc gây hiểu nhầm.
+ChatGPT phân tích sai nhân vật Chí Phèo
+Hoặc nếu như bạn cần tạo ra những nội dung để bắt kịp với xu hướng hiện tại, bạn cần phải thêm thông tin cho nó, từ đó 
+ mới có thể đưa ra câu trả lời chính xác cho bạn.
+Đưa câu trả lời sai vì thiếu ngữ cảnh
+Bài ca tung hô
+ ChatGPT
+ là thế, tuy nhiên nó cũng còn khá nhiều hạn chế khi sử dụng, đặc biệt là khi sử dụng 
+ bằng ngôn ngữ Tiếng Việt - ngôn ngữ mang nhiều sắc nghĩa và cảm xúc.
+ không có khả năng duy trì ngữ cảnh từ cuộc trò chuyện này sang cuộc trò chuyện tiếp theo, khiến việc có một cuộc trò chuyện mạch lạc theo thời gian trở nên khó khăn.
+Các lĩnh vực áp dụng chat GPT
+Có thể nói hiện nay có rất nhiều ngành nghề có thể áp dụng 
+ một cách linh hoạt, tiết kiệm thời gian, điển hình như các lĩnh vực: chăm sóc khách hàng, giáo dục, chăm sóc sức khỏe, thương mại điện tử, sáng tạo nội dung,...
+Chăm sóc khách hàng
+Điển hình như việc chăm sóc khách hàng, 
+ có thể hỗ trợ khách hàng 24/7 một cách nhanh chóng. Với vốn dữ liệu khổng lồ và dựa trên việc tự học và điều chỉnh qua các câu hỏi, 
+chatbot AI 
+này có thể giải quyết vấn đề của khách hàng bất cứ thời gian nào.
+Chăm sóc khách hàng cùng ChatGPT
+Sáng tạo nội dung
+Ngoài ngành dịch vụ thì 
+ vẫn có thể áp dụng trong việc sáng tạo nội dung. Chỉ cần người dùng gõ yêu cầu của mình như “Lên kịch bản video Tiktok” hoặc “Viết một bài blog theo mô hình AIDA”, 
+ có thể giúp bạn hoàn thành điều đó chỉ trong vài giây.
+Sáng tạo nội dung cùng ChatGPT
+Giáo dục
+Về lĩnh vực giáo dục, 
+ hoàn toàn có thể giúp cả giáo viên và học sinh trong việc học thuật. Đối với giáo viên, 
+ có thể đưa ra những câu hỏi kiểm tra hoặc những giáo án dựa trên yêu cầu của người dùng. Còn với học sinh, các bạn có thể nhờ 
+ hỗ trợ trong việc giải đáp thắc mắc các đáp án hoặc tự học thêm những kiến thức mới.
+Soạn câu hỏi kiểm tra cùng ChatGPT
+ là một 
+chatbot AI
+ đại diện cho tương lai của sự phát triển 
+AI
+ trong khối ngành công nghệ thông tin. Với khả năng cung cấp câu trả lời với độ chính xác cao và nhanh chóng cho nhiều loại câu hỏi,
+ sẽ là một bước đệm trong công cuộc cách mạng hóa với công nghệ. Cho dù bạn đang làm việc ở bất kỳ vị trí nào, chỉ cần bạn đủ sáng tạo và không ngừng học hỏi, 
+ sẽ là một công cụ đắt lực giúp bạn kiếm thêm nguồn thu nhập chứ không phải cắt đi nguồn thu nhập của bạn!
+Work hard in silence
+Let your success be your noise!
